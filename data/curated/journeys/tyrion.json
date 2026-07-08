@@ -1,0 +1,22 @@
+{
+  "characterId": "tyrion",
+  "name": "Tyrion Lannister",
+  "color": "#a5762c",
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "Drinks and knows things, north edition" },
+    { "locationId": "castle-black", "season": 1, "episode": 3, "via": [[15.6, 29.2], [17.6, 32.4]], "note": "Pisses off the edge of the world" },
+    { "locationId": "crossroads-inn", "season": 1, "episode": 4, "via": [[16.5, 28.0], [15.7, 20.0]], "note": "Seized by Catelyn Stark" },
+    { "locationId": "eyrie", "season": 1, "episode": 5, "via": [[18.6, 12.6]], "note": "The sky cells — and a trial by combat" },
+    { "coords": [15.5, 10.5], "season": 1, "episode": 8, "via": [[18.2, 11.4]], "note": "Rides to war with hill tribes at his back" },
+    { "locationId": "kings-landing", "season": 2, "episode": 1, "via": [[17.6, 7.0]], "note": "Hand of the King — saves the city at the Blackwater" },
+    { "locationId": "pentos", "season": 5, "episode": 1, "via": [[21.3, 5.0], [26.4, 4.6], [29.8, 4.5]], "note": "Across the sea in a crate, after two crossbow bolts" },
+    { "locationId": "volantis", "season": 5, "episode": 3, "via": [[35.8, -1.8], [41.2, -6.4]], "note": "The long road east, drinking through it" },
+    { "locationId": "valyria", "season": 5, "episode": 5, "via": [[44.8, -12.6]], "note": "Kidnapped by Jorah — through the smoking ruins" },
+    { "locationId": "meereen", "season": 5, "episode": 8, "via": [[54.0, -14.5], [63.0, -12.0]], "note": "'I am the gift' — counsel to the dragon queen" },
+    { "locationId": "dragonstone", "season": 7, "episode": 1, "via": [[62.0, -16.5], [45.0, -18.0], [32.0, -9.0], [26.4, -3.0], [24.9, 3.0]], "note": "Hand of the Queen, sailing home" },
+    { "coords": [13.5, 1.6], "season": 7, "episode": 4, "via": [[19.2, 2.8]], "note": "Watches the Field of Fire from the ridge" },
+    { "locationId": "kings-landing", "season": 7, "episode": 7, "via": [[17.0, 2.8]], "note": "Brokers the Dragonpit parley" },
+    { "locationId": "winterfell", "season": 8, "episode": 1, "via": [[19.5, 12.0], [16.9, 21.4]], "note": "Survives the Long Night in the crypts" },
+    { "locationId": "kings-landing", "season": 8, "episode": 5, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Watches the city burn — and throws away the pin" }
+  ]
+}

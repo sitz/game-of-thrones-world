@@ -1,0 +1,178 @@
+[
+  {
+    "id": 132,
+    "slug": "eyrie",
+    "name": "The Eyrie",
+    "aliases": ["Gates of the Moon"],
+    "region": "The Vale",
+    "allegiance": "House Arryn",
+    "description": "Seat of House Arryn, perched high atop the Giant's Lance and long thought impregnable. Tyrion was locked in its sky cells and won his freedom when Bronn fought for him, and Littlefinger later shoved Lysa Arryn to her death through the Moon Door.",
+    "firstAppearance": { "season": 1, "episode": 5 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 131,
+    "slug": "bloody-gate",
+    "name": "The Bloody Gate",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Arryn",
+    "description": "Fortified pass guarding the only road into the Vale, where countless armies have broken themselves against the mountains. Arya and the Hound were turned away here after learning of Lysa Arryn's death — prompting Arya's infamous laughing fit.",
+    "firstAppearance": { "season": 4, "episode": 8 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 138,
+    "slug": "runestone",
+    "name": "Runestone",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Royce",
+    "description": "Ancient seat of House Royce, one of the oldest lines in the Vale. Littlefinger left Robin Arryn here to be fostered by Lord Yohn Royce, and later returned to pry the boy — and the knights of the Vale — loose to march north for Sansa.",
+    "firstAppearance": { "season": 5, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 139,
+    "slug": "gulltown",
+    "name": "Gulltown",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Grafton",
+    "description": "The Vale's chief port and only true city, held by House Grafton for the Arryns. Its harbor links the mountain kingdom to the trade of the Narrow Sea.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 133,
+    "slug": "strongsong",
+    "name": "Strongsong",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Belmore",
+    "description": "Mountain seat of House Belmore, bannermen of House Arryn in the high valleys of the Vale.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 134,
+    "slug": "hearts-home",
+    "name": "Heart's Home",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Corbray",
+    "description": "Seat of House Corbray, an old knightly line of the Vale sworn to the Arryns and famed for the Valyrian steel sword Lady Forlorn.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 135,
+    "slug": "redfort",
+    "name": "Redfort",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Redfort",
+    "description": "Red-stone castle of House Redfort, one of the most respected of the Vale houses sworn to the Eyrie.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 136,
+    "slug": "ironoaks",
+    "name": "Ironoaks",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Waynwood",
+    "description": "Seat of House Waynwood, proud Arryn bannermen. Lady Anya Waynwood was among the Vale lords who questioned Littlefinger over Lysa Arryn's death at the Eyrie.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 137,
+    "slug": "old-anchor",
+    "name": "Old Anchor",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Melcolm",
+    "description": "Coastal keep of House Melcolm on the eastern shore of the Vale, sworn to House Arryn.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 140,
+    "slug": "longbow-hall",
+    "name": "Longbow Hall",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Hunter",
+    "description": "Seat of House Hunter, Vale bannermen of House Arryn whose sigil of five arrows honors the family's famed archers.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 141,
+    "slug": "snakewood",
+    "name": "Snakewood",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Lynderly",
+    "description": "Forest seat of House Lynderly in the northern Vale, a minor house sworn to the Eyrie.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 143,
+    "slug": "coldwater",
+    "name": "Coldwater",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Coldwater",
+    "description": "Seat of House Coldwater, a lesser house of the northern Vale sworn to House Royce of Runestone.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 142,
+    "slug": "baelish-keep",
+    "name": "Baelish Keep",
+    "aliases": ["The Fingers"],
+    "region": "The Vale",
+    "allegiance": "House Baelish",
+    "description": "A small flint tower on the smallest of the Fingers, the humble ancestral holding where Petyr Baelish was born. Its meagerness fueled Littlefinger's lifelong hunger to climb far above his station.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 149,
+    "slug": "sisterton",
+    "name": "Sisterton",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Borrell",
+    "description": "Port town on Sweetsister, largest of the Three Sisters in the Bite. A notorious haunt of smugglers, ruled by House Borrell under Arryn overlordship.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 39,
+    "slug": "saltpans",
+    "name": "Saltpans",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Cox",
+    "description": "Small port town on the Bay of Crabs at the mouth of the Trident, known for its salt works and modest harbor.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 41,
+    "slug": "wickenden",
+    "name": "Wickenden",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Waxley",
+    "description": "Castle of House Waxley on the southern shore of the Bay of Crabs, famed for its scented beeswax candles.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 44,
+    "slug": "dyre-den",
+    "name": "Dyre Den",
+    "aliases": [],
+    "region": "The Vale",
+    "allegiance": "House Brune",
+    "description": "A brooding castle of three crooked towers on the cliffs of Crackclaw Point, held by House Brune.",
+    "showCanon": "mentioned"
+  }
+]

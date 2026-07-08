@@ -1,0 +1,22 @@
+{
+  "characterId": "theon",
+  "name": "Theon Greyjoy",
+  "color": "#6d5f4c",
+  "dies": { "season": 8, "episode": 3 },
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "The Stark ward who wanted to be a Stark" },
+    { "locationId": "riverrun", "season": 1, "episode": 10, "via": [[14.2, 18.0]], "note": "Rides to war at Robb's side" },
+    { "locationId": "pyke", "season": 2, "episode": 2, "via": [[11.6, 12.2], [9.2, 11.2]], "note": "Sent home for ships — chooses his father" },
+    { "locationId": "winterfell", "season": 2, "episode": 6, "via": [[9.8, 17.0], [11.2, 24.0], [13.4, 25.6]], "note": "Takes his foster home with twenty men" },
+    { "locationId": "dreadfort", "season": 3, "episode": 10, "via": [[15.8, 27.2]], "note": "Flayed into 'Reek'" },
+    { "locationId": "winterfell", "season": 5, "episode": 3, "note": "Ramsay's creature, back in the old halls" },
+    { "coords": [14.1, 27.1], "season": 6, "episode": 1, "note": "Jumps the walls with Sansa" },
+    { "locationId": "pyke", "season": 6, "episode": 5, "via": [[12.4, 26.0], [8.6, 15.0]], "note": "Backs Yara at the Kingsmoot — loses to Euron" },
+    { "locationId": "volantis", "season": 6, "episode": 7, "via": [[5.6, 6.0], [9.0, -7.0], [24.0, -11.5], [36.0, -11.0]], "note": "Steals the fleet and runs east" },
+    { "locationId": "meereen", "season": 6, "episode": 9, "via": [[50.0, -16.0], [63.0, -12.0]], "note": "Offers the Iron Fleet to Daenerys" },
+    { "coords": [24.5, -2.0], "season": 7, "episode": 2, "via": [[45.0, -18.0], [30.0, -8.0]], "note": "Euron's ambush — Theon jumps" },
+    { "locationId": "dragonstone", "season": 7, "episode": 3, "via": [[24.4, 2.0]], "note": "Fished from the sea; later sails to free Yara" },
+    { "locationId": "winterfell", "season": 8, "episode": 2, "via": [[23.0, 10.0], [19.6, 16.5], [16.93, 21.37]], "note": "Comes home to fight for the Starks" },
+    { "locationId": "winterfell", "season": 8, "episode": 3, "note": "Dies charging the Night King — a Greyjoy and a Stark" }
+  ]
+}

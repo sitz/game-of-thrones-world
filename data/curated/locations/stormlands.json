@@ -1,0 +1,157 @@
+[
+  {
+    "id": 52,
+    "slug": "storms-end",
+    "name": "Storm's End",
+    "region": "The Stormlands",
+    "allegiance": "House Baratheon",
+    "description": "Ancient storm-proof seat of House Baratheon, raised by legend against the wrath of the gods. Renly and Stannis parleyed beneath its walls, Melisandre birthed the shadow in the caves below, and Gendry was legitimized its lord by King Bran's council era.",
+    "firstAppearance": { "season": 2, "episode": 4 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 197,
+    "slug": "evenfall-hall",
+    "name": "Evenfall Hall",
+    "region": "The Stormlands",
+    "allegiance": "House Tarth",
+    "description": "Seat of House Tarth on the Sapphire Isle — Brienne's home, which she left behind for Renly's colors and never truly returned to.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 61,
+    "slug": "summerhall",
+    "name": "Summerhall",
+    "region": "The Stormlands",
+    "description": "Burned summer palace of the Targaryens, where a king died trying to wake dragons from eggs. A ghost story by the show's era, known from Targaryen history.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 62,
+    "slug": "blackhaven",
+    "name": "Blackhaven",
+    "region": "The Stormlands",
+    "allegiance": "House Dondarrion",
+    "description": "Seat of House Dondarrion in the Dornish Marches — Beric's home, which he left on Ned Stark's errand and never saw again.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 69,
+    "slug": "nightsong",
+    "name": "Nightsong",
+    "region": "The Stormlands",
+    "allegiance": "House Caron",
+    "description": "March castle of House Caron guarding the passes into Dorne. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 49,
+    "slug": "haystack-hall",
+    "name": "Haystack Hall",
+    "region": "The Stormlands",
+    "allegiance": "House Errol",
+    "description": "Seat of House Errol in the stormland interior. Book background; never seen in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 50,
+    "slug": "bronzegate",
+    "name": "Bronzegate",
+    "region": "The Stormlands",
+    "allegiance": "House Buckler",
+    "description": "Castle of House Buckler on the road between King's Landing and Storm's End. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 51,
+    "slug": "felwood",
+    "name": "Felwood",
+    "region": "The Stormlands",
+    "allegiance": "House Fell",
+    "description": "Keep of House Fell in the rainwood's northern reaches. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 53,
+    "slug": "griffins-roost",
+    "name": "Griffin's Roost",
+    "region": "The Stormlands",
+    "allegiance": "House Connington",
+    "description": "Cliff-perched seat of the exiled House Connington on Cape Wrath. Central to a book plotline the show cut entirely.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 54,
+    "slug": "rain-house",
+    "name": "Rain House",
+    "region": "The Stormlands",
+    "allegiance": "House Wylde",
+    "description": "Storm-lashed castle of House Wylde on the rainwood coast. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 55,
+    "slug": "greenstone",
+    "name": "Greenstone",
+    "region": "The Stormlands",
+    "allegiance": "House Estermont",
+    "description": "Seat of House Estermont on its island off the stormland coast — kin to Robert Baratheon's mother. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 56,
+    "slug": "weeping-tower",
+    "name": "Weeping Tower",
+    "region": "The Stormlands",
+    "description": "Lonely watchtower of the stormland coast. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 57,
+    "slug": "mistwood",
+    "name": "Mistwood",
+    "region": "The Stormlands",
+    "allegiance": "House Mertyns",
+    "description": "Castle of House Mertyns deep in the rainwood. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 58,
+    "slug": "stonehelm",
+    "name": "Stonehelm",
+    "region": "The Stormlands",
+    "allegiance": "House Swann",
+    "description": "Seat of House Swann above the Slayne in the marches. Balon Swann serves in the books' Kingsguard; the show leaves the family behind.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 59,
+    "slug": "crows-nest",
+    "name": "Crow's Nest",
+    "region": "The Stormlands",
+    "allegiance": "House Morrigen",
+    "description": "Keep of House Morrigen in the stormland hills. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 60,
+    "slug": "grandview",
+    "name": "Grandview",
+    "region": "The Stormlands",
+    "allegiance": "House Grandison",
+    "description": "Holdfast town of House Grandison. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 198,
+    "slug": "parchments",
+    "name": "Parchments",
+    "region": "The Stormlands",
+    "allegiance": "House Penrose",
+    "description": "Seat of House Penrose on the stormland coast. Book background only.",
+    "showCanon": "mentioned"
+  }
+]

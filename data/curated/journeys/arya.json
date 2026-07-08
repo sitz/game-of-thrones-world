@@ -1,0 +1,22 @@
+{
+  "characterId": "arya",
+  "name": "Arya Stark",
+  "color": "#556b2f",
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "A girl who wants a sword, not a sewing needle" },
+    { "locationId": "crossroads-inn", "season": 1, "episode": 2, "via": [[15.6, 24.0], [15.9, 17.0]], "note": "South with the royal party — Lady dies here" },
+    { "locationId": "kings-landing", "season": 1, "episode": 3, "via": [[17.8, 8.2]], "note": "Dancing lessons with Syrio Forel" },
+    { "coords": [17.2, 7.5], "season": 2, "episode": 1, "note": "Smuggled out as a Night's Watch recruit" },
+    { "locationId": "harrenhal", "season": 2, "episode": 4, "via": [[16.9, 7.6]], "note": "Cupbearer to Tywin Lannister" },
+    { "coords": [16.2, 8.4], "season": 3, "episode": 2, "note": "Taken in by the Brotherhood Without Banners" },
+    { "locationId": "twins", "season": 3, "episode": 9, "via": [[14.9, 11.5]], "note": "Arrives with the Hound — into the Red Wedding" },
+    { "locationId": "bloody-gate", "season": 4, "episode": 8, "via": [[16.0, 12.6], [18.8, 12.0]], "note": "The Hound tries to ransom her to the Vale" },
+    { "coords": [20.4, 11.6], "season": 4, "episode": 10, "note": "Leaves the Hound broken below the rocks" },
+    { "locationId": "saltpans", "season": 4, "episode": 10, "via": [[18.9, 11.0]], "note": "Shows a captain the iron coin" },
+    { "locationId": "braavos", "season": 5, "episode": 2, "via": [[24.0, 12.5], [28.4, 14.8]], "note": "The House of Black and White" },
+    { "locationId": "twins", "season": 6, "episode": 10, "via": [[28.4, 14.8], [22.0, 14.0], [15.5, 14.0]], "note": "Home with a bag of faces — Walder Frey's last supper" },
+    { "locationId": "winterfell", "season": 7, "episode": 4, "via": [[14.4, 19.5]], "note": "The list gets shorter" },
+    { "locationId": "kings-landing", "season": 8, "episode": 5, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Rides for green eyes — and walks out of the ash" },
+    { "coords": [1.0, 3.0], "season": 8, "episode": 6, "via": [[18.0, 2.0], [10.0, 0.5]], "note": "Sails west of Westeros, where all the maps stop" }
+  ]
+}

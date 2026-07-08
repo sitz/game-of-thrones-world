@@ -1,0 +1,197 @@
+[
+  {
+    "id": 72,
+    "slug": "highgarden",
+    "name": "Highgarden",
+    "region": "The Reach",
+    "allegiance": "House Tyrell",
+    "description": "Rose-crowned seat of House Tyrell above the Mander, richest of the great castles. Jaime took it without a siege in Season 7 — and Olenna Tyrell drank his poison and told him it was she who killed Joffrey.",
+    "firstAppearance": { "season": 7, "episode": 3 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 77,
+    "slug": "oldtown",
+    "name": "Oldtown",
+    "aliases": ["The Citadel", "Hightower"],
+    "region": "The Reach",
+    "allegiance": "House Hightower",
+    "description": "Oldest and second-greatest city of Westeros, lit by the Hightower's beacon. Sam studied — and stole from — the Citadel's great library here, curing Jorah's grayscale and finding the truth of Jon's birth.",
+    "firstAppearance": { "season": 6, "episode": 10 },
+    "showCanon": "shown",
+    "rankOverride": 5
+  },
+  {
+    "id": 73,
+    "slug": "horn-hill",
+    "name": "Horn Hill",
+    "region": "The Reach",
+    "allegiance": "House Tarly",
+    "description": "Seat of House Tarly in the foothills of the Red Mountains. Sam brought Gilly home to his father's contempt in Season 6 — and left with the family's Valyrian greatsword, Heartsbane.",
+    "firstAppearance": { "season": 6, "episode": 6 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 7,
+    "slug": "tumbleton",
+    "name": "Tumbleton",
+    "region": "The Reach",
+    "allegiance": "House Footly",
+    "description": "Market town on the Mander, on the road between the Reach and King's Landing. Book background in the show's era.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 102,
+    "slug": "bitterbridge",
+    "name": "Bitterbridge",
+    "region": "The Reach",
+    "allegiance": "House Caswell",
+    "description": "Castle at the old stone bridge over the Mander where, in the books, Renly's great host camped. The show's Renly camps nearer the coast.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 70,
+    "slug": "ashford",
+    "name": "Ashford",
+    "region": "The Reach",
+    "allegiance": "House Ashford",
+    "description": "Castle and town on the Cockleswhent, site of a famous tourney of Dunk and Egg legend. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 71,
+    "slug": "cider-hall",
+    "name": "Cider Hall",
+    "region": "The Reach",
+    "allegiance": "House Fossoway",
+    "description": "Apple-sigiled seat of House Fossoway at the meeting of the Mander and the Cockleswhent. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 74,
+    "slug": "brightwater-keep",
+    "name": "Brightwater Keep",
+    "region": "The Reach",
+    "allegiance": "House Florent",
+    "description": "Seat of House Florent, kin by marriage to Stannis Baratheon — Queen Selyse's family castle. Named in the books; background in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 63,
+    "slug": "fawnton",
+    "name": "Fawnton",
+    "region": "The Reach",
+    "allegiance": "House Cafferen",
+    "description": "Town of House Cafferen in the eastern Reach. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 64,
+    "slug": "grassy-vale",
+    "name": "Grassy Vale",
+    "region": "The Reach",
+    "allegiance": "House Meadows",
+    "description": "Castle of House Meadows on the upper Mander. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 75,
+    "slug": "bandallon",
+    "name": "Bandallon",
+    "region": "The Reach",
+    "allegiance": "House Blackbar",
+    "description": "Seat of House Blackbar on the western shore of the Reach. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 76,
+    "slug": "honeyholt",
+    "name": "Honeyholt",
+    "region": "The Reach",
+    "allegiance": "House Beesbury",
+    "description": "Bee-and-honey seat of House Beesbury near Oldtown. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 78,
+    "slug": "blackcrown",
+    "name": "Blackcrown",
+    "region": "The Reach",
+    "allegiance": "House Bulwer",
+    "description": "Castle of House Bulwer southwest of Oldtown. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 79,
+    "slug": "three-towers",
+    "name": "Three Towers",
+    "region": "The Reach",
+    "allegiance": "House Costayne",
+    "description": "Seat of House Costayne on the Whispering Sound south of Oldtown. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 81,
+    "slug": "sunflower-hall",
+    "name": "Sunflower Hall",
+    "region": "The Reach",
+    "allegiance": "House Cuy",
+    "description": "Seat of House Cuy on the coast east of Oldtown. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 101,
+    "slug": "longtable",
+    "name": "Longtable",
+    "region": "The Reach",
+    "allegiance": "House Merryweather",
+    "description": "Castle of House Merryweather on the Mander. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 103,
+    "slug": "goldengrove",
+    "name": "Goldengrove",
+    "region": "The Reach",
+    "allegiance": "House Rowan",
+    "description": "Seat of House Rowan in the northern Reach. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 104,
+    "slug": "red-lake",
+    "name": "Red Lake",
+    "region": "The Reach",
+    "allegiance": "House Crane",
+    "description": "Castle of House Crane on the shores of Red Lake in the northwestern Reach. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 105,
+    "slug": "old-oak",
+    "name": "Old Oak",
+    "region": "The Reach",
+    "allegiance": "House Oakheart",
+    "description": "Seat of House Oakheart on the ocean road between the Reach and the Westerlands. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 110,
+    "slug": "tarbeck-hall",
+    "name": "Tarbeck Hall",
+    "region": "The Westerlands",
+    "description": "Ruin of House Tarbeck, destroyed alongside the Reynes of Castamere when Tywin Lannister ended both rebel houses. Its fall echoes in the same grim song.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 247,
+    "slug": "lord-hewetts-town",
+    "name": "Lord Hewett's Town",
+    "region": "The Reach",
+    "allegiance": "House Hewett",
+    "description": "Harbor town of the Shield Islands guarding the mouth of the Mander. Book background only.",
+    "showCanon": "mentioned"
+  }
+]

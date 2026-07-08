@@ -1,0 +1,196 @@
+[
+  {
+    "id": 106,
+    "slug": "crakehall",
+    "name": "Crakehall",
+    "region": "The Westerlands",
+    "allegiance": "House Crakehall",
+    "description": "Seat of House Crakehall, longtime Lannister bannermen, in the forested south of the westerlands along the ocean road.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 107,
+    "slug": "cornfield",
+    "name": "Cornfield",
+    "region": "The Westerlands",
+    "allegiance": "House Swyft",
+    "description": "Castle of House Swyft, bannermen sworn to Casterly Rock, in the southern westerlands.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 108,
+    "slug": "silverhill",
+    "name": "Silverhill",
+    "region": "The Westerlands",
+    "allegiance": "House Serrett",
+    "description": "Seat of House Serrett, Lannister bannermen, in the hills of the southeastern westerlands.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 109,
+    "slug": "clegane-hall",
+    "name": "Clegane Hall",
+    "aliases": ["Clegane's Keep"],
+    "region": "The Westerlands",
+    "allegiance": "House Clegane",
+    "description": "Modest keep of House Clegane, the Lannister retainers who produced Gregor 'the Mountain' and Sandor 'the Hound.' It was here, as Littlefinger tells Sansa, that young Gregor held his brother's face in the fire for playing with his toy, leaving the Hound scarred for life.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 111,
+    "slug": "lannisport",
+    "name": "Lannisport",
+    "region": "The Westerlands",
+    "allegiance": "House Lannister",
+    "description": "Great port city on the Sunset Sea in the shadow of Casterly Rock, home to the Lannister fleet and the merchant wealth of the west. Often referenced in the show but never depicted on screen.",
+    "showCanon": "mentioned",
+    "rankOverride": 4
+  },
+  {
+    "id": 112,
+    "slug": "feastfires",
+    "name": "Feastfires",
+    "region": "The Westerlands",
+    "allegiance": "House Prester",
+    "description": "Castle of House Prester on a headland of the western coast, overlooking the Sunset Sea.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 113,
+    "slug": "kayce",
+    "name": "Kayce",
+    "region": "The Westerlands",
+    "description": "Small port town on the westerlands coast near Feastfires, north of Lannisport.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 114,
+    "slug": "oxcross",
+    "name": "Oxcross",
+    "region": "The Westerlands",
+    "description": "Site of Robb Stark's surprise night attack on a Lannister host camped deep inside the westerlands. The battle's grisly aftermath opens 'Garden of Bones' (S2E4), where Robb first meets Talisa tending the wounded.",
+    "firstAppearance": { "season": 2, "episode": 4 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 115,
+    "slug": "sarsfield",
+    "name": "Sarsfield",
+    "region": "The Westerlands",
+    "allegiance": "House Sarsfield",
+    "description": "Castle of House Sarsfield, Lannister bannermen, on the river road north of Lannisport.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 116,
+    "slug": "deep-den",
+    "name": "Deep Den",
+    "region": "The Westerlands",
+    "allegiance": "House Lydden",
+    "description": "Castle of House Lydden astride the goldroad, in the mountains between the westerlands and the crownlands.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 117,
+    "slug": "hornvale",
+    "name": "Hornvale",
+    "region": "The Westerlands",
+    "allegiance": "House Brax",
+    "description": "Seat of House Brax in the mountainous east of the westerlands, near the riverlands border.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 118,
+    "slug": "golden-tooth",
+    "name": "Golden Tooth",
+    "region": "The Westerlands",
+    "allegiance": "House Lefford",
+    "description": "Castle of House Lefford guarding the mountain pass between the westerlands and the riverlands — the gateway through which Lannister armies march east to war.",
+    "showCanon": "mentioned",
+    "type": "Castle"
+  },
+  {
+    "id": 119,
+    "slug": "wayfarers-rest",
+    "name": "Wayfarer's Rest",
+    "region": "The Westerlands",
+    "allegiance": "House Vance",
+    "description": "Castle of House Vance near the Golden Tooth, on the contested border between the westerlands and the riverlands.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 120,
+    "slug": "castamere",
+    "name": "Castamere",
+    "region": "The Westerlands",
+    "description": "Ruined seat of House Reyne, exterminated root and branch by a young Tywin Lannister when they rose against his father. The massacre is immortalized in 'The Rains of Castamere,' the Lannister anthem played moments before the Red Wedding.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 121,
+    "slug": "pendric-hills",
+    "name": "Pendric Hills",
+    "region": "The Westerlands",
+    "description": "Range of hills in the northern westerlands, part of the gold-rich uplands that fed the Lannister mines.",
+    "showCanon": "mentioned",
+    "type": "Landmark"
+  },
+  {
+    "id": 122,
+    "slug": "crag",
+    "name": "The Crag",
+    "region": "The Westerlands",
+    "allegiance": "House Westerling",
+    "description": "Half-ruined castle of House Westerling on the northern coast of the westerlands. In the books Robb Stark is wounded and wed here, a storyline the show replaced with Talisa of Volantis.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 123,
+    "slug": "banefort",
+    "name": "Banefort",
+    "region": "The Westerlands",
+    "allegiance": "House Banefort",
+    "description": "Northernmost castle of the westerlands, seat of House Banefort, facing the ironborn across Ironman's Bay.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 124,
+    "slug": "ashemark",
+    "name": "Ashemark",
+    "region": "The Westerlands",
+    "allegiance": "House Marbrand",
+    "description": "Seat of House Marbrand, prominent Lannister bannermen, in the hills of the northern westerlands.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 125,
+    "slug": "nunns-deep",
+    "name": "Nunn's Deep",
+    "region": "The Westerlands",
+    "description": "One of the gold mines that built the Lannister fortune. As Tywin confesses in season 4, the westerlands mines ran dry three years before the War of the Five Kings.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 240,
+    "slug": "faircastle",
+    "name": "Faircastle",
+    "region": "The Westerlands",
+    "allegiance": "House Farman",
+    "description": "Castle of House Farman on Fair Isle, off the western coast of the westerlands in the Sunset Sea.",
+    "showCanon": "mentioned"
+  },
+  {
+    "slug": "casterly-rock",
+    "name": "Casterly Rock",
+    "aliases": ["The Rock"],
+    "region": "The Westerlands",
+    "allegiance": "House Lannister",
+    "description": "Ancestral stronghold of House Lannister, carved into a colossal rock above the Sunset Sea atop the gold mines that made the family the richest in Westeros. Grey Worm and the Unsullied stormed it in 'The Queen's Justice' (S7E3) through the sewer passage Tyrion once built, only to find Jaime had left a token garrison and marched the real Lannister army on Highgarden.",
+    "firstAppearance": { "season": 7, "episode": 3 },
+    "showCanon": "shown",
+    "rankOverride": 5,
+    "type": "Castle",
+    "coords": [7.28, 5.52]
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "id": 159,
+    "slug": "winterfell",
+    "name": "Winterfell",
+    "aliases": ["Godswood", "Crypts of Winterfell"],
+    "region": "The North",
+    "allegiance": "House Stark",
+    "description": "Ancient seat of House Stark and capital of the North, built over hot springs against the winter cold. Burned by Theon's ironborn, seized by the Boltons, retaken by Jon and Sansa — and the field of the Long Night, where the Night King shattered at Arya's hand.",
+    "firstAppearance": { "season": 1, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 6
+  },
+  {
+    "id": 166,
+    "slug": "castle-black",
+    "name": "Castle Black",
+    "aliases": ["The Wall"],
+    "region": "The North",
+    "allegiance": "The Night's Watch",
+    "description": "Principal stronghold of the Night's Watch at the foot of the Wall. Jon Snow rose from steward to Lord Commander here — was murdered and resurrected within its walls — and rode out its gate into the true North in the series' final shot.",
+    "firstAppearance": { "season": 1, "episode": 2 },
+    "showCanon": "shown",
+    "rankOverride": 5
+  },
+  {
+    "id": 151,
+    "slug": "white-harbor",
+    "name": "White Harbor",
+    "region": "The North",
+    "allegiance": "House Manderly",
+    "description": "The North's only city and its main port, ruled by House Manderly, bannermen of the Starks. Jon and Daenerys' armies landed here on the march to Winterfell.",
+    "showCanon": "mentioned",
+    "rankOverride": 4
+  },
+  {
+    "id": 148,
+    "slug": "moat-cailin",
+    "name": "Moat Cailin",
+    "region": "The North",
+    "allegiance": "House Stark",
+    "description": "Ruined fortress guarding the causeway through the Neck — the choke point between North and South. Held by ironborn until Ramsay Bolton took it back through Theon's surrender.",
+    "firstAppearance": { "season": 4, "episode": 8 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 156,
+    "slug": "dreadfort",
+    "name": "The Dreadfort",
+    "region": "The North",
+    "allegiance": "House Bolton",
+    "description": "Grim seat of House Bolton, whose banners carry the flayed man for good reason. Theon Greyjoy was unmade into Reek in its dungeons.",
+    "firstAppearance": { "season": 3, "episode": 2 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "slug": "bear-island",
+    "name": "Bear Island",
+    "region": "The North",
+    "allegiance": "House Mormont",
+    "description": "Forested island in the Bay of Ice, seat of House Mormont. Ten-year-old Lady Lyanna Mormont pledged its sixty-two fighting men to Jon Snow — and died killing a giant at Winterfell.",
+    "firstAppearance": { "season": 6, "episode": 7 },
+    "showCanon": "shown",
+    "type": "Castle",
+    "coords": [10.11533, 30.26591],
+    "rankOverride": 3
+  },
+  {
+    "id": 163,
+    "slug": "last-hearth",
+    "name": "Last Hearth",
+    "region": "The North",
+    "allegiance": "House Umber",
+    "description": "Seat of House Umber, last castle before the Gift and the Wall. The dead reached it first in Season 8 — little Ned Umber was left pinned in the Night King's spiral.",
+    "firstAppearance": { "season": 8, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 164,
+    "slug": "karhold",
+    "name": "Karhold",
+    "region": "The North",
+    "allegiance": "House Karstark",
+    "description": "Seat of House Karstark, Stark kin who broke with Robb over Lord Rickard's execution and fought for the Boltons — until Alys Karstark knelt to Jon.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 162,
+    "slug": "deepwood-motte",
+    "name": "Deepwood Motte",
+    "region": "The North",
+    "allegiance": "House Glover",
+    "description": "Wooden motte-and-bailey of House Glover in the wolfswood, seized by Yara's ironborn in the books; the Glovers' wavering loyalty shapes Jon's Season 6 campaign.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 232,
+    "slug": "torrhens-square",
+    "name": "Torrhen's Square",
+    "region": "The North",
+    "allegiance": "House Tallhart",
+    "description": "Square keep of House Tallhart southwest of Winterfell. Theon's feint against it drew Winterfell's garrison away in Season 2.",
+    "firstAppearance": { "season": 2, "episode": 6 },
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 231,
+    "slug": "barrowton",
+    "name": "Barrowton",
+    "region": "The North",
+    "allegiance": "House Dustin",
+    "description": "Town built around the great barrow of the First Kings, seat of House Dustin. Book background in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 147,
+    "slug": "greywater-watch",
+    "name": "Greywater Watch",
+    "region": "The North",
+    "allegiance": "House Reed",
+    "description": "Floating castle of the crannogmen, moving forever through the swamps of the Neck. Home of Howland Reed — the only living witness to the Tower of Joy — and his children Meera and Jojen.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 154,
+    "slug": "hornwood",
+    "name": "Hornwood",
+    "region": "The North",
+    "allegiance": "House Hornwood",
+    "description": "Seat of House Hornwood between the Dreadfort and Winterfell, swallowed into Bolton hands in the wars. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 157,
+    "slug": "cerwyn",
+    "name": "Cerwyn",
+    "region": "The North",
+    "allegiance": "House Cerwyn",
+    "description": "Castle of House Cerwyn a half-day's ride from Winterfell. Ramsay flayed Lord Cerwyn for refusing his taxes — as Sansa is grimly told.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 150,
+    "slug": "oldcastle",
+    "name": "Oldcastle",
+    "region": "The North",
+    "allegiance": "House Locke",
+    "description": "Seat of House Locke on the White Knife's mouth. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 152,
+    "slug": "ramsgate",
+    "name": "Ramsgate",
+    "region": "The North",
+    "allegiance": "House Woolfield",
+    "description": "Holdfast east of White Harbor. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 153,
+    "slug": "widows-watch",
+    "name": "Widow's Watch",
+    "region": "The North",
+    "allegiance": "House Flint",
+    "description": "Seat of House Flint of Widow's Watch on the stormy eastern cape. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 230,
+    "slug": "flints-finger",
+    "name": "Flint's Finger",
+    "region": "The North",
+    "allegiance": "House Flint",
+    "description": "Castle of House Flint on the swampy western cape above Cape Kraken. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 165,
+    "slug": "queenscrown",
+    "name": "Queenscrown",
+    "region": "The North",
+    "description": "Abandoned tower in a lake in the Gift, crowned in gold for a visiting queen. Bran hid here as Jon, held by the wildlings below, refused to kill an innocent — and wargs saved them both.",
+    "firstAppearance": { "season": 3, "episode": 9 },
+    "showCanon": "shown",
+    "type": "Landmark",
+    "rankOverride": 2
+  },
+  {
+    "id": 167,
+    "slug": "moles-town",
+    "name": "Mole's Town",
+    "region": "The North",
+    "description": "Village half-buried under the Gift, serving the Wall's less official needs. Ygritte's raiders sacked it in Season 4; Sansa met Littlefinger in its tunnels in Season 6.",
+    "firstAppearance": { "season": 4, "episode": 7 },
+    "showCanon": "shown",
+    "type": "Village",
+    "rankOverride": 2
+  },
+  {
+    "id": 175,
+    "slug": "nightfort",
+    "name": "The Nightfort",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Oldest and most haunted of the Wall's castles, long abandoned. Bran's party crossed beneath the Wall through its hidden Black Gate; Sam and Gilly sheltered in its kitchens.",
+    "firstAppearance": { "season": 3, "episode": 10 },
+    "showCanon": "shown",
+    "type": "Ruin",
+    "rankOverride": 2
+  },
+  {
+    "id": 168,
+    "slug": "shadow-tower",
+    "name": "The Shadow Tower",
+    "region": "The North",
+    "allegiance": "The Night's Watch",
+    "description": "Westernmost manned castle of the Night's Watch, guarding the Gorge. Mentioned as one of the three castles still garrisoned.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 169,
+    "slug": "westwatch-by-the-bridge",
+    "name": "Westwatch-by-the-Bridge",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned Night's Watch castle at the Wall's western end. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 170,
+    "slug": "sentinel-stand",
+    "name": "Sentinel Stand",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall's western reaches. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 171,
+    "slug": "greyguard",
+    "name": "Greyguard",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Crumbling Wall castle — the posting Ser Alliser used to exile Janos Slynt, before Slynt's refusal cost him his head.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 172,
+    "slug": "stonedoor",
+    "name": "Stonedoor",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 173,
+    "slug": "hoarfrost-hill",
+    "name": "Hoarfrost Hill",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 174,
+    "slug": "icemark",
+    "name": "Icemark",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 176,
+    "slug": "deep-lake",
+    "name": "Deep Lake",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Wall castle built to replace the sinister Nightfort. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 177,
+    "slug": "queensgate",
+    "name": "Queensgate",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned Wall castle named for the queen whose crown gilded Queenscrown. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 178,
+    "slug": "oakensheild",
+    "name": "Oakenshield",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall east of Castle Black. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 179,
+    "slug": "woodswatch-by-the-pool",
+    "name": "Woodswatch-by-the-Pool",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 180,
+    "slug": "sable-hall",
+    "name": "Sable Hall",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 181,
+    "slug": "rimegate",
+    "name": "Rimegate",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 182,
+    "slug": "long-barrow",
+    "name": "Long Barrow",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall, built over an old barrow. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 183,
+    "slug": "torches",
+    "name": "The Torches",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 184,
+    "slug": "greenguard",
+    "name": "Greenguard",
+    "region": "The North",
+    "allegiance": "The Night's Watch (abandoned)",
+    "description": "Abandoned castle of the Wall near its eastern end. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 155,
+    "slug": "tower",
+    "name": "Northern Watchtower",
+    "region": "The North",
+    "description": "Lonely watchtower of the northern hills. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 158,
+    "slug": "holdfast-158",
+    "name": "Northern Holdfast",
+    "region": "The North",
+    "description": "Small holdfast of the northern countryside. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 160,
+    "slug": "crofters-village",
+    "name": "Crofters' Village",
+    "region": "The North",
+    "description": "Village by a lake in the wolfswood — in the books, the frozen camp of Stannis's final campaign.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 161,
+    "slug": "tumbledown-tower",
+    "name": "Tumbledown Tower",
+    "region": "The North",
+    "description": "Ruined tower of the wolfswood. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 189,
+    "slug": "fishing-village",
+    "name": "Stony Shore Village",
+    "region": "The North",
+    "description": "Fishing village of the Stony Shore — the coast Theon raided to prove himself ironborn in Season 2.",
+    "showCanon": "mentioned"
+  }
+]

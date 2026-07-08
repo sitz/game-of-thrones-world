@@ -1,0 +1,10 @@
+{
+  "kingdom:Crownsland": { "text": "The Crownlands" },
+  "kingdom:Stormlands": { "text": "The Stormlands" },
+  "kingdom:Riverlands": { "text": "The Riverlands" },
+  "kingdom:New Gift": { "text": "The Gift", "sizeRank": 3 },
+  "kingdom:Bran's Gift": { "hide": true },
+  "kingdom:#3": { "text": "Lands of the Free Folk", "coords": [13.5, 39.5], "sizeRank": 2 },
+  "region:The orange Shore": { "text": "The Orange Shore" },
+  "region:The Vale of Arryn": { "hide": true }
+}

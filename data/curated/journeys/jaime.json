@@ -1,0 +1,21 @@
+{
+  "characterId": "jaime",
+  "name": "Jaime Lannister",
+  "color": "#c26a1e",
+  "dies": { "season": 8, "episode": 5 },
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "The things he does for love" },
+    { "locationId": "kings-landing", "season": 1, "episode": 5, "via": [[15.9, 17.0], [17.8, 8.2]], "note": "Spills Stark blood in the streets" },
+    { "coords": [14.2, 10.3], "season": 1, "episode": 8, "via": [[17.0, 8.8]], "note": "Besieges Riverrun with his father's host" },
+    { "coords": [12.75, 9.7], "season": 1, "episode": 9, "note": "Captured in the Whispering Wood" },
+    { "coords": [14.5, 10.8], "season": 2, "episode": 7, "note": "A year in a stake-and-chain pen" },
+    { "locationId": "harrenhal", "season": 3, "episode": 5, "via": [[15.7, 9.4]], "note": "Loses his sword hand on the road; the baths confession" },
+    { "locationId": "kings-landing", "season": 3, "episode": 10, "via": [[17.8, 6.4]], "note": "Home — to a Kingsguard that no longer fits" },
+    { "locationId": "water-gardens", "season": 5, "episode": 6, "via": [[21.0, 1.8], [23.6, -6.2]], "note": "Steals into Dorne for Myrcella" },
+    { "locationId": "kings-landing", "season": 5, "episode": 10, "via": [[23.6, -6.2], [21.0, 1.8]], "note": "Sails home with his dying daughter" },
+    { "locationId": "riverrun", "season": 6, "episode": 8, "via": [[16.6, 7.8]], "note": "Ends the Tully siege without a battle" },
+    { "locationId": "kings-landing", "season": 6, "episode": 10, "via": [[17.0, 7.0]], "note": "Returns to find the Sept a crater and Cersei crowned" },
+    { "locationId": "winterfell", "season": 8, "episode": 1, "via": [[16.2, 15.2]], "note": "Rides north alone, as promised" },
+    { "locationId": "kings-landing", "season": 8, "episode": 5, "via": [[16.2, 15.2]], "note": "Back for Cersei — dies with her beneath the Red Keep" }
+  ]
+}

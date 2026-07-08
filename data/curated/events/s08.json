@@ -1,0 +1,172 @@
+[
+  {
+    "id": "s08e01-dany-arrives-winterfell",
+    "title": "A Targaryen queen at Winterfell",
+    "description": "Daenerys rides through Winterfell's gates beside Jon with Unsullied, Dothraki and two dragons — to a North that greets her in cold silence. Jon learns he has a dragon's saddle waiting.",
+    "type": "political",
+    "season": 8, "episode": 1, "episodeTitle": "Winterfell",
+    "locationId": "winterfell",
+    "characters": ["daenerys", "jon", "sansa", "arya", "tyrion", "drogon", "rhaegal"],
+    "importance": 2
+  },
+  {
+    "id": "s08e01-umber-spiral",
+    "title": "The Night King's message",
+    "description": "Tormund and Beric find Last Hearth silent — and little Ned Umber pinned to the wall in a spiral of severed limbs that opens its eyes and screams.",
+    "type": "supernatural",
+    "season": 8, "episode": 1, "episodeTitle": "Winterfell",
+    "locationId": "last-hearth",
+    "characters": ["tormund", "beric", "eddison", "night-king"],
+    "importance": 2
+  },
+  {
+    "id": "s08e01-jon-learns-truth",
+    "title": "Sam tells Jon who he is",
+    "description": "In the crypts beneath Winterfell, Samwell tells Jon the truth of his birth: he is Aegon Targaryen, son of Rhaegar and Lyanna — king by right, and his queen's nephew.",
+    "type": "other",
+    "season": 8, "episode": 1, "episodeTitle": "Winterfell",
+    "locationId": "winterfell",
+    "characters": ["samwell", "jon"],
+    "importance": 1
+  },
+  {
+    "id": "s08e02-brienne-knighted",
+    "title": "A Knight of the Seven Kingdoms",
+    "description": "On the last night before the dead arrive, Jaime Lannister draws his sword by the fire and knights Brienne of Tarth — the first woman knight in Westerosi memory.",
+    "type": "other",
+    "season": 8, "episode": 2, "episodeTitle": "A Knight of the Seven Kingdoms",
+    "locationId": "winterfell",
+    "characters": ["jaime", "brienne", "tyrion", "podrick", "davos", "tormund"],
+    "importance": 2
+  },
+  {
+    "id": "s08e03-battle-of-winterfell",
+    "title": "The Long Night",
+    "description": "The living make their stand at Winterfell against the whole army of the dead. The Dothraki charge dies in the dark; the crypts betray their shelterers; Melisandre lights the trenches; the castle drowns in wights.",
+    "type": "battle",
+    "season": 8, "episode": 3, "episodeTitle": "The Long Night",
+    "locationId": "winterfell",
+    "characters": ["jon", "daenerys", "night-king", "arya", "melisandre", "grey-worm", "brienne", "jaime", "samwell", "tormund", "hound"],
+    "importance": 1
+  },
+  {
+    "id": "s08e03-arya-kills-night-king",
+    "title": "Not today",
+    "description": "As the Night King reaches for Bran beneath the heart tree, Arya Stark comes out of the dark. The dagger drops from one hand to the other — and the Night King and every walker and wight shatter like ice.",
+    "type": "death",
+    "season": 8, "episode": 3, "episodeTitle": "The Long Night",
+    "locationId": "winterfell",
+    "characters": ["arya", "night-king", "bran"],
+    "importance": 1
+  },
+  {
+    "id": "s08e03-the-fallen",
+    "title": "The price of the dawn",
+    "description": "Theon dies charging the Night King, redeemed in Bran's godswood. Jorah falls shielding Daenerys; Lyanna Mormont kills a giant with her last breath; Edd, Beric and Melisandre — her purpose done, walking into the sunrise to die — join them.",
+    "type": "death",
+    "season": 8, "episode": 3, "episodeTitle": "The Long Night",
+    "locationId": "winterfell",
+    "characters": ["theon", "jorah", "lyanna-mormont", "eddison", "beric", "melisandre"],
+    "importance": 2
+  },
+  {
+    "id": "s08e04-rhaegal-killed",
+    "title": "Euron kills Rhaegal",
+    "description": "Sailing home from victory, the fleet rounds Dragonstone into Euron's ambush. Scorpion bolts take Rhaegal through the neck, and Missandei is dragged from the waves in chains.",
+    "type": "death",
+    "season": 8, "episode": 4, "episodeTitle": "The Last of the Starks",
+    "coords": [24.8, 6.3],
+    "characters": ["euron", "rhaegal", "daenerys", "missandei", "grey-worm", "tyrion"],
+    "importance": 1
+  },
+  {
+    "id": "s08e04-missandei-executed",
+    "title": "Dracarys",
+    "description": "Before the walls of King's Landing, Cersei gives Missandei of Naath one last word. She chooses 'dracarys' — and the Mountain's blade falls as Daenerys and Grey Worm watch.",
+    "type": "death",
+    "season": 8, "episode": 4, "episodeTitle": "The Last of the Starks",
+    "locationId": "kings-landing",
+    "characters": ["missandei", "cersei", "mountain", "daenerys", "grey-worm"],
+    "importance": 1
+  },
+  {
+    "id": "s08e05-varys-executed",
+    "title": "The Spider's last letters",
+    "description": "Varys backs the better claim one whisper too far. On the beach of Dragonstone, Daenerys speaks the sentence and Drogon carries it out — as Tyrion, who informed on him, watches his friend burn.",
+    "type": "death",
+    "season": 8, "episode": 5, "episodeTitle": "The Bells",
+    "locationId": "dragonstone",
+    "characters": ["varys", "daenerys", "tyrion", "jon", "drogon"],
+    "importance": 2
+  },
+  {
+    "id": "s08e05-the-bells",
+    "title": "The bells ring — and she burns it all",
+    "description": "King's Landing surrenders; the bells ring out. Daenerys, on Drogon's back above the gates, hears them — and turns the city to ash street by street, soldiers and children alike, until nothing of the capital stands.",
+    "type": "destruction",
+    "season": 8, "episode": 5, "episodeTitle": "The Bells",
+    "locationId": "kings-landing",
+    "characters": ["daenerys", "drogon", "jon", "grey-worm", "arya", "tyrion"],
+    "importance": 1
+  },
+  {
+    "id": "s08e05-cleganebowl",
+    "title": "Cleganebowl",
+    "description": "On a ruined stair beneath the falling Red Keep, Sandor Clegane meets his brother at last. Steel cannot kill what Qyburn made — so the Hound drags the Mountain with him into the fire below.",
+    "type": "death",
+    "season": 8, "episode": 5, "episodeTitle": "The Bells",
+    "locationId": "kings-landing",
+    "characters": ["hound", "mountain", "qyburn", "cersei"],
+    "importance": 2
+  },
+  {
+    "id": "s08e05-jaime-cersei-die",
+    "title": "The lions die together",
+    "description": "Jaime cuts down Euron on the beach and reaches Cersei in the collapsing crypts of the Red Keep. No boat, no way out — the twins who began the story die in each other's arms as the ceiling comes down.",
+    "type": "death",
+    "season": 8, "episode": 5, "episodeTitle": "The Bells",
+    "locationId": "kings-landing",
+    "characters": ["jaime", "cersei", "euron"],
+    "importance": 1
+  },
+  {
+    "id": "s08e06-jon-kills-dany",
+    "title": "The Iron Throne",
+    "description": "In the ashen throne room, Daenerys speaks of breaking the wheel across the world. Jon kisses her — and drives a dagger into her heart. Drogon melts the Iron Throne to slag and carries her body east.",
+    "type": "death",
+    "season": 8, "episode": 6, "episodeTitle": "The Iron Throne",
+    "locationId": "kings-landing",
+    "characters": ["jon", "daenerys", "drogon"],
+    "importance": 1
+  },
+  {
+    "id": "s08e06-bran-the-broken",
+    "title": "The council of Bran the Broken",
+    "description": "In the Dragonpit, Tyrion talks the lords of Westeros into a new order: Bran the Broken, king by story rather than birth, with Tyrion as his Hand and the wheel — at least the old one — broken.",
+    "type": "coronation",
+    "season": 8, "episode": 6, "episodeTitle": "The Iron Throne",
+    "locationId": "kings-landing",
+    "characters": ["bran", "tyrion", "sansa", "arya", "samwell", "davos", "grey-worm", "edmure", "robin", "yara", "gendry", "brienne"],
+    "importance": 1
+  },
+  {
+    "id": "s08e06-queen-in-the-north",
+    "title": "The Queen in the North",
+    "description": "Sansa alone refuses to bend: the North leaves the Six Kingdoms as it entered — free. She is crowned Queen in the North in Winterfell's great hall.",
+    "type": "coronation",
+    "season": 8, "episode": 6, "episodeTitle": "The Iron Throne",
+    "locationId": "winterfell",
+    "characters": ["sansa"],
+    "importance": 2
+  },
+  {
+    "id": "s08e06-endings",
+    "title": "The wolves scatter",
+    "description": "Arya sails west of the maps; Brienne finishes Jaime's page in the White Book; and Jon Snow rides out from Castle Black with Ghost and the free folk, north into the green — where the story leaves him.",
+    "type": "journey",
+    "season": 8, "episode": 6, "episodeTitle": "The Iron Throne",
+    "locationId": "castle-black",
+    "characters": ["jon", "arya", "brienne", "tormund", "ghost"],
+    "importance": 2
+  }
+]

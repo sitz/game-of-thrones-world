@@ -1,0 +1,273 @@
+[
+  {
+    "id": "s01e01-will-executed",
+    "title": "Ned executes the deserter",
+    "description": "Eddard Stark beheads Will of the Night's Watch for desertion — the man who fled the White Walkers. Bran watches his first execution, and the Starks find direwolf pups in the snow on the ride home.",
+    "type": "death",
+    "season": 1, "episode": 1, "episodeTitle": "Winter Is Coming",
+    "locationId": "winterfell",
+    "characters": ["ned", "bran", "jon", "robb", "will-deserter"],
+    "importance": 3
+  },
+  {
+    "id": "s01e01-white-walkers-return",
+    "title": "The White Walkers return",
+    "description": "Rangers of the Night's Watch find wildling corpses arranged in a spiral beyond the Wall — and the dead rise. Ser Waymar Royce is slain by a White Walker in the series' opening scene.",
+    "type": "supernatural",
+    "season": 1, "episode": 1, "episodeTitle": "Winter Is Coming",
+    "coords": [17.5, 36.6],
+    "characters": ["waymar-royce", "will-deserter", "white-walkers"],
+    "importance": 2
+  },
+  {
+    "id": "s01e01-robert-arrives-winterfell",
+    "title": "The King comes to Winterfell",
+    "description": "Robert Baratheon rides north with the court to ask Ned Stark to be his Hand of the King, setting every plot of the series in motion. In the crypts he mourns Lyanna Stark.",
+    "type": "political",
+    "season": 1, "episode": 1, "episodeTitle": "Winter Is Coming",
+    "locationId": "winterfell",
+    "characters": ["robert", "ned", "cersei", "jaime", "tyrion"],
+    "importance": 2
+  },
+  {
+    "id": "s01e01-daenerys-wed-drogo",
+    "title": "Daenerys wed to Khal Drogo",
+    "description": "In Illyrio's manse, Viserys sells his sister to Khal Drogo for an army. Among her wedding gifts: three petrified dragon eggs.",
+    "type": "wedding",
+    "season": 1, "episode": 1, "episodeTitle": "Winter Is Coming",
+    "locationId": "pentos",
+    "characters": ["daenerys", "drogo", "viserys", "illyrio", "jorah"],
+    "importance": 2
+  },
+  {
+    "id": "s01e01-brans-fall",
+    "title": "Bran falls from the tower",
+    "description": "Bran Stark climbs a tower of Winterfell and catches Jaime and Cersei Lannister together. Jaime pushes him from the window — 'the things I do for love' — leaving Bran crippled and setting the whole story in motion.",
+    "type": "other",
+    "season": 1, "episode": 1, "episodeTitle": "Winter Is Coming",
+    "locationId": "winterfell",
+    "characters": ["bran", "jaime", "cersei"],
+    "importance": 1
+  },
+  {
+    "id": "s01e02-assassin-sent-for-bran",
+    "title": "The catspaw assassin",
+    "description": "A hired knife tries to murder the comatose Bran with a Valyrian steel dagger; Catelyn fights him off and Bran's direwolf Summer tears out his throat. The dagger's ownership will haunt the realm.",
+    "type": "other",
+    "season": 1, "episode": 2, "episodeTitle": "The Kingsroad",
+    "locationId": "winterfell",
+    "characters": ["bran", "catelyn"],
+    "importance": 2
+  },
+  {
+    "id": "s01e02-lady-and-mycah",
+    "title": "The direwolf and the butcher's boy",
+    "description": "After Joffrey torments Mycah and Arya's wolf Nymeria bites him, Cersei demands a wolf's life. Sansa's innocent Lady is executed in Nymeria's place, and the Hound rides down Mycah.",
+    "type": "death",
+    "season": 1, "episode": 2, "episodeTitle": "The Kingsroad",
+    "locationId": "crossroads-inn",
+    "characters": ["arya", "sansa", "joffrey", "cersei", "hound", "mycah", "nymeria"],
+    "importance": 2
+  },
+  {
+    "id": "s01e03-jon-arrives-castle-black",
+    "title": "Jon takes the black",
+    "description": "Jon Snow arrives at Castle Black and finds the Night's Watch a shadow of the order in the stories — thieves and rapers drilled by Ser Alliser Thorne.",
+    "type": "journey",
+    "season": 1, "episode": 3, "episodeTitle": "Lord Snow",
+    "locationId": "castle-black",
+    "characters": ["jon", "tyrion", "alliser", "benjen"],
+    "importance": 3
+  },
+  {
+    "id": "s01e03-ned-becomes-hand",
+    "title": "Ned takes up the Handship",
+    "description": "Ned Stark reaches King's Landing and joins the small council, discovering the crown is six million in debt and the court a nest of vipers — Littlefinger and Varys chief among them.",
+    "type": "political",
+    "season": 1, "episode": 3, "episodeTitle": "Lord Snow",
+    "locationId": "kings-landing",
+    "characters": ["ned", "littlefinger", "varys", "pycelle", "renly"],
+    "importance": 3
+  },
+  {
+    "id": "s01e04-catelyn-seizes-tyrion",
+    "title": "Catelyn arrests Tyrion",
+    "description": "At the Crossroads Inn, Catelyn Stark calls on her father's bannermen to seize Tyrion Lannister for the attempt on Bran's life — lighting the fuse of the Stark–Lannister war.",
+    "type": "political",
+    "season": 1, "episode": 4, "episodeTitle": "Cripples, Bastards, and Broken Things",
+    "locationId": "crossroads-inn",
+    "characters": ["catelyn", "tyrion"],
+    "importance": 1
+  },
+  {
+    "id": "s01e05-jaime-attacks-ned",
+    "title": "Lannister and Stark bleed in the street",
+    "description": "Learning of Tyrion's arrest, Jaime ambushes Ned outside Littlefinger's brothel, slaughters his men including Jory Cassel, and duels him until a Lannister spear hamstrings Ned from behind.",
+    "type": "battle",
+    "season": 1, "episode": 5, "episodeTitle": "The Wolf and the Lion",
+    "locationId": "kings-landing",
+    "characters": ["jaime", "ned", "jory"],
+    "importance": 2
+  },
+  {
+    "id": "s01e05-tyrion-at-the-eyrie",
+    "title": "Tyrion in the sky cells",
+    "description": "Catelyn delivers Tyrion to her sister Lysa at the Eyrie, where he is thrown into the sky cells — a bed of stone sloping into open air.",
+    "type": "political",
+    "season": 1, "episode": 5, "episodeTitle": "The Wolf and the Lion",
+    "locationId": "eyrie",
+    "characters": ["tyrion", "catelyn", "lysa", "robin"],
+    "importance": 3
+  },
+  {
+    "id": "s01e06-trial-by-combat-eyrie",
+    "title": "Bronn fights for the dwarf",
+    "description": "Tyrion demands trial by combat and the sellsword Bronn steps forward — dropping Lysa's champion out the Moon Door and winning Tyrion his freedom.",
+    "type": "battle",
+    "season": 1, "episode": 6, "episodeTitle": "A Golden Crown",
+    "locationId": "eyrie",
+    "characters": ["tyrion", "bronn", "lysa", "robin"],
+    "importance": 2
+  },
+  {
+    "id": "s01e06-golden-crown",
+    "title": "A golden crown for Viserys",
+    "description": "Viserys draws steel in the sacred city and demands his crown. Drogo gives him one — molten gold poured over his head. 'He was no dragon. Fire cannot kill a dragon.'",
+    "type": "death",
+    "season": 1, "episode": 6, "episodeTitle": "A Golden Crown",
+    "locationId": "vaes-dothrak",
+    "characters": ["viserys", "drogo", "daenerys", "jorah"],
+    "importance": 1
+  },
+  {
+    "id": "s01e07-roberts-death",
+    "title": "The King is dying",
+    "description": "Gored by a boar on a hunt his squire kept well-wined, Robert Baratheon names Ned Protector of the Realm from his deathbed — words Cersei tears to pieces.",
+    "type": "death",
+    "season": 1, "episode": 7, "episodeTitle": "You Win or You Die",
+    "locationId": "kings-landing",
+    "characters": ["robert", "ned", "cersei", "joffrey", "lancel"],
+    "importance": 1
+  },
+  {
+    "id": "s01e07-ned-arrested",
+    "title": "Littlefinger's betrayal",
+    "description": "Ned moves to unseat Joffrey with Robert's will and the City Watch — but Littlefinger sells him out. 'I did warn you not to trust me.' The throne room becomes a trap.",
+    "type": "political",
+    "season": 1, "episode": 7, "episodeTitle": "You Win or You Die",
+    "locationId": "kings-landing",
+    "characters": ["ned", "littlefinger", "cersei", "joffrey", "varys"],
+    "importance": 1
+  },
+  {
+    "id": "s01e07-drogo-vows-invasion",
+    "title": "Drogo vows to cross the sea",
+    "description": "After a wineseller tries to poison Daenerys, Khal Drogo swears before the Mother of Mountains to take the Seven Kingdoms for his son — the iron chairs and the stone houses.",
+    "type": "political",
+    "season": 1, "episode": 7, "episodeTitle": "You Win or You Die",
+    "locationId": "vaes-dothrak",
+    "characters": ["drogo", "daenerys", "jorah"],
+    "importance": 3
+  },
+  {
+    "id": "s01e08-arya-first-blood",
+    "title": "Arya's escape",
+    "description": "As Lannister guards purge the Stark household, Syrio Forel holds them off with a wooden sword and Arya kills the stable boy who corners her — her first death — before slipping into the city.",
+    "type": "escape",
+    "season": 1, "episode": 8, "episodeTitle": "The Pointy End",
+    "locationId": "kings-landing",
+    "characters": ["arya", "syrio", "meryn-trant"],
+    "importance": 2
+  },
+  {
+    "id": "s01e08-robb-calls-banners",
+    "title": "Robb calls the banners",
+    "description": "With his father imprisoned, Robb Stark summons the lords of the North to war. Greatjon Umber loses two fingers to Grey Wind and laughs about it — the North rides south.",
+    "type": "political",
+    "season": 1, "episode": 8, "episodeTitle": "The Pointy End",
+    "locationId": "winterfell",
+    "characters": ["robb", "catelyn", "greatjon", "theon"],
+    "importance": 2
+  },
+  {
+    "id": "s01e08-wight-in-castle-black",
+    "title": "A wight in the Lord Commander's tower",
+    "description": "Corpses brought back from the Wall rise in the night. Jon Snow saves Lord Commander Mormont by burning the dead thing that would not die by steel.",
+    "type": "supernatural",
+    "season": 1, "episode": 8, "episodeTitle": "The Pointy End",
+    "locationId": "castle-black",
+    "characters": ["jon", "jeor", "ghost", "wights"],
+    "importance": 2
+  },
+  {
+    "id": "s01e09-battle-whispering-wood",
+    "title": "The Kingslayer in chains",
+    "description": "Robb sacrifices two thousand men against Tywin's host as a feint while his main force ambushes Jaime Lannister's army in the Whispering Wood — and takes the Kingslayer captive.",
+    "type": "battle",
+    "season": 1, "episode": 9, "episodeTitle": "Baelor",
+    "locationId": "riverrun",
+    "coords": [12.75, 9.7],
+    "characters": ["robb", "jaime", "catelyn", "theon"],
+    "importance": 2
+  },
+  {
+    "id": "s01e09-execution-of-ned-stark",
+    "title": "Execution of Ned Stark",
+    "description": "On the steps of the Great Sept of Baelor, King Joffrey ignores every counsel of mercy and has Eddard Stark beheaded for treason before a screaming crowd — and his own daughters.",
+    "type": "death",
+    "season": 1, "episode": 9, "episodeTitle": "Baelor",
+    "locationId": "kings-landing",
+    "characters": ["ned", "joffrey", "arya", "sansa", "cersei"],
+    "importance": 1
+  },
+  {
+    "id": "s01e09-mirri-maz-duur",
+    "title": "Blood magic for the Khal",
+    "description": "Drogo's wound festers. Against every Dothraki taboo, Daenerys lets the captured godswife Mirri Maz Duur work blood magic to save him — a life for a life. The price is her unborn son.",
+    "type": "supernatural",
+    "season": 1, "episode": 9, "episodeTitle": "Baelor",
+    "coords": [56.5, -5.5],
+    "characters": ["daenerys", "drogo", "mirri-maz-duur", "jorah", "qotho"],
+    "importance": 2
+  },
+  {
+    "id": "s01e10-joffrey-shows-sansa-the-heads",
+    "title": "Joffrey's gallery of heads",
+    "description": "Joffrey forces Sansa to look at her father's head on a spike above the battlements — and Sansa, for one long moment, considers pushing him to his death.",
+    "type": "other",
+    "season": 1, "episode": 10, "episodeTitle": "Fire and Blood",
+    "locationId": "kings-landing",
+    "characters": ["joffrey", "sansa", "hound"],
+    "importance": 3
+  },
+  {
+    "id": "s01e10-king-in-the-north",
+    "title": "The King in the North",
+    "description": "The lords of the North and the riverlands reject the southern crowns and raise their swords to Robb Stark — the King in the North, the first in three hundred years.",
+    "type": "coronation",
+    "season": 1, "episode": 10, "episodeTitle": "Fire and Blood",
+    "locationId": "riverrun",
+    "characters": ["robb", "catelyn", "greatjon", "theon"],
+    "importance": 1
+  },
+  {
+    "id": "s01e10-drogos-mercy",
+    "title": "Death of Khal Drogo",
+    "description": "Mirri's magic leaves Drogo a breathing husk and Daenerys's son stillborn and scaled. Dany smothers her sun-and-stars with a pillow and builds his pyre.",
+    "type": "death",
+    "season": 1, "episode": 10, "episodeTitle": "Fire and Blood",
+    "coords": [55.6, -3.2],
+    "characters": ["daenerys", "drogo", "mirri-maz-duur"],
+    "importance": 2
+  },
+  {
+    "id": "s01e10-birth-of-the-dragons",
+    "title": "Birth of the dragons",
+    "description": "Daenerys walks into Khal Drogo's funeral pyre with three petrified dragon eggs. At dawn she emerges unburnt with Drogon, Rhaegal and Viserion — the first dragons in the world for over a century.",
+    "type": "supernatural",
+    "season": 1, "episode": 10, "episodeTitle": "Fire and Blood",
+    "coords": [55.0, -2.5],
+    "characters": ["daenerys", "jorah", "drogon", "rhaegal", "viserion"],
+    "importance": 1
+  }
+]

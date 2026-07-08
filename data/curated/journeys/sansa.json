@@ -1,0 +1,19 @@
+{
+  "characterId": "sansa",
+  "name": "Sansa Stark",
+  "color": "#8a4a6b",
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "Dreams of the south and its knights" },
+    { "locationId": "crossroads-inn", "season": 1, "episode": 2, "via": [[15.6, 24.0], [15.9, 17.0]], "note": "South with the court" },
+    { "locationId": "kings-landing", "season": 1, "episode": 3, "via": [[17.8, 8.2]], "note": "Betrothed to Joffrey — then hostage of the crown" },
+    { "coords": [22.6, 6.8], "season": 4, "episode": 3, "note": "Spirited out of the Purple Wedding to Littlefinger's ship" },
+    { "locationId": "eyrie", "season": 4, "episode": 5, "via": [[23.4, 9.6], [21.4, 11.9]], "note": "Alayne Stone, Littlefinger's 'niece'" },
+    { "locationId": "moat-cailin", "season": 5, "episode": 3, "via": [[19.2, 13.0], [15.6, 16.5]], "note": "North under Littlefinger's escort" },
+    { "locationId": "winterfell", "season": 5, "episode": 3, "note": "Sold to the Boltons — wed to Ramsay" },
+    { "coords": [14.1, 27.1], "season": 6, "episode": 1, "note": "Leaps the walls with Theon; Brienne finds them" },
+    { "locationId": "castle-black", "season": 6, "episode": 4, "via": [[16.4, 30.4]], "note": "Reunited with Jon at last" },
+    { "locationId": "bear-island", "season": 6, "episode": 7, "via": [[15.9, 27.6], [12.4, 28.9]], "note": "Rallying the northern houses" },
+    { "locationId": "winterfell", "season": 6, "episode": 9, "via": [[13.0, 27.6]], "note": "Home — and Ramsay to the hounds" },
+    { "locationId": "winterfell", "season": 8, "episode": 6, "note": "Crowned Queen in the North" }
+  ]
+}

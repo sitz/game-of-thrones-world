@@ -1,0 +1,17 @@
+{
+  "characterId": "bran",
+  "name": "Bran Stark",
+  "color": "#2d6a4f",
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "The boy who climbed too high" },
+    { "coords": [15.4, 28.3], "season": 2, "episode": 10, "note": "Flees the burning of Winterfell" },
+    { "coords": [16.8, 33.5], "season": 3, "episode": 9, "via": [[16.2, 31.0]], "note": "The Gift — wargs Hodor at Queenscrown" },
+    { "coords": [17.6, 34.95], "season": 3, "episode": 10, "note": "Through the Nightfort's secret gate, beyond the Wall" },
+    { "locationId": "crasters-keep", "season": 4, "episode": 4, "via": [[18.4, 35.6]], "note": "Captive of the mutineers" },
+    { "coords": [13.8, 40.2], "season": 4, "episode": 10, "via": [[15.9, 38.4]], "note": "Reaches the three-eyed raven's cave; Jojen dies at the door" },
+    { "coords": [14.6, 38.6], "season": 6, "episode": 6, "note": "The cave falls — Hodor holds the door; Benjen carries them south" },
+    { "locationId": "castle-black", "season": 7, "episode": 1, "via": [[17.2, 36.2]], "note": "Crosses the Wall as the Three-Eyed Raven" },
+    { "locationId": "winterfell", "season": 7, "episode": 3, "via": [[16.5, 30.5]], "note": "'Chaos is a ladder' — Littlefinger's undoing begins" },
+    { "locationId": "kings-landing", "season": 8, "episode": 6, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Chosen King of the Six Kingdoms at the Dragonpit" }
+  ]
+}

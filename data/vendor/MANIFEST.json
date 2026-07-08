@@ -1,0 +1,143 @@
+{
+  "fetchedAt": "2026-07-07T19:11:56.291Z",
+  "sources": {
+    "geometry": {
+      "repo": "mapbox/GOT-Inspired-Map",
+      "sha": "4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    "show": {
+      "repo": "jeffreylancaster/game-of-thrones",
+      "sha": "c142bfc9fb15d3aff5fcaf680c501bc38aeb3b61",
+      "license": "Free to use with attribution — Jeffrey Lancaster"
+    }
+  },
+  "files": [
+    {
+      "path": "got_continents.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_continents.geojson",
+      "bytes": 216680,
+      "sha256": "310a68ee68e47bebdf4cf81693d3cd22d875b451a7d1a96501ed9566198522e5",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_islands.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_islands.geojson",
+      "bytes": 135047,
+      "sha256": "7c1db8ee11dfa3579f56409180592c116b36ed555a981f999e46823fc0a7521a",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_lakes.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_lakes.geojson",
+      "bytes": 32226,
+      "sha256": "57333f3711482829a93e7152cd9e91cfc48d395b39d0062ed56e9779cf80fa3f",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_landscape.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_landscape.geojson",
+      "bytes": 45206,
+      "sha256": "6287d68dec77714c21f5d0d1b60f4fae08384381f8d4677835135e3150afd336",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_locations.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_locations.geojson",
+      "bytes": 51717,
+      "sha256": "d465e0658ad679b942b3998d38db7dbb001e6bbd5a2bfacf1661a421bc1b19fc",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_officialMapAreas.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_officialMapAreas.geojson",
+      "bytes": 787,
+      "sha256": "899b1a5a362d4adfa9b2638496a9d4e962fd7a3dce525d7c370b7d6ecdde1421",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_political.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_politcal.geojson",
+      "bytes": 178170,
+      "sha256": "62512495087120d69f6e3816cd933a112c45875ee628f8e6f2ee965c1a40a640",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_regions.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_regions.geojson",
+      "bytes": 27116,
+      "sha256": "dc2e97184f1680926c573417939bc0ae672e7b6f7e78aed96e29ec73baf99230",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_rivers.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_rivers.geojson",
+      "bytes": 119286,
+      "sha256": "b52add8da4061b6e4b75e6c9493ad166521ca4b2c10b19c6f88342d1cd7f2536",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_roads.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_roads.geojson",
+      "bytes": 20158,
+      "sha256": "6ca70f4ec274c199f65072b5b10b5dd9230b1086eea216863bf00513c52042c8",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "got_wall.geojson",
+      "url": "https://raw.githubusercontent.com/mapbox/GOT-Inspired-Map/4f88f8e2ed57b12784ac3246fb419f6c1ac4db1d/GoTRelease/got_wall.geojson",
+      "bytes": 700,
+      "sha256": "02b0d9f85229f3521a1dfbc8e6a92d4708bb67c31d1bb9f505c6f951233a32e7",
+      "license": "CC BY-NC-SA 3.0 — map data by cadaei, theMountainGoat and Tear, based on works by George R. R. Martin"
+    },
+    {
+      "path": "show/episodes.json",
+      "url": "https://raw.githubusercontent.com/jeffreylancaster/game-of-thrones/c142bfc9fb15d3aff5fcaf680c501bc38aeb3b61/data/episodes.json",
+      "bytes": 1848750,
+      "sha256": "fe0a596f8015c48a0ae010cf9627597d66154369f2351cf89d94df6047a55277",
+      "license": "Free to use with attribution — Jeffrey Lancaster"
+    },
+    {
+      "path": "show/characters.json",
+      "url": "https://raw.githubusercontent.com/jeffreylancaster/game-of-thrones/c142bfc9fb15d3aff5fcaf680c501bc38aeb3b61/data/characters.json",
+      "bytes": 207763,
+      "sha256": "7451aee599cf2521cd223f659495a09ff63d77f1bcb2ba42844e333009093a64",
+      "license": "Free to use with attribution — Jeffrey Lancaster"
+    },
+    {
+      "path": "show/locations.json",
+      "url": "https://raw.githubusercontent.com/jeffreylancaster/game-of-thrones/c142bfc9fb15d3aff5fcaf680c501bc38aeb3b61/data/locations.json",
+      "bytes": 4038,
+      "sha256": "c68f6615c34bc83a36fb2d142a2d91329b13eaa9aa06992117528b87640fc83c",
+      "license": "Free to use with attribution — Jeffrey Lancaster"
+    },
+    {
+      "path": "fonts/cinzel-regular.ttf",
+      "url": "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCA.ttf",
+      "bytes": 33628,
+      "sha256": "dc0f16db2c5ab26b92b1268bcaabdb3f02ab5dbd7d40fd014b7e95aca54919e3",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "path": "fonts/cinzel-bold.ttf",
+      "url": "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgfY3lCA.ttf",
+      "bytes": 33792,
+      "sha256": "f163e215fa6c0b1af2fafa8a4ee2909675a1f383619d2d123211baede32fef5b",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "path": "fonts/imfell-regular.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/imfellenglish/IMFeENrm28P.ttf",
+      "bytes": 194992,
+      "sha256": "fe9705bbde51af802719246d4608d08d37bde956ab99d9a590da996a5221a24c",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "path": "fonts/imfell-italic.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/imfellenglish/IMFeENit28P.ttf",
+      "bytes": 202368,
+      "sha256": "47cd75dce54b1f2e0831359d22d5e688f519d68ae45706b664fd310fd0e3ccf7",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}

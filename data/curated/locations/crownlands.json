@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "slug": "kings-landing",
+    "name": "King's Landing",
+    "aliases": [
+      "Red Keep",
+      "Great Sept of Baelor",
+      "Dragonpit",
+      "Flea Bottom",
+      "Capital of the Seven Kingdoms"
+    ],
+    "region": "The Crownlands",
+    "allegiance": "The Iron Throne",
+    "description": "Capital of the Seven Kingdoms and seat of the Iron Throne, sprawling above Blackwater Bay. Home to the Red Keep, the Great Sept of Baelor and Flea Bottom — and the stage for the game of thrones itself.",
+    "firstAppearance": { "season": 1, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 6
+  },
+  {
+    "id": 2,
+    "slug": "hayford-castle",
+    "name": "Hayford Castle",
+    "region": "The Crownlands",
+    "allegiance": "House Hayford",
+    "description": "Castle seat of House Hayford, a short ride northwest of King's Landing. One of the crownland houses sworn directly to the Iron Throne, it is book background and never appears in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 3,
+    "slug": "rosby",
+    "name": "Rosby",
+    "region": "The Crownlands",
+    "allegiance": "House Rosby",
+    "description": "Castle and village of House Rosby on the coastal road between King's Landing and Duskendale. It is book background rather than a show location, though travelers leaving the capital northward would pass through it.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 4,
+    "slug": "old-stone-bridge-inn",
+    "name": "Old Stone Bridge Inn",
+    "region": "The Crownlands",
+    "description": "A wayside inn on the road between Rosby and Duskendale, named for the ancient stone bridge beside it. Known from Brienne's search for Sansa in the books; it never appears in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 9,
+    "slug": "duskendale",
+    "name": "Duskendale",
+    "region": "The Crownlands",
+    "allegiance": "House Rykker",
+    "description": "Port town on Blackwater Bay north of King's Landing, held by House Rykker. Famous in Targaryen history as the site of the Defiance of Duskendale against the Mad King, but the town itself is never visited in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 11,
+    "slug": "stokeworth",
+    "name": "Stokeworth",
+    "aliases": ["Castle Stokeworth"],
+    "region": "The Crownlands",
+    "allegiance": "House Stokeworth",
+    "description": "Castle seat of House Stokeworth just north of King's Landing. In Season 5, Bronn strolls its grounds with his betrothed Lollys Stokeworth, dreaming of a lordship — until Jaime Lannister arrives to recruit him for a mission to Dorne.",
+    "firstAppearance": { "season": 5, "episode": 2 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 43,
+    "slug": "rooks-rest",
+    "name": "Rook's Rest",
+    "region": "The Crownlands",
+    "allegiance": "House Staunton",
+    "description": "Castle of House Staunton on the shore of Blackwater Bay, between Duskendale and Crackclaw Point. It never appears in the show and remains book background.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 45,
+    "slug": "whispers",
+    "name": "The Whispers",
+    "region": "The Crownlands",
+    "description": "Ruined castle of the extinct House Crabb on Crackclaw Point, where the severed heads collected by legendary Ser Clarence Crabb were said to whisper to one another. Book background only; it is never seen in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 46,
+    "slug": "dragonstone",
+    "name": "Dragonstone",
+    "aliases": ["Dragonmont"],
+    "region": "The Crownlands",
+    "allegiance": "House Targaryen",
+    "description": "Ancient island fortress of the Targaryens, carved with dragon shapes above a volcanic shore. Seat of Stannis Baratheon early in the war, later Daenerys' first foothold in Westeros — and it sits atop a mountain of dragonglass.",
+    "firstAppearance": { "season": 2, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 5
+  },
+  {
+    "id": 47,
+    "slug": "sharp-point",
+    "name": "Sharp Point",
+    "region": "The Crownlands",
+    "allegiance": "House Bar Emmon",
+    "description": "Castle of House Bar Emmon at the tip of Massey's Hook, watching the mouth of Blackwater Bay across from Dragonstone. Book background; it does not appear in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 48,
+    "slug": "stonedance",
+    "name": "Stonedance",
+    "region": "The Crownlands",
+    "allegiance": "House Massey",
+    "description": "Seat of House Massey on Massey's Hook, the peninsula guarding the southern approach to Blackwater Bay. Book background; the castle is never shown or discussed in the series.",
+    "showCanon": "mentioned"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "id": 222,
+    "slug": "meereen",
+    "name": "Meereen",
+    "aliases": ["Great Pyramid", "Daznak's Pit", "Bay of Dragons"],
+    "region": "Essos — Slaver's Bay",
+    "allegiance": "House Targaryen",
+    "description": "Greatest of the slave cities, taken by Daenerys in Season 4 and ruled from its Great Pyramid through insurgency, dragon-fire and siege. After the masters' final defeat, Slaver's Bay was renamed the Bay of Dragons.",
+    "firstAppearance": { "season": 4, "episode": 3 },
+    "showCanon": "shown",
+    "rankOverride": 5
+  },
+  {
+    "id": 220,
+    "slug": "astapor",
+    "name": "Astapor",
+    "aliases": ["The Red City"],
+    "region": "Essos — Slaver's Bay",
+    "allegiance": "Free city (formerly the Good Masters)",
+    "description": "The Red City of the Good Masters, where the Unsullied were made. Daenerys bought her army here — and paid with a single word: dracarys.",
+    "firstAppearance": { "season": 3, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 221,
+    "slug": "yunkai",
+    "name": "Yunkai",
+    "aliases": ["The Yellow City"],
+    "region": "Essos — Slaver's Bay",
+    "allegiance": "Free city (formerly the Wise Masters)",
+    "description": "The Yellow City of the Wise Masters, freed when Daario, Jorah and Grey Worm took its back gate by night. Its freedmen hailed Daenerys as Mhysa — mother.",
+    "firstAppearance": { "season": 3, "episode": 7 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 224,
+    "slug": "vaes-dothrak",
+    "name": "Vaes Dothrak",
+    "aliases": ["Temple of the Dosh Khaleen"],
+    "region": "Essos — Dothraki Sea",
+    "allegiance": "The Dothraki",
+    "description": "The only city of the Dothraki, beneath the Mother of Mountains — a place where blades may not be drawn. Daenerys ate the stallion's heart here, and years later burned the khals in the temple of the Dosh Khaleen.",
+    "firstAppearance": { "season": 1, "episode": 4 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 246,
+    "slug": "qarth",
+    "name": "Qarth",
+    "aliases": ["House of the Undying"],
+    "region": "Essos — the Further East",
+    "allegiance": "The Thirteen",
+    "description": "Opulent trading city at the edge of the known world, called the greatest city that ever was or will be. Daenerys sought ships here and lost her dragons to the warlocks of the House of the Undying.",
+    "firstAppearance": { "season": 2, "episode": 4 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 209,
+    "slug": "volantis",
+    "name": "Volantis",
+    "aliases": ["The Long Bridge"],
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Oldest and proudest of the Free Cities at the mouths of the Rhoyne. Tyrion crossed its Long Bridge and heard the red priestess Kinvara's kind preach the dragon queen; Jorah kidnapped him from one of its brothels.",
+    "firstAppearance": { "season": 5, "episode": 3 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 242,
+    "slug": "valyria",
+    "name": "Valyria",
+    "aliases": ["Old Valyria", "The Doom"],
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Shattered heart of the Valyrian Freehold, destroyed in a single day by the Doom four centuries past. Jorah and Tyrion rowed through its drowned ruins among the stone men — where Jorah was touched by grayscale.",
+    "firstAppearance": { "season": 5, "episode": 5 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "slug": "naath",
+    "name": "Naath",
+    "aliases": ["Isle of Butterflies"],
+    "region": "Essos — Summer Sea",
+    "description": "Peaceful island of the butterfly people off Sothoryos — Missandei's homeland, taken from her by slavers as a child. Grey Worm sailed for it after her death, to protect her people as she could not be protected.",
+    "showCanon": "mentioned",
+    "type": "Landmark",
+    "coords": [45.74713, -37.71617],
+    "rankOverride": 2
+  },
+  {
+    "id": 223,
+    "slug": "lhazarene-village",
+    "name": "Lhazarene Village",
+    "region": "Essos — Lhazar",
+    "description": "Village of the peaceful lamb men, sacked by Drogo's khalasar in Season 1. Daenerys claimed its godswife Mirri Maz Duur — a mercy repaid with blood magic.",
+    "firstAppearance": { "season": 1, "episode": 8 },
+    "showCanon": "shown",
+    "type": "Village",
+    "rankOverride": 2
+  },
+  {
+    "id": 201,
+    "slug": "qohor",
+    "name": "Qohor",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Free City in the great forest, famed for smiths who can rework Valyrian steel. The reforging of Ice into Oathkeeper and Widow's Wail is their craft's echo in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 226,
+    "slug": "new-ghis",
+    "name": "New Ghis",
+    "region": "Essos — Slaver's Bay",
+    "description": "Island city of the resurgent Ghiscari, kin to the masters of Slaver's Bay. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 225,
+    "slug": "old-ghis",
+    "name": "Old Ghis",
+    "region": "Essos — Slaver's Bay",
+    "description": "Ruin of the ancient Ghiscari Empire, brought down by Valyrian dragons five thousand years before the show. The harpy of Ghis still crowns the slaver cities.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 212,
+    "slug": "mantarys",
+    "name": "Mantarys",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "City on the demon road skirting the Valyrian ruin, whose people are said to be born twisted. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 215,
+    "slug": "elyria",
+    "name": "Elyria",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Island city on the Gulf of Grief, survivor of the Doom. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 216,
+    "slug": "tolos",
+    "name": "Tolos",
+    "region": "Essos — Slaver's Bay",
+    "description": "City of slingers on the Gulf of Grief. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 202,
+    "slug": "ar-noy",
+    "name": "Ar Noy",
+    "region": "Essos — Free Cities",
+    "description": "Rhoynar ruin on the upper Qhoyne, long claimed by Qohor. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 208,
+    "slug": "sar-mell",
+    "name": "Sar Mell",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Rhoynar ruin on the river across from Volon Therys. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 214,
+    "slug": "oros",
+    "name": "Oros",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Dead city of the Valyrian peninsula, lost in the Doom. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 217,
+    "slug": "ghozai",
+    "name": "Ghozai",
+    "region": "Essos — Slaver's Bay",
+    "description": "Ghiscari ruin on the Isle of Cedars, drowned by the Doom's tidal waves. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 218,
+    "slug": "velos",
+    "name": "Velos",
+    "region": "Essos — Slaver's Bay",
+    "description": "Ruined port on the Isle of Cedars, swallowed by the waves of the Doom. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 227,
+    "slug": "zamettar",
+    "name": "Zamettar",
+    "region": "Essos — Sothoryos",
+    "description": "Abandoned Ghiscari colony on Sothoryos's northern coast. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 228,
+    "slug": "yeen",
+    "name": "Yeen",
+    "region": "Essos — Sothoryos",
+    "description": "Cyclopean ruin of oily black stone deep in Sothoryos, older than memory and shunned by all. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 229,
+    "slug": "gogossos",
+    "name": "Gogossos",
+    "region": "Essos — Sothoryos",
+    "description": "Infamous ruin of the Basilisk Isles, once a Valyrian penal colony and slaver den. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 233,
+    "slug": "bhorash",
+    "name": "Bhorash",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Dead Valyrian city on the demon road between Mantarys and Tolos. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 241,
+    "slug": "tyria",
+    "name": "Tyria",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Lost city of the Valyrian heartland, destroyed in the Doom. Book background only.",
+    "showCanon": "mentioned"
+  }
+]

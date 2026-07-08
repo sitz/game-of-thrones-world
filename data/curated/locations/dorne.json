@@ -1,0 +1,222 @@
+[
+  {
+    "id": 96,
+    "slug": "sunspear",
+    "name": "Sunspear",
+    "aliases": ["Old Palace"],
+    "region": "Dorne",
+    "allegiance": "House Martell",
+    "description": "Seat of House Martell at the desert's edge by the sea. Doran Martell ruled from here until Ellaria Sand murdered him in his own gardens and seized Dorne for her vengeance.",
+    "firstAppearance": { "season": 5, "episode": 2 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 98,
+    "slug": "water-gardens",
+    "name": "Water Gardens",
+    "region": "Dorne",
+    "allegiance": "House Martell",
+    "description": "The Martells' pleasure palace of pools and blood-orange trees on the coast near Sunspear. Myrcella lived here as Trystane's betrothed; Jaime and Bronn's rescue turned into a brawl with the Sand Snakes in its courtyards.",
+    "firstAppearance": { "season": 5, "episode": 2 },
+    "showCanon": "shown",
+    "type": "Landmark",
+    "rankOverride": 3
+  },
+  {
+    "id": 88,
+    "slug": "tower-of-joy",
+    "name": "Tower of Joy",
+    "region": "Dorne",
+    "description": "Lonely round tower in the Red Mountains where Bran's visions showed young Ned Stark defeat Ser Arthur Dayne — and find Lyanna in a bed of blood. Jon Snow was born here, and the realm's greatest secret with him.",
+    "firstAppearance": { "season": 6, "episode": 3 },
+    "showCanon": "shown",
+    "type": "Landmark",
+    "rankOverride": 4
+  },
+  {
+    "id": 84,
+    "slug": "starfall",
+    "name": "Starfall",
+    "region": "Dorne",
+    "allegiance": "House Dayne",
+    "description": "Seat of House Dayne on the Summer Sea, home of the fallen Sword of the Morning, Ser Arthur Dayne. Its name shadows every telling of the Tower of Joy.",
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 67,
+    "slug": "yronwood",
+    "name": "Yronwood",
+    "region": "Dorne",
+    "allegiance": "House Yronwood",
+    "description": "Seat of the proudest Dornish house after the Martells, guarding the Boneway pass. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 65,
+    "slug": "wyl",
+    "name": "Wyl",
+    "region": "Dorne",
+    "allegiance": "House Wyl",
+    "description": "Castle of House Wyl on the Boneway into the Dornish Marches. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 66,
+    "slug": "ghaston-grey",
+    "name": "Ghaston Grey",
+    "region": "Dorne",
+    "description": "Crumbling island prison of Dorne, where the Martells send men they do not wish to kill. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 68,
+    "slug": "vultures-roost",
+    "name": "Vulture's Roost",
+    "region": "Dorne",
+    "description": "Ruined mountain keep once held by outlaw kings of the Red Mountains. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 80,
+    "slug": "uplands",
+    "name": "Uplands",
+    "region": "Dorne",
+    "allegiance": "House Uller",
+    "description": "Seat of House Uller — Ellaria Sand's family — in the western desert. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 82,
+    "slug": "blackmont",
+    "name": "Blackmont",
+    "region": "Dorne",
+    "allegiance": "House Blackmont",
+    "description": "Castle of House Blackmont on the Torentine in the Red Mountains. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 83,
+    "slug": "high-hermitage",
+    "name": "High Hermitage",
+    "region": "Dorne",
+    "allegiance": "House Dayne of High Hermitage",
+    "description": "Mountain seat of the cadet branch of House Dayne. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 85,
+    "slug": "sandstone",
+    "name": "Sandstone",
+    "region": "Dorne",
+    "allegiance": "House Qorgyle",
+    "description": "Desert castle of House Qorgyle, deep in the sands of western Dorne. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 86,
+    "slug": "skyreach",
+    "name": "Skyreach",
+    "region": "Dorne",
+    "allegiance": "House Fowler",
+    "description": "Eyrie-like seat of House Fowler above the Prince's Pass. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 87,
+    "slug": "kingsgrave",
+    "name": "Kingsgrave",
+    "region": "Dorne",
+    "allegiance": "House Manwoody",
+    "description": "Castle of House Manwoody in the Red Mountains, named for a king slain at its gates. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 89,
+    "slug": "hellholt",
+    "name": "Hellholt",
+    "region": "Dorne",
+    "allegiance": "House Uller",
+    "description": "Grim desert stronghold where a dragon once died — Meraxes, felled by a scorpion bolt through the eye. Book background with a legacy the show's scorpions echo.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 90,
+    "slug": "vaith",
+    "name": "Vaith",
+    "region": "Dorne",
+    "allegiance": "House Vaith",
+    "description": "Castle on the river Vaith amid the deep sands. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 91,
+    "slug": "salt-shore",
+    "name": "Salt Shore",
+    "region": "Dorne",
+    "allegiance": "House Gargalen",
+    "description": "Seat of House Gargalen on the Summer Sea coast. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 92,
+    "slug": "godsgrace",
+    "name": "Godsgrace",
+    "region": "Dorne",
+    "allegiance": "House Allyrion",
+    "description": "Castle of House Allyrion at the joining of the Greenblood's branches. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 93,
+    "slug": "tor",
+    "name": "The Tor",
+    "region": "Dorne",
+    "allegiance": "House Jordayne",
+    "description": "Seat of House Jordayne on the eastern Dornish coast. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 94,
+    "slug": "ghost-hill",
+    "name": "Ghost Hill",
+    "region": "Dorne",
+    "allegiance": "House Toland",
+    "description": "White chalk-hill castle of House Toland overlooking the Sea of Dorne. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 95,
+    "slug": "lemonwood",
+    "name": "Lemonwood",
+    "region": "Dorne",
+    "allegiance": "House Dalt",
+    "description": "Lemon-orchard seat of House Dalt near the mouth of the Greenblood. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 97,
+    "slug": "planky-town",
+    "name": "Planky Town",
+    "region": "Dorne",
+    "description": "Floating trade town of rafts and poleboats at the Greenblood's mouth, where the orphans of the river trade. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 99,
+    "slug": "shandystone",
+    "name": "Shandystone",
+    "region": "Dorne",
+    "description": "Abandoned holdfast in the dry hills east of the Greenblood. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 100,
+    "slug": "tall-trees-town",
+    "name": "Tall Trees Town",
+    "region": "Dorne",
+    "description": "Settlement of the Green Blood orphans upriver. Book background only.",
+    "showCanon": "mentioned"
+  }
+]

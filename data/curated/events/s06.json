@@ -1,0 +1,262 @@
+[
+  {
+    "id": "s06e01-red-womans-secret",
+    "title": "The Red Woman",
+    "description": "Alone in her chamber at Castle Black, Melisandre unclasps her ruby choker — and centuries fall on her like snow.",
+    "type": "supernatural",
+    "season": 6, "episode": 1, "episodeTitle": "The Red Woman",
+    "locationId": "castle-black",
+    "characters": ["melisandre"],
+    "importance": 3
+  },
+  {
+    "id": "s06e01-brienne-saves-sansa",
+    "title": "Brienne's oath, accepted",
+    "description": "Bolton hunters run Sansa and Theon down in the woods — until Brienne and Podrick cut them apart. Kneeling in the snow, Brienne swears her sword and Sansa, at last, accepts.",
+    "type": "escape",
+    "season": 6, "episode": 1, "episodeTitle": "The Red Woman",
+    "coords": [14.1, 27.1],
+    "characters": ["brienne", "sansa", "theon", "podrick"],
+    "importance": 2
+  },
+  {
+    "id": "s06e02-jon-resurrected",
+    "title": "Jon Snow rises",
+    "description": "Melisandre washes the corpse, cuts the hair, speaks the words — and long after everyone stops believing, Jon Snow gasps awake on the table.",
+    "type": "supernatural",
+    "season": 6, "episode": 2, "episodeTitle": "Home",
+    "locationId": "castle-black",
+    "characters": ["jon", "melisandre", "davos", "tormund", "ghost"],
+    "importance": 1
+  },
+  {
+    "id": "s06e02-ramsay-kills-roose",
+    "title": "The Boltons eat their own",
+    "description": "Told of a newborn trueborn son, Ramsay embraces his father — around a dagger. Roose dies in his solar; Walda and the baby go to the kennels.",
+    "type": "death",
+    "season": 6, "episode": 2, "episodeTitle": "Home",
+    "locationId": "winterfell",
+    "characters": ["ramsay", "roose"],
+    "importance": 2
+  },
+  {
+    "id": "s06e02-balon-dies",
+    "title": "Euron on the bridge",
+    "description": "Balon Greyjoy meets his long-exiled brother on Pyke's swaying rope bridge in a storm. 'I am the storm, brother.' Euron throws the king into the sea.",
+    "type": "death",
+    "season": 6, "episode": 2, "episodeTitle": "Home",
+    "locationId": "pyke",
+    "characters": ["euron", "balon", "yara"],
+    "importance": 2
+  },
+  {
+    "id": "s06e03-tower-of-joy-vision",
+    "title": "The Tower of Joy",
+    "description": "Bran watches young Ned Stark and Howland Reed face Ser Arthur Dayne, the Sword of the Morning, below a lonely Dornish tower — and learns the legend was a lie. A woman screams from the tower above.",
+    "type": "supernatural",
+    "season": 6, "episode": 3, "episodeTitle": "Oathbreaker",
+    "locationId": "tower-of-joy",
+    "characters": ["bran", "three-eyed-raven", "ned", "arthur-dayne", "howland-reed", "lyanna-stark"],
+    "importance": 2
+  },
+  {
+    "id": "s06e03-jon-executes-mutineers",
+    "title": "Jon hangs the mutineers",
+    "description": "Alliser Thorne and Olly hang for treason at Jon's word. Then Jon hands Edd his cloak: 'My watch is ended.'",
+    "type": "death",
+    "season": 6, "episode": 3, "episodeTitle": "Oathbreaker",
+    "locationId": "castle-black",
+    "characters": ["jon", "alliser", "olly", "eddison"],
+    "importance": 2
+  },
+  {
+    "id": "s06e04-stark-reunion",
+    "title": "Sansa reaches Castle Black",
+    "description": "For the first time since Winter Is Coming, two Starks embrace: Sansa rides through Castle Black's gate and into Jon's arms.",
+    "type": "other",
+    "season": 6, "episode": 4, "episodeTitle": "Book of the Stranger",
+    "locationId": "castle-black",
+    "characters": ["sansa", "jon", "brienne", "podrick"],
+    "importance": 2
+  },
+  {
+    "id": "s06e04-khals-burned",
+    "title": "The Temple of the Dosh Khaleen burns",
+    "description": "Judged by the assembled khals, Daenerys tips the braziers and burns Vaes Dothrak's great temple around them. She walks out of the fire unburnt — and every Dothraki kneels.",
+    "type": "supernatural",
+    "season": 6, "episode": 4, "episodeTitle": "Book of the Stranger",
+    "locationId": "vaes-dothrak",
+    "characters": ["daenerys", "khal-moro", "jorah", "daario", "vaes-dothrak-crones", "dothraki"],
+    "importance": 1
+  },
+  {
+    "id": "s06e05-kingsmoot",
+    "title": "The Kingsmoot",
+    "description": "Yara claims the Salt Throne and Theon backs her — but Euron confesses to killing Balon and promises to marry Daenerys and her dragons. The ironborn choose Euron; Yara and Theon steal the fleet.",
+    "type": "coronation",
+    "season": 6, "episode": 5, "episodeTitle": "The Door",
+    "locationId": "pyke",
+    "characters": ["euron", "yara", "theon"],
+    "importance": 2
+  },
+  {
+    "id": "s06e05-hold-the-door",
+    "title": "Hold the door",
+    "description": "The Night King touches Bran in a vision and the cave's wards fail. As the dead pour in, the Three-Eyed Raven dies, Summer and Leaf die, and Hodor holds the door — while in a Winterfell of decades past, a stable boy named Wylis seizes up screaming the words that will be his name and his death.",
+    "type": "death",
+    "season": 6, "episode": 5, "episodeTitle": "The Door",
+    "coords": [13.8, 40.2],
+    "characters": ["hodor", "bran", "meera", "night-king", "three-eyed-raven", "leaf"],
+    "importance": 1
+  },
+  {
+    "id": "s06e06-benjen-returns",
+    "title": "Coldhands",
+    "description": "A rider with a black scarf saves Bran and Meera from wights — Benjen Stark, half-dead since Season 1, kept from turning by the children's dragonglass.",
+    "type": "supernatural",
+    "season": 6, "episode": 6, "episodeTitle": "Blood of My Blood",
+    "coords": [14.6, 38.6],
+    "characters": ["benjen", "bran", "meera"],
+    "importance": 3
+  },
+  {
+    "id": "s06e06-sam-takes-heartsbane",
+    "title": "Sam takes Heartsbane",
+    "description": "Rather than leave Gilly to his father's contempt, Sam walks back into Horn Hill's hall, takes House Tarly's Valyrian greatsword off the wall, and rides out with his family.",
+    "type": "other",
+    "season": 6, "episode": 6, "episodeTitle": "Blood of My Blood",
+    "locationId": "horn-hill",
+    "characters": ["samwell", "gilly", "randyll-tarly"],
+    "importance": 3
+  },
+  {
+    "id": "s06e07-the-broken-man",
+    "title": "The Hound lives",
+    "description": "Sandor Clegane, alive after all, swings an axe for a septon's peaceful flock — until the Brotherhood's renegades slaughter them all. The Hound picks the axe back up.",
+    "type": "other",
+    "season": 6, "episode": 7, "episodeTitle": "The Broken Man",
+    "coords": [16.8, 9.6],
+    "characters": ["hound", "brotherhood"],
+    "importance": 3
+  },
+  {
+    "id": "s06e07-lyanna-mormont",
+    "title": "Bear Island answers",
+    "description": "Ten-year-old Lyanna Mormont stares down Jon, Sansa and Davos — and pledges Bear Island's sixty-two fighting men, worth ten mainlanders each.",
+    "type": "political",
+    "season": 6, "episode": 7, "episodeTitle": "The Broken Man",
+    "locationId": "bear-island",
+    "characters": ["lyanna-mormont", "jon", "sansa", "davos"],
+    "importance": 3
+  },
+  {
+    "id": "s06e08-blackfish-falls",
+    "title": "The siege of Riverrun ends",
+    "description": "Jaime turns Edmure against his own castle: the Tully garrison yields, and the Blackfish dies sword in hand rather than flee with Brienne.",
+    "type": "battle",
+    "season": 6, "episode": 8, "episodeTitle": "No One",
+    "locationId": "riverrun",
+    "characters": ["jaime", "edmure", "blackfish", "brienne", "podrick", "bronn"],
+    "importance": 2
+  },
+  {
+    "id": "s06e08-no-one",
+    "title": "A girl is Arya Stark",
+    "description": "Gut-stabbed and hunted through Braavos, Arya leads the Waif into the dark beneath the House of Black and White and cuts the candle. A new face joins the hall. 'A girl is Arya Stark of Winterfell — and I'm going home.'",
+    "type": "death",
+    "season": 6, "episode": 8, "episodeTitle": "No One",
+    "locationId": "braavos",
+    "characters": ["arya", "waif", "jaqen", "lady-crane"],
+    "importance": 1
+  },
+  {
+    "id": "s06e09-battle-of-meereen",
+    "title": "The masters' last fleet burns",
+    "description": "Daenerys returns astride Drogon as the masters bombard Meereen — three dragons burn the fleet, the Dothraki sweep the Sons of the Harpy, and the slavers' era ends in a single hour.",
+    "type": "battle",
+    "season": 6, "episode": 9, "episodeTitle": "Battle of the Bastards",
+    "locationId": "meereen",
+    "characters": ["daenerys", "drogon", "rhaegal", "viserion", "tyrion", "grey-worm", "yara", "theon"],
+    "importance": 2
+  },
+  {
+    "id": "s06e09-battle-of-the-bastards",
+    "title": "Battle of the Bastards",
+    "description": "Rickon dies at Ramsay's game; Jon's army is ground into a wall of corpses until the knights of the Vale break the Bolton line. Jon beats Ramsay bloody in the mud — and Sansa feeds him to his own hounds.",
+    "type": "battle",
+    "season": 6, "episode": 9, "episodeTitle": "Battle of the Bastards",
+    "locationId": "winterfell",
+    "characters": ["jon", "ramsay", "sansa", "rickon", "wun-wun", "littlefinger", "davos", "tormund"],
+    "importance": 1
+  },
+  {
+    "id": "s06e10-sept-explodes",
+    "title": "The Great Sept of Baelor burns",
+    "description": "Cersei skips her trial. Wildfire beneath the Sept erases the High Sparrow, Margaery, Loras, Mace, Kevan and half the court in one green flash — and King Tommen steps quietly out of his window.",
+    "type": "destruction",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "kings-landing",
+    "characters": ["cersei", "margaery", "high-sparrow", "loras", "mace", "kevan", "tommen", "lancel", "qyburn"],
+    "importance": 1
+  },
+  {
+    "id": "s06e10-cersei-crowned",
+    "title": "Cersei of the House Lannister, First of Her Name",
+    "description": "With every rival ash and her last child dead, Cersei takes the Iron Throne herself — crowned in black before a silent court.",
+    "type": "coronation",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "kings-landing",
+    "characters": ["cersei", "jaime", "qyburn"],
+    "importance": 2
+  },
+  {
+    "id": "s06e10-frey-pie",
+    "title": "The North remembers Walder Frey",
+    "description": "A serving girl feeds Walder Frey a pie baked of his own sons, peels off her face, and opens his throat the way his men opened her mother's.",
+    "type": "death",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "twins",
+    "characters": ["arya", "walder-frey"],
+    "importance": 1
+  },
+  {
+    "id": "s06e10-r-plus-l",
+    "title": "The promise at the Tower of Joy",
+    "description": "Bran returns to the vision: Lyanna Stark, dying in a bed of blood, whispers her son's true name to Ned. 'Promise me.' The boy is Jon Snow.",
+    "type": "supernatural",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "tower-of-joy",
+    "characters": ["bran", "lyanna-stark", "ned", "jon"],
+    "importance": 1
+  },
+  {
+    "id": "s06e10-king-in-north-again",
+    "title": "The White Wolf",
+    "description": "Lyanna Mormont shames the northern lords onto their feet: the King in the North! Jon Snow — a bastard no more in their eyes — takes his brother's mantle, while Littlefinger watches Sansa.",
+    "type": "coronation",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "winterfell",
+    "characters": ["jon", "sansa", "lyanna-mormont", "littlefinger"],
+    "importance": 2
+  },
+  {
+    "id": "s06e10-sam-citadel",
+    "title": "Sam reaches the Citadel",
+    "description": "Sam delivers Jon's letter to Oldtown and is loosed into the Citadel's great library — a cathedral of chained books and hanging astrolabes.",
+    "type": "journey",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "locationId": "oldtown",
+    "characters": ["samwell", "gilly"],
+    "importance": 3
+  },
+  {
+    "id": "s06e10-dany-sails",
+    "title": "The armada sails west",
+    "description": "Greyjoy, Martell, Tyrell and Targaryen sails fill the horizon: Daenerys leaves Essos at last, dragons shadowing a thousand ships bound for Westeros.",
+    "type": "journey",
+    "season": 6, "episode": 10, "episodeTitle": "The Winds of Winter",
+    "coords": [27.5, -0.5],
+    "characters": ["daenerys", "tyrion", "varys", "missandei", "grey-worm", "yara", "theon"],
+    "importance": 1
+  }
+]

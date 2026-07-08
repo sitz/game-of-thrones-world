@@ -1,0 +1,2922 @@
+{
+ "kings-landing": {
+  "id": 1,
+  "name": "King's Landing",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   19.07823,
+   3.95361
+  ],
+  "bucket": "crownlands",
+  "seeded": true
+ },
+ "hayford-castle": {
+  "id": 2,
+  "name": "Hayford Castle",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.80257,
+   4.488
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "rosby": {
+  "id": 3,
+  "name": "Rosby",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.98698,
+   4.62115
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "old-stone-bridge-inn": {
+  "id": 4,
+  "name": "Old Stone Bridge Inn",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   20.39814,
+   5.04166
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "brindlewood": {
+  "id": 5,
+  "name": "Brindlewood",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.65072,
+   5.52757
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "sows-horn": {
+  "id": 6,
+  "name": "Sow's Horn",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.8563,
+   6.4153
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "tumbleton": {
+  "id": 7,
+  "name": "Tumbleton",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   16.79116,
+   2.33642
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "high-heart": {
+  "id": 8,
+  "name": "High Heart",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   14.23777,
+   8.45241
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "duskendale": {
+  "id": 9,
+  "name": "Duskendale",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   20.9191,
+   5.83828
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "antlers": {
+  "id": 10,
+  "name": "Antlers",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.60152,
+   7.31471
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "stokeworth": {
+  "id": 11,
+  "name": "Stokeworth",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.59218,
+   5.07203
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "ivy-inn": {
+  "id": 12,
+  "name": "Ivy Inn",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.50821,
+   6.26813
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "village": {
+  "id": 13,
+  "name": "Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.62983,
+   7.00634
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "holdfast": {
+  "id": 14,
+  "name": "Holdfast",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.80751,
+   6.46436
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "harrenhal": {
+  "id": 15,
+  "name": "Harrenhal",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   16.90096,
+   8.37999
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "rushing-falls": {
+  "id": 16,
+  "name": "Rushing Falls",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.39635,
+   7.92211
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "tumblers-falls": {
+  "id": 17,
+  "name": "Tumblers Falls",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.64893,
+   6.84749
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "stoney-sept": {
+  "id": 18,
+  "name": "Stoney Sept",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   13.99481,
+   6.1373
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "hollow-hill": {
+  "id": 19,
+  "name": "Hollow Hill",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   13.40611,
+   6.52043
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "sept": {
+  "id": 20,
+  "name": "Sept",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   13.74251,
+   6.98765
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "acorn-hall": {
+  "id": 21,
+  "name": "Acorn Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.05088,
+   8.01555
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "pinkmaiden": {
+  "id": 22,
+  "name": "Pinkmaiden",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   12.9856,
+   7.60439
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "mummers-ford": {
+  "id": 23,
+  "name": "Mummer's Ford",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   12.74265,
+   7.23996
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "sherrer": {
+  "id": 24,
+  "name": "Sherrer",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   12.75199,
+   7.04372
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "wendish-town": {
+  "id": 25,
+  "name": "Wendish Town",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   12.58379,
+   7.0811
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "lord-goodbrooks-village": {
+  "id": 26,
+  "name": "Lord Goodbrook's Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.65827,
+   8.67901
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "sallydance": {
+  "id": 27,
+  "name": "Sallydance",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.20039,
+   8.76311
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "lady-of-the-leaves": {
+  "id": 28,
+  "name": "Lady of the Leaves",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.03219,
+   9.00607
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "lord-lychesters-keep": {
+  "id": 29,
+  "name": "Lord Lychester's Keep",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.61155,
+   9.42657
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "unnamed-village": {
+  "id": 30,
+  "name": "Unnamed Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.75172,
+   9.60412
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "inn-they-ley-with-lions": {
+  "id": 31,
+  "name": "Inn (They Ley with Lions)",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   13.83596,
+   9.81904
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "riverrun": {
+  "id": 32,
+  "name": "Riverrun",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   13.31266,
+   9.49198
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "raventree-hall": {
+  "id": 33,
+  "name": "Raventree Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   15.7983,
+   8.83787
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "darry": {
+  "id": 34,
+  "name": "Darry",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   17.37753,
+   9.37051
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "inn-of-the-kneeling-man": {
+  "id": 35,
+  "name": "Inn of the Kneeling Man",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.8732,
+   10.27692
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "bwb-hideout": {
+  "id": 36,
+  "name": "BWB hideout",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.01323,
+   10.36102
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "lort-harroways-town": {
+  "id": 37,
+  "name": "Lort Harroway's Town",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.88227,
+   9.7256
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "crossroads-inn": {
+  "id": 38,
+  "name": "Crossroads Inn",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.34015,
+   9.81904
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "saltpans": {
+  "id": 39,
+  "name": "Saltpans",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.18102,
+   9.09951
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "quiet-isle": {
+  "id": 40,
+  "name": "Quiet Isle",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.22774,
+   8.93131
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "wickenden": {
+  "id": 41,
+  "name": "Wickenden",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.63863,
+   9.09017
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "maidenpool": {
+  "id": 42,
+  "name": "Maidenpool",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   20.17154,
+   8.23047
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "rooks-rest": {
+  "id": 43,
+  "name": "Rook's Rest",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.06848,
+   7.26799
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "dyre-den": {
+  "id": 44,
+  "name": "Dyre Den",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.91869,
+   9.18362
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "whispers": {
+  "id": 45,
+  "name": "The Whispers",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   24.58215,
+   8.48278
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "dragonstone": {
+  "id": 46,
+  "name": "Dragonstone",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.34854,
+   7.05307
+  ],
+  "bucket": "crownlands",
+  "seeded": true
+ },
+ "sharp-point": {
+  "id": 47,
+  "name": "Sharp Point",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.80656,
+   5.74483
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "stonedance": {
+  "id": 48,
+  "name": "Stonedance",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.20837,
+   4.95055
+  ],
+  "bucket": "crownlands",
+  "seeded": false
+ },
+ "haystack-hall": {
+  "id": 49,
+  "name": "Haystack Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.74128,
+   1.54914
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "bronzegate": {
+  "id": 50,
+  "name": "Bronzegate",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.04044,
+   1.29684
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "felwood": {
+  "id": 51,
+  "name": "Felwood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.28354,
+   0.4278
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "storms-end": {
+  "id": 52,
+  "name": "Storm's End",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.71325,
+   -0.65616
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "griffins-roost": {
+  "id": 53,
+  "name": "Griffin's Roost",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.81617,
+   -1.26355
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "rain-house": {
+  "id": 54,
+  "name": "Rain House",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   25.05872,
+   -1.99243
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "greenstone": {
+  "id": 55,
+  "name": "Greenstone",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.79707,
+   -4.0856
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "weeping-tower": {
+  "id": 56,
+  "name": "Weeping Tower",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.8721,
+   -4.5902
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "mistwood": {
+  "id": 57,
+  "name": "Mistwood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.00293,
+   -3.80526
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "stonehelm": {
+  "id": 58,
+  "name": "Stonehelm",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   20.04071,
+   -3.23525
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "crows-nest": {
+  "id": 59,
+  "name": "Crow's Nest",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.07796,
+   -2.24473
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "grandview": {
+  "id": 60,
+  "name": "Grandview",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   20.28367,
+   -1.17945
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "summerhall": {
+  "id": 61,
+  "name": "Summerhall",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   18.49887,
+   -1.70275
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "blackhaven": {
+  "id": 62,
+  "name": "Blackhaven",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   17.86344,
+   -2.85212
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "fawnton": {
+  "id": 63,
+  "name": "Fawnton",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   18.60166,
+   0.92306
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "grassy-vale": {
+  "id": 64,
+  "name": "Grassy Vale",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   17.13457,
+   0.1755
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "wyl": {
+  "id": 65,
+  "name": "Wyl",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   17.77934,
+   -4.29118
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "ghaston-grey": {
+  "id": 66,
+  "name": "Ghaston Grey",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.32119,
+   -6.16943
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "yronwood": {
+  "id": 67,
+  "name": "Yronwood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   16.87292,
+   -6.92633
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "vultures-roost": {
+  "id": 68,
+  "name": "Vulture's Roost",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.85451,
+   -4.80513
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "nightsong": {
+  "id": 69,
+  "name": "Nightsong",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   13.61169,
+   -4.27249
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "ashford": {
+  "id": 70,
+  "name": "Ashford",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.64893,
+   -1.85226
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "cider-hall": {
+  "id": 71,
+  "name": "Cider Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   12.93888,
+   -1.30093
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "highgarden": {
+  "id": 72,
+  "name": "Highgarden",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   10.71489,
+   -2.76802
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "horn-hill": {
+  "id": 73,
+  "name": "Horn Hill",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   10.79899,
+   -4.44069
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "brightwater-keep": {
+  "id": 74,
+  "name": "Brightwater Keep",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   7.92088,
+   -4.52479
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "bandallon": {
+  "id": 75,
+  "name": "Bandallon",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   6.45379,
+   -4.41266
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "honeyholt": {
+  "id": 76,
+  "name": "Honeyholt",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.15449,
+   -5.43121
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "oldtown": {
+  "id": 77,
+  "name": "Oldtown",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   7.75268,
+   -6.57124
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "blackcrown": {
+  "id": 78,
+  "name": "Blackcrown",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   6.351,
+   -7.24405
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "three-towers": {
+  "id": 79,
+  "name": "Three Towers",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   6.99577,
+   -8.06636
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "uplands": {
+  "id": 80,
+  "name": "Uplands",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   9.9206,
+   -6.82354
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "sunflower-hall": {
+  "id": 81,
+  "name": "Sunflower Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   9.14501,
+   -9.72969
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "blackmont": {
+  "id": 82,
+  "name": "Blackmont",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   12.1446,
+   -6.62731
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "high-hermitage": {
+  "id": 83,
+  "name": "High Hermitage",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   12.20067,
+   -7.34684
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "starfall": {
+  "id": 84,
+  "name": "Starfall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   11.44376,
+   -8.16915
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "sandstone": {
+  "id": 85,
+  "name": "Sandstone",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   13.66775,
+   -9.43066
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "skyreach": {
+  "id": 86,
+  "name": "Skyreach",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.16301,
+   -7.29077
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "kingsgrave": {
+  "id": 87,
+  "name": "Kingsgrave",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.33122,
+   -6.02926
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "tower-of-joy": {
+  "id": 88,
+  "name": "Tower of Joy",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.36859,
+   -5.13218
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "hellholt": {
+  "id": 89,
+  "name": "Hellholt",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   16.20012,
+   -9.14098
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "vaith": {
+  "id": 90,
+  "name": "Vaith",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   20.39581,
+   -9.30918
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "salt-shore": {
+  "id": 91,
+  "name": "Salt Shore",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.35829,
+   -10.11281
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "godsgrace": {
+  "id": 92,
+  "name": "Godsgrace",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.47043,
+   -8.54293
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "tor": {
+  "id": 93,
+  "name": "The Tor",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   20.63876,
+   -7.29077
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "ghost-hill": {
+  "id": 94,
+  "name": "Ghost Hill",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.83459,
+   -7.44962
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "lemonwood": {
+  "id": 95,
+  "name": "Lemonwood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.9841,
+   -9.58952
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "sunspear": {
+  "id": 96,
+  "name": "Sunspear",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.59149,
+   -8.92606
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "planky-town": {
+  "id": 97,
+  "name": "Planky Town",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   24.04951,
+   -9.1036
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "water-gardens": {
+  "id": 98,
+  "name": "Water Gardens",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   24.72232,
+   -8.72048
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "shandystone": {
+  "id": 99,
+  "name": "Shandystone",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   22.6198,
+   -8.52424
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "tall-trees-town": {
+  "id": 100,
+  "name": "Tall Trees Town",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   12.63986,
+   -24.96592
+  ],
+  "bucket": "dorne",
+  "seeded": false
+ },
+ "longtable": {
+  "id": 101,
+  "name": "Longtable",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.13031,
+   -0.22631
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "bitterbridge": {
+  "id": 102,
+  "name": "Bitterbridge",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.41999,
+   0.73617
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "goldengrove": {
+  "id": 103,
+  "name": "Goldengrove",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   10.77563,
+   0.73617
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "red-lake": {
+  "id": 104,
+  "name": "Red Lake",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.7759,
+   1.47439
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "old-oak": {
+  "id": 105,
+  "name": "Old Oak",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   7.33684,
+   -0.18894
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "crakehall": {
+  "id": 106,
+  "name": "Crakehall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   6.54256,
+   2.29671
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "cornfield": {
+  "id": 107,
+  "name": "Cornfield",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.54229,
+   2.89476
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "silverhill": {
+  "id": 108,
+  "name": "Silverhill",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   10.71021,
+   3.63297
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "clegane-hall": {
+  "id": 109,
+  "name": "Clegane Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   9.15903,
+   4.05348
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "tarbeck-hall": {
+  "id": 110,
+  "name": "Tarbeck Hall",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   7.02848,
+   4.0161
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "lannisport": {
+  "id": 111,
+  "name": "Lannisport",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   7.36488,
+   5.22154
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "feastfires": {
+  "id": 112,
+  "name": "Feastfires",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   5.70155,
+   4.99727
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "kayce": {
+  "id": 113,
+  "name": "Kayce",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   5.97254,
+   5.53925
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "oxcross": {
+  "id": 114,
+  "name": "Oxcross",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   8.11244,
+   5.9691
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "sarsfield": {
+  "id": 115,
+  "name": "Sarsfield",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.96279,
+   6.45502
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "deep-den": {
+  "id": 116,
+  "name": "Deep Den",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   11.27089,
+   5.05334
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "hornvale": {
+  "id": 117,
+  "name": "Hornvale",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   11.05596,
+   5.94107
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "golden-tooth": {
+  "id": 118,
+  "name": "Golden Tooth",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   10.6448,
+   7.29602
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "wayfarers-rest": {
+  "id": 119,
+  "name": "Wayfarer's Rest",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   11.98107,
+   7.99686
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "castamere": {
+  "id": 120,
+  "name": "Castamere",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   8.42081,
+   7.69784
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "pendric-hills": {
+  "id": 121,
+  "name": "Pendric Hills",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   9.17771,
+   8.76311
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "crag": {
+  "id": 122,
+  "name": "The Crag",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.40212,
+   8.80983
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "banefort": {
+  "id": 123,
+  "name": "Banefort",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.40212,
+   10.15544
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "ashemark": {
+  "id": 124,
+  "name": "Ashemark",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   9.14034,
+   8.01555
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "nunns-deep": {
+  "id": 125,
+  "name": "Nunn's Deep",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   9.81314,
+   9.50133
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "stone-mill": {
+  "id": 126,
+  "name": "Stone Mill",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   13.22389,
+   8.53884
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "stone-hedge": {
+  "id": 127,
+  "name": "Stone Hedge",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   15.20493,
+   9.43592
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "fairmarket": {
+  "id": 128,
+  "name": "Fairmarket",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   14.80311,
+   11.48237
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "oldstones": {
+  "id": 129,
+  "name": "Oldstones",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   13.81259,
+   11.97763
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "palisade-village": {
+  "id": 130,
+  "name": "Palisade Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.54106,
+   11.14596
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "bloody-gate": {
+  "id": 131,
+  "name": "The Bloody Gate",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.86784,
+   11.66926
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "eyrie": {
+  "id": 132,
+  "name": "The Eyrie",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.9426,
+   12.21124
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "strongsong": {
+  "id": 133,
+  "name": "Strongsong",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.30731,
+   13.82784
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "hearts-home": {
+  "id": 134,
+  "name": "Heart's Home",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   20.83967,
+   13.79046
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "redfort": {
+  "id": 135,
+  "name": "Redfort",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.68068,
+   10.94973
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "ironoaks": {
+  "id": 136,
+  "name": "Ironoaks",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.62447,
+   12.3701
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "old-anchor": {
+  "id": 137,
+  "name": "Old Anchor",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.78319,
+   12.7065
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "runestone": {
+  "id": 138,
+  "name": "Runestone",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.96995,
+   12.40747
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "gulltown": {
+  "id": 139,
+  "name": "Gulltown",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   24.66158,
+   11.52909
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "longbow-hall": {
+  "id": 140,
+  "name": "Longbow Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.98877,
+   14.58475
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "snakewood": {
+  "id": 141,
+  "name": "Snakewood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   22.42824,
+   15.47247
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "baelish-keep": {
+  "id": 142,
+  "name": "Baelish Keep",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   25.43717,
+   15.95839
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "coldwater": {
+  "id": 143,
+  "name": "Coldwater",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.90495,
+   16.6312
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "seagard": {
+  "id": 144,
+  "name": "Seagard",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   13.07438,
+   13.2952
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "twins": {
+  "id": 145,
+  "name": "The Twins",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   13.29865,
+   14.47261
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "greywater-watch": {
+  "id": 147,
+  "name": "Greywater Watch",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.24244,
+   17.01432
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "moat-cailin": {
+  "id": 148,
+  "name": "Moat Cailin",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   14.8218,
+   20.15408
+  ],
+  "bucket": "north",
+  "seeded": true
+ },
+ "sisterton": {
+  "id": 149,
+  "name": "Sisterton",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   18.80257,
+   18.28517
+  ],
+  "bucket": "vale",
+  "seeded": false
+ },
+ "oldcastle": {
+  "id": 150,
+  "name": "Oldcastle",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.12976,
+   19.22897
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "white-harbor": {
+  "id": 151,
+  "name": "White Harbor",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   16.93366,
+   21.36887
+  ],
+  "bucket": "north",
+  "seeded": true
+ },
+ "ramsgate": {
+  "id": 152,
+  "name": "Ramsgate",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   21.20411,
+   22.47152
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "widows-watch": {
+  "id": 153,
+  "name": "Widow's Watch",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.22239,
+   21.9015
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "hornwood": {
+  "id": 154,
+  "name": "Hornwood",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.98011,
+   24.91978
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "tower": {
+  "id": 155,
+  "name": "Tower",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.59699,
+   25.9103
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "dreadfort": {
+  "id": 156,
+  "name": "The Dreadfort",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.91456,
+   27.3587
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "cerwyn": {
+  "id": 157,
+  "name": "Cerwyn",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.59753,
+   26.05981
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "holdfast-158": {
+  "id": 158,
+  "name": "Holdfast",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.80311,
+   26.82606
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "winterfell": {
+  "id": 159,
+  "name": "Winterfell",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   14.56016,
+   26.61114
+  ],
+  "bucket": "north",
+  "seeded": true
+ },
+ "crofters-village": {
+  "id": 160,
+  "name": "Crofters' Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.13031,
+   26.82606
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "tumbledown-tower": {
+  "id": 161,
+  "name": "Tumbledown Tower",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   14.19105,
+   27.60166
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "deepwood-motte": {
+  "id": 162,
+  "name": "Deepwood Motte",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   10.65882,
+   29.35843
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "last-hearth": {
+  "id": 163,
+  "name": "Last Hearth",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   19.36791,
+   31.33012
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "karhold": {
+  "id": 164,
+  "name": "Karhold",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   23.63835,
+   29.49859
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "queenscrown": {
+  "id": 165,
+  "name": "Queenscrown",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.15312,
+   33.78773
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "castle-black": {
+  "id": 166,
+  "name": "Castle Black",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   18.85396,
+   34.89038
+  ],
+  "bucket": "north",
+  "seeded": true
+ },
+ "moles-town": {
+  "id": 167,
+  "name": "Mole's Town",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.88199,
+   34.6007
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "shadow-tower": {
+  "id": 168,
+  "name": "Shadow Tower",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   16.35898,
+   34.99317
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "westwatch-by-the-bridge": {
+  "id": 169,
+  "name": "Westwatch-by-the-Bridge",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.05061,
+   34.99317
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "sentinel-stand": {
+  "id": 170,
+  "name": "Sentinel Stand",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.70939,
+   35.01653
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "greyguard": {
+  "id": 171,
+  "name": "Greyguard",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.07383,
+   34.92776
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "stonedoor": {
+  "id": 172,
+  "name": "Stonedoor",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.41491,
+   35.05391
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "hoarfrost-hill": {
+  "id": 173,
+  "name": "Hoarfrost Hill",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.65319,
+   35.03989
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "icemark": {
+  "id": 174,
+  "name": "Icemark",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.93353,
+   34.99317
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "nightfort": {
+  "id": 175,
+  "name": "Nightfort",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.16714,
+   34.95112
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "deep-lake": {
+  "id": 176,
+  "name": "Deep Lake",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.35403,
+   34.91374
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "queensgate": {
+  "id": 177,
+  "name": "Queensgate",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.56895,
+   34.87169
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "oakensheild": {
+  "id": 178,
+  "name": "Oakensheild",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.1343,
+   34.81095
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "woodswatch-by-the-pool": {
+  "id": 179,
+  "name": "Woodswatch-by-the-Pool",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.37258,
+   34.79694
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "sable-hall": {
+  "id": 180,
+  "name": "Sable Hall",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.68095,
+   34.75021
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "rimegate": {
+  "id": 181,
+  "name": "Rimegate",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   19.96596,
+   34.73152
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "long-barrow": {
+  "id": 182,
+  "name": "Long Barrow",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   20.19023,
+   34.69415
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "torches": {
+  "id": 183,
+  "name": "Torches",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   20.40982,
+   34.67078
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "greenguard": {
+  "id": 184,
+  "name": "Greenguard",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   20.57335,
+   34.62873
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "eastwatch-by-the-sea": {
+  "id": 185,
+  "name": "Eastwatch-by-the-Sea",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   20.71819,
+   34.79226
+  ],
+  "bucket": "beyond-wall",
+  "seeded": false
+ },
+ "whitetree": {
+  "id": 186,
+  "name": "Whitetree",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   18.16714,
+   35.409
+  ],
+  "bucket": "beyond-wall",
+  "seeded": false
+ },
+ "crasters-keep": {
+  "id": 187,
+  "name": "Craster's Keep",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   17.62516,
+   36.29673
+  ],
+  "bucket": "beyond-wall",
+  "seeded": false
+ },
+ "fist-of-the-first-men": {
+  "id": 188,
+  "name": "Fist of the First Men",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   16.24217,
+   37.21249
+  ],
+  "bucket": "beyond-wall",
+  "seeded": false
+ },
+ "fishing-village": {
+  "id": 189,
+  "name": "Fishing Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   5.14088,
+   24.48059
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "pennytree": {
+  "id": 190,
+  "name": "Pennytree",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   15.5133,
+   8.92664
+  ],
+  "bucket": "riverlands",
+  "seeded": false
+ },
+ "lys": {
+  "id": 191,
+  "name": "Lys",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   31.69333,
+   -8.99614
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "tyrosh": {
+  "id": 192,
+  "name": "Tyrosh",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   28.51152,
+   -3.56231
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "myr": {
+  "id": 193,
+  "name": "Myr",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   33.69773,
+   -2.59048
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "pentos": {
+  "id": 194,
+  "name": "Pentos",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   31.12798,
+   4.63284
+  ],
+  "bucket": "essos-west",
+  "seeded": true
+ },
+ "ghoyan-drohe": {
+  "id": 195,
+  "name": "Ghoyan Drohe",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   35.0994,
+   5.59532
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "norvos": {
+  "id": 196,
+  "name": "Norvos",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   38.31392,
+   8.76311
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "evenfall-hall": {
+  "id": 197,
+  "name": "Evenfall Hall",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   24.79941,
+   0.27128
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "parchments": {
+  "id": 198,
+  "name": "Parchments",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   24.27612,
+   1.40197
+  ],
+  "bucket": "stormlands",
+  "seeded": false
+ },
+ "braavos": {
+  "id": 199,
+  "name": "Braavos",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   30.97614,
+   16.24106
+  ],
+  "bucket": "essos-west",
+  "seeded": true
+ },
+ "lorath": {
+  "id": 200,
+  "name": "Lorath",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   36.22775,
+   14.78332
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "qohor": {
+  "id": 201,
+  "name": "Qohor",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   44.95553,
+   4.74731
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "ar-noy": {
+  "id": 202,
+  "name": "Ar Noy",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   42.02135,
+   2.57938
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "ny-sar": {
+  "id": 203,
+  "name": "Ny Sar",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   38.7134,
+   3.30825
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "sorrows-chroyane": {
+  "id": 204,
+  "name": "The Sorrows (Chroyane)",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   40.48885,
+   -1.8873
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "selhorys": {
+  "id": 205,
+  "name": "Selhorys",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   41.23642,
+   -5.34477
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "valysar": {
+  "id": 206,
+  "name": "Valysar",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   41.18035,
+   -7.13892
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "volon-therys": {
+  "id": 207,
+  "name": "Volon Therys",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   41.92791,
+   -8.26026
+  ],
+  "bucket": "essos-west",
+  "seeded": false
+ },
+ "sar-mell": {
+  "id": 208,
+  "name": "Sar Mell",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   42.37645,
+   -8.16682
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "volantis": {
+  "id": 209,
+  "name": "Volantis",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   43.63796,
+   -9.2134
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "mantarys": {
+  "id": 212,
+  "name": "Mantarys",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   56.53339,
+   -11.64765
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "oros": {
+  "id": 214,
+  "name": "Oros",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   55.86993,
+   -18.53456
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "elyria": {
+  "id": 215,
+  "name": "Elyria",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   57.72949,
+   -13.76885
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "tolos": {
+  "id": 216,
+  "name": "Tolos",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   59.13117,
+   -13.21753
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "ghozai": {
+  "id": 217,
+  "name": "Ghozai",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   60.6917,
+   -15.27332
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "velos": {
+  "id": 218,
+  "name": "Velos",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   61.04679,
+   -17.13288
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "astapor": {
+  "id": 220,
+  "name": "Astapor",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   64.91542,
+   -15.23594
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "yunkai": {
+  "id": 221,
+  "name": "Yunkai",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   65.84987,
+   -11.24583
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "meereen": {
+  "id": 222,
+  "name": "Meereen",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   67.13007,
+   -9.61054
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "lhazarene-village": {
+  "id": 223,
+  "name": "Lhazarene Village",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   73.03581,
+   -7.13892
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "vaes-dothrak": {
+  "id": 224,
+  "name": "Vaes Dothrak",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   64.93878,
+   -1.14441
+  ],
+  "bucket": "essos-east",
+  "seeded": true
+ },
+ "old-ghis": {
+  "id": 225,
+  "name": "Old Ghis",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   65.80782,
+   -19.70262
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "new-ghis": {
+  "id": 226,
+  "name": "New Ghis",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   66.77031,
+   -23.57125
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "zamettar": {
+  "id": 227,
+  "name": "Zamettar",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   64.63976,
+   -31.20572
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "yeen": {
+  "id": 228,
+  "name": "Yeen",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   65.69102,
+   -33.97637
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "gogossos": {
+  "id": 229,
+  "name": "Gogossos",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   61.39254,
+   -33.60259
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "flints-finger": {
+  "id": 230,
+  "name": "Flint's Finger",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   8.01666,
+   18.51178
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "barrowton": {
+  "id": 231,
+  "name": "Barrowton",
+  "type": "Town",
+  "size": 4,
+  "coords": [
+   11.20314,
+   21.85712
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "torrhens-square": {
+  "id": 232,
+  "name": "Torrhen's Square",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   11.8666,
+   24.6044
+  ],
+  "bucket": "north",
+  "seeded": false
+ },
+ "bhorash": {
+  "id": 233,
+  "name": "Bhorash",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   62.19384,
+   -10.13015
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "pyke": {
+  "id": 234,
+  "name": "Pyke",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   7.54888,
+   11.06055
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "pebbleton": {
+  "id": 235,
+  "name": "Pebbleton",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   7.04335,
+   11.58577
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "hammerhorn": {
+  "id": 236,
+  "name": "Hammerhorn",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   6.09794,
+   11.85495
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "naggas-ribs": {
+  "id": 237,
+  "name": "Nagga's Ribs",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   6.6166,
+   12.1307
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "castle-goodbrother": {
+  "id": 238,
+  "name": "Castle Goodbrother",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   6.82013,
+   12.31452
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "ten-towers": {
+  "id": 239,
+  "name": "Ten Towers",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   9.13112,
+   12.13726
+  ],
+  "bucket": "iron-islands",
+  "seeded": false
+ },
+ "faircastle": {
+  "id": 240,
+  "name": "Faircastle",
+  "type": "Castle",
+  "size": 3,
+  "coords": [
+   7.00396,
+   7.35114
+  ],
+  "bucket": "westerlands",
+  "seeded": false
+ },
+ "tyria": {
+  "id": 241,
+  "name": "Tyria",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   55.38386,
+   -19.9672
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "valyria": {
+  "id": 242,
+  "name": "Valyria",
+  "type": "Ruin",
+  "size": 2,
+  "coords": [
+   54.75359,
+   -22.23223
+  ],
+  "bucket": "essos-east",
+  "seeded": false
+ },
+ "qarth": {
+  "id": 246,
+  "name": "Qarth",
+  "type": "City",
+  "size": 5,
+  "coords": [
+   87.984,
+   -34.58818
+  ],
+  "bucket": "essos-east",
+  "seeded": true
+ },
+ "lord-hewetts-town": {
+  "id": 247,
+  "name": "Lord Hewett's Town",
+  "type": "Other",
+  "size": 1,
+  "coords": [
+   7.68675,
+   -1.92239
+  ],
+  "bucket": "reach",
+  "seeded": false
+ },
+ "casterly-rock": {
+  "slug": "casterly-rock",
+  "name": "Casterly Rock",
+  "type": "Castle",
+  "size": 5,
+  "coords": [
+   7.28,
+   5.52
+  ],
+  "bucket": "westerlands",
+  "isNew": true,
+  "seeded": false
+ },
+ "hardhome": {
+  "slug": "hardhome",
+  "name": "Hardhome",
+  "type": "Village",
+  "size": 3,
+  "coords": [
+   21.6,
+   36.8
+  ],
+  "bucket": "beyond-wall",
+  "isNew": true,
+  "seeded": false
+ },
+ "bear-island": {
+  "slug": "bear-island",
+  "name": "Bear Island",
+  "type": "Castle",
+  "size": 2,
+  "coords": [
+   10.39083,
+   32.32641
+  ],
+  "bucket": "north",
+  "isNew": true,
+  "seeded": false
+ },
+ "naath": {
+  "slug": "naath",
+  "name": "Naath",
+  "type": "Landmark",
+  "size": 1,
+  "coords": [
+   52.77926,
+   -32.68379
+  ],
+  "bucket": "essos-east",
+  "isNew": true,
+  "seeded": false
+ }
+}

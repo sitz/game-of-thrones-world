@@ -1,0 +1,29 @@
+{
+  "characterId": "jon",
+  "name": "Jon Snow",
+  "color": "#2e4a62",
+  "waypoints": [
+    { "locationId": "winterfell", "season": 1, "episode": 1, "note": "Bastard of Winterfell" },
+    { "locationId": "castle-black", "season": 1, "episode": 3, "via": [[15.6, 29.2], [17.6, 32.4]], "note": "Takes the black" },
+    { "locationId": "crasters-keep", "season": 2, "episode": 1, "via": [[18.9, 35.6]], "note": "The great ranging" },
+    { "coords": [15.8, 37.4], "season": 2, "episode": 6, "via": [[17.4, 36.9]], "note": "Captured by wildlings in the Skirling Pass" },
+    { "coords": [14.8, 38.2], "season": 3, "episode": 1, "note": "Brought before Mance Rayder" },
+    { "coords": [17.9, 35.05], "season": 3, "episode": 6, "via": [[16.4, 36.6]], "note": "Climbs the Wall with the raiders" },
+    { "locationId": "castle-black", "season": 3, "episode": 10, "via": [[18.4, 34.6]], "note": "Escapes Ygritte's band, rides home wounded" },
+    { "locationId": "crasters-keep", "season": 4, "episode": 5, "note": "Leads the raid on the mutineers" },
+    { "locationId": "castle-black", "season": 4, "episode": 6, "note": "Holds the Wall against Mance's host" },
+    { "locationId": "hardhome", "season": 5, "episode": 8, "via": [[20.72, 34.79], [22.0, 35.9]], "note": "Sails to evacuate the free folk" },
+    { "locationId": "castle-black", "season": 5, "episode": 9, "via": [[22.0, 35.9], [20.72, 34.79]], "note": "Returns with the survivors — murdered, then raised" },
+    { "locationId": "bear-island", "season": 6, "episode": 7, "via": [[15.9, 27.6], [12.4, 28.9]], "note": "Rallies the North with Sansa and Davos" },
+    { "locationId": "winterfell", "season": 6, "episode": 9, "via": [[13.0, 27.6]], "note": "Battle of the Bastards — King in the North" },
+    { "locationId": "white-harbor", "season": 7, "episode": 2, "via": [[15.8, 23.9]], "note": "Rides for the coast against all counsel" },
+    { "locationId": "dragonstone", "season": 7, "episode": 3, "via": [[19.6, 16.5], [22.4, 10.4]], "note": "Sails to meet Daenerys" },
+    { "locationId": "eastwatch-by-the-sea", "season": 7, "episode": 5, "via": [[24.4, 13.0], [23.6, 25.0], [21.8, 33.0]], "note": "North for the wight hunt" },
+    { "coords": [17.0, 38.5], "season": 7, "episode": 6, "note": "Surrounded on the frozen lake" },
+    { "locationId": "kings-landing", "season": 7, "episode": 7, "via": [[20.9, 36.0], [23.8, 24.0], [21.4, 7.0]], "note": "The Dragonpit parley" },
+    { "locationId": "winterfell", "season": 8, "episode": 1, "via": [[19.6, 12.0], [16.9, 21.4]], "note": "Home, with a queen and two dragons" },
+    { "locationId": "kings-landing", "season": 8, "episode": 5, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Marches south for the last war" },
+    { "locationId": "castle-black", "season": 8, "episode": 6, "via": [[16.2, 15.2], [16.5, 28.0]], "note": "Exiled to the Watch" },
+    { "coords": [17.4, 36.1], "season": 8, "episode": 6, "note": "Rides north with the free folk — the story leaves him here" }
+  ]
+}

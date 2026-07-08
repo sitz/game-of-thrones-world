@@ -1,0 +1,222 @@
+[
+  {
+    "id": "s05e01-mance-burned",
+    "title": "The last King-Beyond-the-Wall",
+    "description": "Mance Rayder refuses to kneel and Stannis gives him to the flames. Jon ends it early with an arrow through the heart — mercy over spectacle.",
+    "type": "death",
+    "season": 5, "episode": 1, "episodeTitle": "The Wars to Come",
+    "locationId": "castle-black",
+    "characters": ["mance", "stannis", "jon", "melisandre"],
+    "importance": 2
+  },
+  {
+    "id": "s05e01-varys-tyrion-pentos",
+    "title": "A crate opens in Pentos",
+    "description": "Varys uncrates Tyrion in Illyrio's manse and offers him a cause: help him put Daenerys Targaryen on the Iron Throne.",
+    "type": "political",
+    "season": 5, "episode": 1, "episodeTitle": "The Wars to Come",
+    "locationId": "pentos",
+    "characters": ["varys", "tyrion"],
+    "importance": 3
+  },
+  {
+    "id": "s05e02-jon-elected",
+    "title": "The 998th Lord Commander",
+    "description": "Sam's speech swings the choosing: Jon Snow ties Alliser Thorne, and Maester Aemon's casting token makes the bastard of Winterfell Lord Commander of the Night's Watch.",
+    "type": "political",
+    "season": 5, "episode": 2, "episodeTitle": "The House of Black and White",
+    "locationId": "castle-black",
+    "characters": ["jon", "samwell", "alliser", "aemon"],
+    "importance": 2
+  },
+  {
+    "id": "s05e02-arya-house-bw",
+    "title": "The House of Black and White",
+    "description": "Arya's coin brings her across the lagoon to the temple of the Many-Faced God — where the doorkeeper wears a familiar face. Jaqen: 'a girl must become no one.'",
+    "type": "journey",
+    "season": 5, "episode": 2, "episodeTitle": "The House of Black and White",
+    "locationId": "braavos",
+    "characters": ["arya", "jaqen"],
+    "importance": 2
+  },
+  {
+    "id": "s05e03-jon-beheads-janos",
+    "title": "Jon executes Janos Slynt",
+    "description": "Ordered to Greyguard, Janos Slynt refuses and sneers — then begs. Jon Snow takes his head in the yard, and Stannis nods.",
+    "type": "death",
+    "season": 5, "episode": 3, "episodeTitle": "High Sparrow",
+    "locationId": "castle-black",
+    "characters": ["jon", "janos", "stannis", "olly"],
+    "importance": 3
+  },
+  {
+    "id": "s05e03-sansa-to-winterfell",
+    "title": "Littlefinger sells Sansa north",
+    "description": "Littlefinger delivers Sansa to Winterfell to wed Ramsay Bolton — back to her stolen home, under the roof of the family that murdered hers.",
+    "type": "political",
+    "season": 5, "episode": 3, "episodeTitle": "High Sparrow",
+    "locationId": "winterfell",
+    "characters": ["sansa", "littlefinger", "ramsay", "roose"],
+    "importance": 2
+  },
+  {
+    "id": "s05e04-sons-of-harpy-ambush",
+    "title": "The Sons of the Harpy strike",
+    "description": "Gold-masked insurgents ambush the Unsullied in Meereen's tunnels. Grey Worm falls wounded; Ser Barristan Selmy, the finest sword of his age, dies fighting over him.",
+    "type": "battle",
+    "season": 5, "episode": 4, "episodeTitle": "Sons of the Harpy",
+    "locationId": "meereen",
+    "characters": ["barristan", "grey-worm", "daenerys"],
+    "importance": 2
+  },
+  {
+    "id": "s05e04-jaime-dorne",
+    "title": "Jaime and Bronn slip into Dorne",
+    "description": "Jaime and Bronn land on a Dornish beach to steal Myrcella home, opening Dorne's hostile coast with a golden-handed parry and four dead riders.",
+    "type": "journey",
+    "season": 5, "episode": 4, "episodeTitle": "Sons of the Harpy",
+    "coords": [22.3, -9.2],
+    "characters": ["jaime", "bronn"],
+    "importance": 3
+  },
+  {
+    "id": "s05e05-valyria",
+    "title": "Through the ruins of Valyria",
+    "description": "Jorah rows his captive Tyrion through the smoking ruin of old Valyria. Drogon passes overhead — and the stone men fall on them. Jorah hides the grayscale on his wrist.",
+    "type": "journey",
+    "season": 5, "episode": 5, "episodeTitle": "Kill the Boy",
+    "locationId": "valyria",
+    "characters": ["jorah", "tyrion", "drogon"],
+    "importance": 2
+  },
+  {
+    "id": "s05e06-sansa-wedding-night",
+    "title": "Sansa's wedding",
+    "description": "Sansa is married to Ramsay Bolton in Winterfell's godswood at dusk. What follows in the bedchamber, with Theon forced to watch, is the season's darkest hour.",
+    "type": "wedding",
+    "season": 5, "episode": 6, "episodeTitle": "Unbowed, Unbent, Unbroken",
+    "locationId": "winterfell",
+    "characters": ["sansa", "ramsay", "theon"],
+    "importance": 2
+  },
+  {
+    "id": "s05e06-water-gardens",
+    "title": "Fiasco at the Water Gardens",
+    "description": "Jaime and Bronn reach Myrcella just as the Sand Snakes do — a scuffle in the gardens ends with everyone in Doran Martell's cells.",
+    "type": "battle",
+    "season": 5, "episode": 6, "episodeTitle": "Unbowed, Unbent, Unbroken",
+    "locationId": "water-gardens",
+    "characters": ["jaime", "bronn", "sand-snakes", "ellaria", "myrcella", "doran"],
+    "importance": 3
+  },
+  {
+    "id": "s05e07-cersei-imprisoned",
+    "title": "The Faith takes the Queen Mother",
+    "description": "Cersei visits Margaery's cell to gloat — and Septa Unella locks the door behind her. The High Sparrow's weapon turns in the hand that armed it.",
+    "type": "political",
+    "season": 5, "episode": 7, "episodeTitle": "The Gift",
+    "locationId": "kings-landing",
+    "characters": ["cersei", "high-sparrow", "septa-unella", "olenna", "lancel"],
+    "importance": 2
+  },
+  {
+    "id": "s05e07-jorah-gift",
+    "title": "The gift",
+    "description": "Jorah fights through a fighting-pit preliminary before Daenerys — then Tyrion steps out of the slavers' chains: 'I am the gift.'",
+    "type": "other",
+    "season": 5, "episode": 7, "episodeTitle": "The Gift",
+    "locationId": "meereen",
+    "characters": ["jorah", "tyrion", "daenerys", "daario"],
+    "importance": 3
+  },
+  {
+    "id": "s05e08-hardhome",
+    "title": "Hardhome",
+    "description": "Mid-evacuation, the dead fall on the free folk's last refuge in their thousands. Jon's Valyrian steel shatters a White Walker; the Night King walks to the pier, raises his arms, and every corpse on the beach stands up with blue eyes.",
+    "type": "battle",
+    "season": 5, "episode": 8, "episodeTitle": "Hardhome",
+    "locationId": "hardhome",
+    "characters": ["jon", "tormund", "night-king", "wun-wun", "white-walkers", "wights"],
+    "importance": 1
+  },
+  {
+    "id": "s05e09-shireen-burned",
+    "title": "The burning of Shireen",
+    "description": "Snowbound and desperate, Stannis gives his own daughter to the red god's fires. Shireen's screams break Selyse before they break the winter.",
+    "type": "death",
+    "season": 5, "episode": 9, "episodeTitle": "The Dance of Dragons",
+    "coords": [14.9, 25.4],
+    "characters": ["stannis", "shireen", "melisandre", "selyse", "davos"],
+    "importance": 1
+  },
+  {
+    "id": "s05e09-daznaks-pit",
+    "title": "Drogon over Daznak's Pit",
+    "description": "The Sons of the Harpy turn the great games into a massacre — until Drogon lands in the arena. Daenerys climbs onto her dragon's back and flies for the first time.",
+    "type": "supernatural",
+    "season": 5, "episode": 9, "episodeTitle": "The Dance of Dragons",
+    "locationId": "meereen",
+    "characters": ["daenerys", "drogon", "jorah", "tyrion", "daario", "missandei", "hizdahr"],
+    "importance": 1
+  },
+  {
+    "id": "s05e10-stannis-falls",
+    "title": "The end of Stannis Baratheon",
+    "description": "Half his men deserted, his wife hanged and Melisandre fled, Stannis marches on Winterfell anyway and is broken in the field. Brienne finds him against a tree and passes the sentence for Renly.",
+    "type": "death",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "coords": [14.5, 26.3],
+    "characters": ["stannis", "brienne", "podrick", "ramsay"],
+    "importance": 1
+  },
+  {
+    "id": "s05e10-sansa-theon-jump",
+    "title": "The leap from the walls",
+    "description": "Theon finally breaks — he throws Myranda from the battlements and takes Sansa's hand. Together they jump from Winterfell's walls into the snow.",
+    "type": "escape",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "locationId": "winterfell",
+    "characters": ["theon", "sansa", "myranda"],
+    "importance": 2
+  },
+  {
+    "id": "s05e10-walk-of-shame",
+    "title": "The walk of atonement",
+    "description": "Shorn and stripped, Cersei walks the length of King's Landing through filth and jeers, Septa Unella's bell tolling 'shame' — into the arms of a silent giant in Kingsguard white.",
+    "type": "political",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "locationId": "kings-landing",
+    "characters": ["cersei", "septa-unella", "high-sparrow", "qyburn", "mountain"],
+    "importance": 1
+  },
+  {
+    "id": "s05e10-myrcella-poisoned",
+    "title": "A kiss for Myrcella",
+    "description": "Ellaria's farewell kiss carries the Long Farewell. Myrcella dies in Jaime's arms at sea, moments after calling him father.",
+    "type": "death",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "coords": [23.6, -10.4],
+    "characters": ["myrcella", "jaime", "ellaria", "trystane"],
+    "importance": 2
+  },
+  {
+    "id": "s05e10-for-the-watch",
+    "title": "For the Watch",
+    "description": "Lured to the yard with a lie about his uncle Benjen, Jon Snow is stabbed by his own sworn brothers — Olly's knife last — and left bleeding out in the snow.",
+    "type": "death",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "locationId": "castle-black",
+    "characters": ["jon", "alliser", "olly"],
+    "importance": 1
+  },
+  {
+    "id": "s05e10-arya-blind",
+    "title": "A girl goes blind",
+    "description": "Arya crosses a name off her list — Meryn Trant, butchered in a Braavosi brothel — but a life not hers to take costs her sight.",
+    "type": "death",
+    "season": 5, "episode": 10, "episodeTitle": "Mother's Mercy",
+    "locationId": "braavos",
+    "characters": ["arya", "meryn-trant", "jaqen", "waif"],
+    "importance": 2
+  }
+]

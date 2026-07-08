@@ -1,0 +1,22 @@
+{
+  "characterId": "brienne",
+  "name": "Brienne of Tarth",
+  "color": "#3e7a8a",
+  "waypoints": [
+    { "coords": [20.6, -1.8], "season": 2, "episode": 3, "note": "Wins a place in Renly's Kingsguard" },
+    { "coords": [14.5, 10.8], "season": 2, "episode": 5, "via": [[18.4, 4.6]], "note": "Flees Renly's death in Catelyn's service" },
+    { "locationId": "harrenhal", "season": 3, "episode": 5, "via": [[15.7, 9.4]], "note": "Escorting the Kingslayer — the bear pit" },
+    { "locationId": "kings-landing", "season": 4, "episode": 1, "via": [[17.8, 6.4]], "note": "Delivers Jaime; takes up Oathkeeper" },
+    { "locationId": "crossroads-inn", "season": 4, "episode": 7, "via": [[17.0, 10.5]], "note": "Hunting the Stark girls with Podrick" },
+    { "coords": [20.4, 11.6], "season": 4, "episode": 10, "via": [[18.9, 12.0]], "note": "Fights the Hound — and Arya slips away" },
+    { "coords": [14.4, 25.6], "season": 5, "episode": 2, "via": [[15.6, 16.5], [14.9, 21.0]], "note": "Shadows Sansa to the North" },
+    { "coords": [14.5, 26.3], "season": 5, "episode": 10, "note": "Passes sentence on Stannis Baratheon" },
+    { "coords": [14.1, 27.1], "season": 6, "episode": 1, "note": "Saves Sansa in the snow — oath accepted" },
+    { "locationId": "castle-black", "season": 6, "episode": 4, "via": [[16.4, 30.4]], "note": "With Sansa to the Wall" },
+    { "locationId": "riverrun", "season": 6, "episode": 8, "via": [[15.4, 20.0], [13.9, 12.0]], "note": "Sent to treat with the Blackfish" },
+    { "locationId": "winterfell", "season": 7, "episode": 1, "via": [[14.4, 19.5]], "note": "Sworn shield of the Lady of Winterfell" },
+    { "locationId": "kings-landing", "season": 7, "episode": 7, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Speaks for Sansa at the Dragonpit" },
+    { "locationId": "winterfell", "season": 8, "episode": 1, "via": [[16.2, 15.2]], "note": "Knighted on the eve of the Long Night" },
+    { "locationId": "kings-landing", "season": 8, "episode": 6, "via": [[16.2, 15.2], [18.3, 8.0]], "note": "Lord Commander of the Kingsguard — finishes Jaime's page" }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 191,
+    "slug": "lys",
+    "name": "Lys",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Island Free City famed for its pleasure houses, poisons and pale beauty. The strangler that killed Joffrey traces through Lysene trade; Doreah and Varys' origins touch it. Never visited on screen.",
+    "showCanon": "mentioned",
+    "type": "City"
+  },
+  {
+    "id": 192,
+    "slug": "tyrosh",
+    "name": "Tyrosh",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Free City of dyers and sellswords across the sea from the Stepstones. Daario Naharis was a Tyroshi slave before the Second Sons. Mentioned often; never shown.",
+    "showCanon": "mentioned",
+    "type": "City"
+  },
+  {
+    "id": 193,
+    "slug": "myr",
+    "name": "Myr",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Free City renowned for lenses, lace and crossbows. Thoros of Myr carried its name across Westeros, and Varys was cut by a sorcerer in Myr as a boy.",
+    "showCanon": "mentioned",
+    "type": "City"
+  },
+  {
+    "id": 194,
+    "slug": "pentos",
+    "name": "Pentos",
+    "aliases": [],
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Wealthy Free City on the Narrow Sea where Daenerys was wed to Khal Drogo in the manse of Illyrio Mopatis. Later Varys and Tyrion's first stop on the road to Meereen.",
+    "firstAppearance": { "season": 1, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 195,
+    "slug": "ghoyan-drohe",
+    "name": "Ghoyan Drohe",
+    "region": "Essos — Free Cities",
+    "description": "Ruined river town of the old Rhoynar civilization on the Little Rhoyne, northeast of Pentos. Book background from Tyrion's road east; not in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 196,
+    "slug": "norvos",
+    "name": "Norvos",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Hill-bound Free City of the bearded priests, ruled by its three great bells. Areo Hotah's homeland in the books; passing mentions in the show.",
+    "showCanon": "mentioned",
+    "type": "City"
+  },
+  {
+    "id": 199,
+    "slug": "braavos",
+    "name": "Braavos",
+    "aliases": ["Titan of Braavos", "House of Black and White", "Iron Bank"],
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Greatest and most secretive of the Free Cities, hidden in a lagoon behind the towering Titan. Home of the Iron Bank and the House of Black and White, where Arya trained with the Faceless Men.",
+    "firstAppearance": { "season": 4, "episode": 6 },
+    "showCanon": "shown",
+    "type": "City",
+    "rankOverride": 5
+  },
+  {
+    "id": 200,
+    "slug": "lorath",
+    "name": "Lorath",
+    "region": "Essos — Free Cities",
+    "allegiance": "Free City",
+    "description": "Smallest and poorest of the Free Cities, on islands in the Shivering Sea. Jaqen H'ghar claimed to be 'a man from Lorath.' Never shown.",
+    "showCanon": "mentioned",
+    "type": "City"
+  },
+  {
+    "id": 203,
+    "slug": "ny-sar",
+    "name": "Ny Sar",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "Drowned ruin of a Rhoynar city at the joining of the Rhoyne and the Noyne. Book background; part of the dead river civilization the show never visits.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 204,
+    "slug": "sorrows-chroyane",
+    "name": "The Sorrows (Chroyane)",
+    "region": "Essos — Valyrian Peninsula",
+    "description": "The festival city of old Rhoyne, now a fog-bound ruin of greyscale-stricken stone men. The show relocates its stone men to the ruins of Valyria, where Jorah was infected.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 205,
+    "slug": "selhorys",
+    "name": "Selhorys",
+    "region": "Essos — Free Cities",
+    "allegiance": "Volantis",
+    "description": "River town on the Rhoyne subject to Volantis. Part of Tyrion's book journey east; the show's road to Meereen skips it.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 206,
+    "slug": "valysar",
+    "name": "Valysar",
+    "region": "Essos — Free Cities",
+    "allegiance": "Volantis",
+    "description": "Volantene river town on the lower Rhoyne. Book background only; never seen in the series.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 207,
+    "slug": "volon-therys",
+    "name": "Volon Therys",
+    "region": "Essos — Free Cities",
+    "allegiance": "Volantis",
+    "description": "River town above the mouths of the Rhoyne where, in the books, the Golden Company mustered. The show's Golden Company sails for Westeros from farther east.",
+    "showCanon": "mentioned"
+  }
+]

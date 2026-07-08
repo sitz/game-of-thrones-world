@@ -1,0 +1,233 @@
+[
+  {
+    "id": "s02e01-burning-of-the-seven",
+    "title": "Melisandre burns the Seven",
+    "description": "On the beach of Dragonstone, the red priestess Melisandre burns the statues of the Seven and proclaims Stannis Baratheon the reborn Azor Ahai. Maester Cressen dies trying to poison her.",
+    "type": "political",
+    "season": 2, "episode": 1, "episodeTitle": "The North Remembers",
+    "locationId": "dragonstone",
+    "characters": ["melisandre", "stannis", "davos", "maester-cressen"],
+    "importance": 2
+  },
+  {
+    "id": "s02e01-massacre-of-roberts-bastards",
+    "title": "Massacre of Robert's bastards",
+    "description": "On Joffrey's orders the City Watch butchers King Robert's bastard children in the streets of King's Landing. Only Gendry, already on the road north, escapes.",
+    "type": "death",
+    "season": 2, "episode": 1, "episodeTitle": "The North Remembers",
+    "locationId": "kings-landing",
+    "characters": ["joffrey", "gendry", "janos"],
+    "importance": 3
+  },
+  {
+    "id": "s02e01-comet",
+    "title": "The red comet",
+    "description": "A blood-red comet burns across the sky from Winterfell to the Red Waste. Wildfire, they call it; Lannister crimson; dragons. Old Nan knows: dragons.",
+    "type": "supernatural",
+    "season": 2, "episode": 1, "episodeTitle": "The North Remembers",
+    "locationId": "winterfell",
+    "characters": ["bran", "osha"],
+    "importance": 3
+  },
+  {
+    "id": "s02e02-theon-comes-home",
+    "title": "Theon returns to Pyke",
+    "description": "Theon Greyjoy sails home to broker an alliance for Robb — and finds a father who mocks his Stark upbringing and a sister, Yara, who has already taken his place. Balon means to take the North for himself.",
+    "type": "political",
+    "season": 2, "episode": 2, "episodeTitle": "The Night Lands",
+    "locationId": "pyke",
+    "characters": ["theon", "balon", "yara"],
+    "importance": 2
+  },
+  {
+    "id": "s02e03-renlys-camp",
+    "title": "The King of Highgarden's hundred thousand",
+    "description": "Catelyn treats with Renly Baratheon in his sprawling war camp in the Stormlands, where knights joust while the real war burns. Brienne of Tarth defeats Loras and joins Renly's Kingsguard.",
+    "type": "political",
+    "season": 2, "episode": 3, "episodeTitle": "What Is Dead May Never Die",
+    "coords": [20.6, -1.8],
+    "characters": ["renly", "catelyn", "brienne", "loras", "margaery"],
+    "importance": 3
+  },
+  {
+    "id": "s02e03-yoren-dies",
+    "title": "Ambush on the kingsroad",
+    "description": "Ser Amory Lorch's men fall on the Night's Watch recruits bound for the Wall. Yoren dies fighting; Arya, Gendry and Hot Pie are marched to Harrenhal as prisoners.",
+    "type": "battle",
+    "season": 2, "episode": 3, "episodeTitle": "What Is Dead May Never Die",
+    "coords": [17.3, 7.4],
+    "characters": ["yoren", "arya", "gendry", "hot-pie"],
+    "importance": 3
+  },
+  {
+    "id": "s02e04-battle-of-oxcross",
+    "title": "Battle of Oxcross",
+    "description": "Robb Stark's host, guided by Grey Wind, falls on a sleeping Lannister camp in the Westerlands and shatters it — one of the young wolf's cleanest victories.",
+    "type": "battle",
+    "season": 2, "episode": 4, "episodeTitle": "Garden of Bones",
+    "locationId": "oxcross",
+    "characters": ["robb", "talisa"],
+    "importance": 2
+  },
+  {
+    "id": "s02e04-shadow-conceived",
+    "title": "The shadow beneath Storm's End",
+    "description": "Refused by Renly, Stannis sends Davos to smuggle Melisandre ashore beneath Storm's End — where she births a thing of living shadow.",
+    "type": "supernatural",
+    "season": 2, "episode": 4, "episodeTitle": "Garden of Bones",
+    "locationId": "storms-end",
+    "characters": ["melisandre", "davos", "stannis"],
+    "importance": 2
+  },
+  {
+    "id": "s02e04-dany-reaches-qarth",
+    "title": "Daenerys at the gates of Qarth",
+    "description": "Starving out of the Red Waste, Daenerys and her ragged khalasar are admitted to the greatest city that ever was or will be — on Xaro Xhoan Daxos's blood oath.",
+    "type": "journey",
+    "season": 2, "episode": 4, "episodeTitle": "Garden of Bones",
+    "locationId": "qarth",
+    "characters": ["daenerys", "jorah", "xaro", "pyat-pree"],
+    "importance": 3
+  },
+  {
+    "id": "s02e05-renly-murdered",
+    "title": "The shadow kills Renly",
+    "description": "Melisandre's shadow-thing passes through Renly Baratheon's tent and runs him through before Catelyn and Brienne's eyes. Brienne is blamed, and flees sworn to vengeance.",
+    "type": "death",
+    "season": 2, "episode": 5, "episodeTitle": "The Ghost of Harrenhal",
+    "coords": [20.6, -1.8],
+    "characters": ["renly", "brienne", "catelyn", "melisandre", "stannis"],
+    "importance": 1
+  },
+  {
+    "id": "s02e05-arya-first-name",
+    "title": "A man pays his debts",
+    "description": "Jaqen H'ghar owes the girl three lives for the three she saved from the fire. Arya names the Tickler — and Harrenhal's torturer is found with his neck broken.",
+    "type": "death",
+    "season": 2, "episode": 5, "episodeTitle": "The Ghost of Harrenhal",
+    "locationId": "harrenhal",
+    "characters": ["arya", "jaqen"],
+    "importance": 3
+  },
+  {
+    "id": "s02e06-theon-takes-winterfell",
+    "title": "Theon seizes Winterfell",
+    "description": "With Robb's host away south, Theon Greyjoy storms his foster home with a handful of ironborn and executes Ser Rodrik Cassel on its steps. Bran and Rickon vanish into the night.",
+    "type": "sack",
+    "season": 2, "episode": 6, "episodeTitle": "The Old Gods and the New",
+    "locationId": "winterfell",
+    "characters": ["theon", "bran", "rickon", "osha", "rodrik", "luwin"],
+    "importance": 1
+  },
+  {
+    "id": "s02e06-riot-of-kings-landing",
+    "title": "The bread riot",
+    "description": "A starving mob turns on Joffrey's procession, tearing the High Septon apart and nearly dragging Sansa from her horse before the Hound cuts her free.",
+    "type": "other",
+    "season": 2, "episode": 6, "episodeTitle": "The Old Gods and the New",
+    "locationId": "kings-landing",
+    "characters": ["joffrey", "sansa", "hound", "tyrion"],
+    "importance": 3
+  },
+  {
+    "id": "s02e06-dragons-stolen",
+    "title": "The dragons are stolen",
+    "description": "Returning from the Spice King, Daenerys finds her Dothraki slaughtered and her three dragons gone — carried in chains to the House of the Undying.",
+    "type": "other",
+    "season": 2, "episode": 6, "episodeTitle": "The Old Gods and the New",
+    "locationId": "qarth",
+    "characters": ["daenerys", "jorah", "pyat-pree", "xaro"],
+    "importance": 2
+  },
+  {
+    "id": "s02e07-a-man-without-honor",
+    "title": "The farm boys",
+    "description": "Bran and Rickon's trail goes cold — so Theon burns two farm boys and hangs their tarred bodies from Winterfell's gates as the Stark princes. The North will never forgive it.",
+    "type": "death",
+    "season": 2, "episode": 7, "episodeTitle": "A Man Without Honor",
+    "locationId": "winterfell",
+    "characters": ["theon", "bran", "rickon"],
+    "importance": 3
+  },
+  {
+    "id": "s02e07-ygritte-captured",
+    "title": "Jon and Ygritte",
+    "description": "On a ranging in the Skirling Pass, Jon Snow cannot bring himself to execute the wildling Ygritte. She leads him in circles until it is Jon who is the captive.",
+    "type": "other",
+    "season": 2, "episode": 7, "episodeTitle": "A Man Without Honor",
+    "coords": [15.6, 37.2],
+    "characters": ["jon", "ygritte"],
+    "importance": 3
+  },
+  {
+    "id": "s02e08-stark-boys-in-the-crypts",
+    "title": "Hiding beneath the hunters' feet",
+    "description": "Bran, Rickon, Osha and Hodor double back and hide in Winterfell's own crypts while Theon hunts them across the countryside.",
+    "type": "escape",
+    "season": 2, "episode": 8, "episodeTitle": "The Prince of Winterfell",
+    "locationId": "winterfell",
+    "characters": ["bran", "rickon", "osha", "hodor"],
+    "importance": 3
+  },
+  {
+    "id": "s02e09-battle-of-the-blackwater",
+    "title": "Battle of the Blackwater",
+    "description": "Stannis Baratheon's fleet sails into a trap of wildfire that turns Blackwater Bay green with flame. Tyrion leads the sortie that holds the walls until Tywin and the Tyrells break the siege.",
+    "type": "battle",
+    "season": 2, "episode": 9, "episodeTitle": "Blackwater",
+    "locationId": "kings-landing",
+    "coords": [19.6, 3.75],
+    "characters": ["tyrion", "stannis", "davos", "cersei", "sansa", "hound", "joffrey"],
+    "importance": 1
+  },
+  {
+    "id": "s02e09-hound-quits",
+    "title": "The Hound quits the field",
+    "description": "Wildfire breaks something in Sandor Clegane. He walks out of the battle, tells the king to burn, and offers to take Sansa north — she refuses.",
+    "type": "other",
+    "season": 2, "episode": 9, "episodeTitle": "Blackwater",
+    "locationId": "kings-landing",
+    "characters": ["hound", "sansa", "joffrey"],
+    "importance": 3
+  },
+  {
+    "id": "s02e10-sack-of-winterfell",
+    "title": "Winterfell burned",
+    "description": "The ironborn hand Theon over and Ramsay's men put Winterfell to the torch. Dying beneath the heart tree, Maester Luwin sends Bran and Rickon north to the Wall.",
+    "type": "destruction",
+    "season": 2, "episode": 10, "episodeTitle": "Valar Morghulis",
+    "locationId": "winterfell",
+    "characters": ["theon", "luwin", "bran", "rickon", "osha", "hodor"],
+    "importance": 2
+  },
+  {
+    "id": "s02e10-house-of-the-undying",
+    "title": "The House of the Undying",
+    "description": "Daenerys walks the warlocks' tower of visions — a ruined throne room under snow, the Wall, Drogo and her son — then burns Pyat Pree alive with three words: dracarys.",
+    "type": "supernatural",
+    "season": 2, "episode": 10, "episodeTitle": "Valar Morghulis",
+    "locationId": "qarth",
+    "characters": ["daenerys", "pyat-pree", "drogon", "jorah"],
+    "importance": 1
+  },
+  {
+    "id": "s02e10-jaqen-coin",
+    "title": "Valar morghulis",
+    "description": "Jaqen H'ghar gives Arya an iron coin and the words to redeem it in Braavos, then changes his face before her eyes and is gone.",
+    "type": "other",
+    "season": 2, "episode": 10, "episodeTitle": "Valar Morghulis",
+    "coords": [16.4, 8.9],
+    "characters": ["arya", "jaqen", "gendry", "hot-pie"],
+    "importance": 2
+  },
+  {
+    "id": "s02e10-army-of-the-dead",
+    "title": "The dead march on the Fist",
+    "description": "Three horn blasts scatter the Night's Watch at the Fist of the First Men. Sam, left behind in the storm, watches an army of wights pass — led by a White Walker on a dead horse.",
+    "type": "supernatural",
+    "season": 2, "episode": 10, "episodeTitle": "Valar Morghulis",
+    "locationId": "fist-of-the-first-men",
+    "characters": ["samwell", "white-walkers", "wights"],
+    "importance": 1
+  }
+]

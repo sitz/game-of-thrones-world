@@ -1,0 +1,182 @@
+[
+  {
+    "id": "s07e01-frey-toast",
+    "title": "The North remembers",
+    "description": "Wearing Walder Frey's face, Arya gathers every Frey who mattered at the Red Wedding and toasts them with poisoned wine. 'Leave one wolf alive and the sheep are never safe.'",
+    "type": "death",
+    "season": 7, "episode": 1, "episodeTitle": "Dragonstone",
+    "locationId": "twins",
+    "characters": ["arya", "walder-frey"],
+    "importance": 1
+  },
+  {
+    "id": "s07e01-army-of-dead-march",
+    "title": "The dead march south",
+    "description": "Bran's raven-sight finds the Night King's host on the move through the storm — ranks of wights beyond counting, and giants among them.",
+    "type": "supernatural",
+    "season": 7, "episode": 1, "episodeTitle": "Dragonstone",
+    "coords": [15.5, 37.6],
+    "characters": ["night-king", "bran", "wights"],
+    "importance": 3
+  },
+  {
+    "id": "s07e01-dany-comes-home",
+    "title": "Daenerys comes home",
+    "description": "Daenerys Targaryen walks the beach her ancestors fled to, touches the sand, and climbs to the empty throne of Dragonstone. 'Shall we begin?'",
+    "type": "journey",
+    "season": 7, "episode": 1, "episodeTitle": "Dragonstone",
+    "locationId": "dragonstone",
+    "characters": ["daenerys", "tyrion", "varys", "missandei", "grey-worm"],
+    "importance": 1
+  },
+  {
+    "id": "s07e02-euron-ambush",
+    "title": "Euron burns the fleet",
+    "description": "Euron's Silence smashes into Yara's armada by night. Two Sand Snakes die on deck, Ellaria and Yara are taken, and Theon — face to face with his broken self — jumps into the sea.",
+    "type": "battle",
+    "season": 7, "episode": 2, "episodeTitle": "Stormborn",
+    "coords": [24.5, -2.0],
+    "characters": ["euron", "yara", "theon", "ellaria", "sand-snakes"],
+    "importance": 2
+  },
+  {
+    "id": "s07e03-ice-meets-fire",
+    "title": "Ice meets fire",
+    "description": "The King in the North sails into Dragonstone and stands before Daenerys Targaryen — the meeting the whole story has bent toward. She wants the knee; he wants the dragonglass.",
+    "type": "political",
+    "season": 7, "episode": 3, "episodeTitle": "The Queen's Justice",
+    "locationId": "dragonstone",
+    "characters": ["jon", "daenerys", "tyrion", "davos", "missandei"],
+    "importance": 1
+  },
+  {
+    "id": "s07e03-casterly-rock",
+    "title": "The Rock falls — and it means nothing",
+    "description": "Grey Worm takes Casterly Rock through Tyrion's old sewer — and finds it near-empty. The real Lannister army is elsewhere, and Euron burns the Unsullied's ships behind them.",
+    "type": "battle",
+    "season": 7, "episode": 3, "episodeTitle": "The Queen's Justice",
+    "locationId": "casterly-rock",
+    "characters": ["grey-worm", "tyrion", "euron", "unsullied"],
+    "importance": 2
+  },
+  {
+    "id": "s07e03-olennas-confession",
+    "title": "Tell Cersei. I want her to know it was me.",
+    "description": "Jaime takes Highgarden without a real fight and grants Olenna a painless poison. She drinks it down — then tells him it was she who killed Joffrey.",
+    "type": "death",
+    "season": 7, "episode": 3, "episodeTitle": "The Queen's Justice",
+    "locationId": "highgarden",
+    "characters": ["olenna", "jaime", "bronn"],
+    "importance": 1
+  },
+  {
+    "id": "s07e04-loot-train-battle",
+    "title": "The Field of Fire",
+    "description": "Daenerys unleashes Drogon and the Dothraki on the Lannister loot train on the Roseroad. The line breaks like water; Jaime charges the dragon with a lance and is dragged from the river's bottom.",
+    "type": "battle",
+    "season": 7, "episode": 4, "episodeTitle": "The Spoils of War",
+    "coords": [13.5, 1.6],
+    "characters": ["daenerys", "drogon", "jaime", "bronn", "tyrion", "dothraki", "randyll-tarly", "dickon-tarly"],
+    "importance": 1
+  },
+  {
+    "id": "s07e04-arya-comes-home",
+    "title": "Arya returns to Winterfell",
+    "description": "A girl talks her way past the gate guards and stands in Winterfell's yard for the first time since Season 1. In the crypts, three surviving Starks are home.",
+    "type": "journey",
+    "season": 7, "episode": 4, "episodeTitle": "The Spoils of War",
+    "locationId": "winterfell",
+    "characters": ["arya", "sansa", "bran"],
+    "importance": 2
+  },
+  {
+    "id": "s07e05-tarlys-burned",
+    "title": "Bend the knee or die",
+    "description": "Randyll and Dickon Tarly refuse to kneel to a foreign queen. Daenerys burns them where they stand — and Tyrion watches his warnings turn to smoke.",
+    "type": "death",
+    "season": 7, "episode": 5, "episodeTitle": "Eastwatch",
+    "coords": [13.4, 1.8],
+    "characters": ["daenerys", "randyll-tarly", "dickon-tarly", "tyrion", "drogon"],
+    "importance": 2
+  },
+  {
+    "id": "s07e05-gilly-annulment",
+    "title": "A page in a maester's diary",
+    "description": "Buried in the Citadel's records, Gilly reads that Prince Rhaegar's marriage was annulled and he was wed again in secret in Dorne — the hinge of the whole realm, and Sam talks over her.",
+    "type": "other",
+    "season": 7, "episode": 5, "episodeTitle": "Eastwatch",
+    "locationId": "oldtown",
+    "characters": ["gilly", "samwell"],
+    "importance": 3
+  },
+  {
+    "id": "s07e06-wight-hunt",
+    "title": "The wight hunt",
+    "description": "Jon's raiders snatch a wight from the heart of the dead army but are surrounded on a frozen lake. Thoros dies in the ice; the ravens fly for Dragonstone.",
+    "type": "battle",
+    "season": 7, "episode": 6, "episodeTitle": "Beyond the Wall",
+    "coords": [17.0, 38.5],
+    "characters": ["jon", "hound", "tormund", "jorah", "beric", "thoros", "gendry", "wights"],
+    "importance": 2
+  },
+  {
+    "id": "s07e06-viserion-falls",
+    "title": "The Night King kills Viserion",
+    "description": "Daenerys arrives with all three dragons to break the siege — and the Night King's ice spear takes Viserion out of the sky. Chains drag the dragon from the lake, and a blue eye opens.",
+    "type": "supernatural",
+    "season": 7, "episode": 6, "episodeTitle": "Beyond the Wall",
+    "coords": [17.1, 38.6],
+    "characters": ["night-king", "viserion", "daenerys", "jon", "drogon", "rhaegal"],
+    "importance": 1
+  },
+  {
+    "id": "s07e07-dragonpit-parley",
+    "title": "The Dragonpit summit",
+    "description": "Every surviving player stands in King's Landing's ruined Dragonpit as the Hound uncrates a shrieking wight at Cersei's feet. She pledges her armies north — and privately pledges nothing.",
+    "type": "political",
+    "season": 7, "episode": 7, "episodeTitle": "The Dragon and the Wolf",
+    "locationId": "kings-landing",
+    "characters": ["cersei", "daenerys", "jon", "tyrion", "jaime", "euron", "hound", "mountain", "brienne"],
+    "importance": 1
+  },
+  {
+    "id": "s07e07-littlefinger-executed",
+    "title": "The trial of Petyr Baelish",
+    "description": "Sansa turns the trial on Littlefinger himself, Bran recites his crimes, and Arya opens his throat with his own Valyrian dagger. The man who started the game of thrones dies begging in Winterfell's hall.",
+    "type": "death",
+    "season": 7, "episode": 7, "episodeTitle": "The Dragon and the Wolf",
+    "locationId": "winterfell",
+    "characters": ["littlefinger", "sansa", "arya", "bran"],
+    "importance": 1
+  },
+  {
+    "id": "s07e07-jaime-rides-north",
+    "title": "Jaime leaves Cersei",
+    "description": "Cersei admits the pledge was a lie and dares her brother to call the Mountain's bluff. Jaime rides out of King's Landing alone as the first snow falls on the capital.",
+    "type": "other",
+    "season": 7, "episode": 7, "episodeTitle": "The Dragon and the Wolf",
+    "locationId": "kings-landing",
+    "characters": ["jaime", "cersei"],
+    "importance": 2
+  },
+  {
+    "id": "s07e07-boat-scene",
+    "title": "Aegon Targaryen",
+    "description": "As Jon and Daenerys come together at sea, Bran and Sam piece the truth together: Rhaegar and Lyanna wed in secret; Jon is Aegon Targaryen, trueborn heir to the Iron Throne.",
+    "type": "other",
+    "season": 7, "episode": 7, "episodeTitle": "The Dragon and the Wolf",
+    "coords": [22.0, 9.0],
+    "characters": ["jon", "daenerys", "bran", "samwell", "rhaegar", "lyanna-stark"],
+    "importance": 2
+  },
+  {
+    "id": "s07e07-wall-falls",
+    "title": "The Wall comes down",
+    "description": "The Night King rides dead Viserion out of the storm and blue fire carves through eight thousand years of ice. Eastwatch collapses, and the army of the dead walks into Westeros.",
+    "type": "destruction",
+    "season": 7, "episode": 7, "episodeTitle": "The Dragon and the Wolf",
+    "locationId": "eastwatch-by-the-sea",
+    "characters": ["night-king", "viserion", "tormund", "beric", "wights"],
+    "importance": 1
+  }
+]

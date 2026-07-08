@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Mountains of the Moon", "kind": "mountains", "sizeRank": 2 },
+      "geometry": { "type": "Point", "coordinates": [19.6, 12.9] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "The Red Mountains", "kind": "mountains", "sizeRank": 2 },
+      "geometry": { "type": "Point", "coordinates": [20.2, -6.3] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "The Frostfangs", "kind": "mountains", "sizeRank": 2 },
+      "geometry": { "type": "Point", "coordinates": [15.6, 37.8] }
+    }
+  ]
+}

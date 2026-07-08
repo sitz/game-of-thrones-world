@@ -1,0 +1,56 @@
+[
+  {
+    "id": 185,
+    "slug": "eastwatch-by-the-sea",
+    "name": "Eastwatch-by-the-Sea",
+    "aliases": ["Eastwatch"],
+    "region": "Beyond the Wall",
+    "allegiance": "The Night's Watch",
+    "description": "The easternmost castle of the Night's Watch, where the Wall meets the sea. Jon Snow's expedition to capture a wight set out from Eastwatch, and in the season 7 finale the Night King destroyed its section of the Wall with the undead Viserion, letting the army of the dead into Westeros.",
+    "firstAppearance": { "season": 7, "episode": 5 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 186,
+    "slug": "whitetree",
+    "name": "Whitetree",
+    "region": "Beyond the Wall",
+    "description": "An abandoned Free Folk village built around an enormous weirwood tree, north of the Wall. It is book background that never appears in the TV series, whose Great Ranging stops instead at Craster's Keep.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 187,
+    "slug": "crasters-keep",
+    "name": "Craster's Keep",
+    "region": "Beyond the Wall",
+    "description": "The fortified homestead of the wildling Craster, who wed his daughters and gave his infant sons to the White Walkers. The Night's Watch sheltered there on the Great Ranging; mutineers later murdered Craster and Lord Commander Mormont, and Jon Snow wiped the mutineers out in season 4.",
+    "firstAppearance": { "season": 2, "episode": 1 },
+    "showCanon": "shown",
+    "rankOverride": 3
+  },
+  {
+    "id": 188,
+    "slug": "fist-of-the-first-men",
+    "name": "Fist of the First Men",
+    "aliases": ["The Fist"],
+    "region": "Beyond the Wall",
+    "description": "An ancient ringfort atop a hill beyond the Wall, where the Night's Watch camped during the Great Ranging. Sam unearthed a cache of dragonglass there, and the army of the dead overran the camp at the end of season 2, leaving only a handful of survivors.",
+    "firstAppearance": { "season": 2, "episode": 5 },
+    "showCanon": "shown",
+    "rankOverride": 3,
+    "type": "Landmark"
+  },
+  {
+    "slug": "hardhome",
+    "name": "Hardhome",
+    "region": "Beyond the Wall",
+    "allegiance": "Free Folk",
+    "description": "The largest Free Folk settlement, a fishing village on the Bay of Seals. Jon Snow and Tormund sailed there in season 5 to evacuate the wildlings, but the Night King's army massacred the town and he raised the fallen as wights while Jon escaped by sea.",
+    "firstAppearance": { "season": 5, "episode": 8 },
+    "showCanon": "shown",
+    "rankOverride": 4,
+    "type": "Village",
+    "coords": [21.6, 36.8]
+  }
+]

@@ -1,0 +1,51 @@
+:root {
+  /* Parchment cartography palette */
+  --water: #3d626b;
+  --water-deep: #35565e;
+  --water-line: #2e4c53;
+  --parchment: #eadfc0;
+  --parchment-warm: #e4d6b2;
+  --ink: #3b2f24;
+  --ink-soft: #5a4a38;
+  --ink-faint: #8a7a62;
+  --halo: #f3ead2;
+
+  /* Terrain */
+  --forest: #a8b087;
+  --mountain: #b09a78;
+  --swamp: #97a389;
+  --desert: #ddc79a;
+
+  /* UI surfaces */
+  --surface: #f6efdd;
+  --surface-raised: #fbf6ea;
+  --surface-border: #d5c7a4;
+  --surface-shadow: 0 2px 12px rgba(59, 47, 36, 0.22), 0 0 0 1px rgba(59, 47, 36, 0.08);
+  --text: #2e251c;
+  --text-muted: #6d5f4c;
+  --accent: #8c2f39;
+  --accent-soft: #b06a71;
+  --focus-ring: 0 0 0 2px rgba(140, 47, 57, 0.45);
+
+  /* Event type colors */
+  --ev-battle: #8c2f39;
+  --ev-death: #43363b;
+  --ev-wedding: #a5762c;
+  --ev-political: #5b5320;
+  --ev-destruction: #b4501e;
+  --ev-supernatural: #3f5e73;
+  --ev-other: #6d5f4c;
+
+  /* Type */
+  --font-display: 'Cinzel', 'Georgia', serif;
+  --font-fell: 'IM Fell English', 'Georgia', serif;
+  --font-ui: 'Georgia', 'Times New Roman', serif;
+
+  /* Layout */
+  --panel-width: 372px;
+  --radius: 8px;
+  --radius-sm: 5px;
+  --z-map-ui: 20;
+  --z-panel: 30;
+  --z-modal: 50;
+}

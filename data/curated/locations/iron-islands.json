@@ -1,0 +1,58 @@
+[
+  {
+    "id": 234,
+    "slug": "pyke",
+    "name": "Pyke",
+    "aliases": ["The Salt Throne", "Kingsmoot"],
+    "region": "The Iron Islands",
+    "allegiance": "House Greyjoy",
+    "description": "Seat of House Greyjoy — towers on sea-battered stacks joined by swaying rope bridges. Theon came home to it, Balon was thrown from its bridge by Euron, and the kingsmoot on its shores gave Euron the Salt Throne.",
+    "firstAppearance": { "season": 2, "episode": 2 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 235,
+    "slug": "pebbleton",
+    "name": "Pebbleton",
+    "region": "The Iron Islands",
+    "allegiance": "House Merlyn",
+    "description": "Fishing town on Great Wyk, largest of the Iron Islands. Book background; it is never visited in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 236,
+    "slug": "hammerhorn",
+    "name": "Hammerhorn",
+    "region": "The Iron Islands",
+    "allegiance": "House Goodbrother",
+    "description": "Grim inland keep of House Goodbrother on Great Wyk, hewn from the hills above the iron mines. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 237,
+    "slug": "naggas-ribs",
+    "name": "Nagga's Ribs",
+    "region": "The Iron Islands",
+    "description": "The bones of the sea dragon Nagga on the holy headland of Old Wyk, where the ironborn of legend crowned their kings. The show's kingsmoot draws on this tradition, though the site itself is never shown.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 238,
+    "slug": "castle-goodbrother",
+    "name": "Castle Goodbrother",
+    "region": "The Iron Islands",
+    "allegiance": "House Goodbrother",
+    "description": "A lesser Goodbrother holdfast in the Iron Islands. Book background; never seen or named on screen.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 239,
+    "slug": "ten-towers",
+    "name": "Ten Towers",
+    "region": "The Iron Islands",
+    "allegiance": "House Harlaw",
+    "description": "Seat of House Harlaw on Harlaw, the most populous of the isles — ten mismatched towers raised over generations. Home of Rodrik the Reader in the books; unseen in the show.",
+    "showCanon": "mentioned"
+  }
+]

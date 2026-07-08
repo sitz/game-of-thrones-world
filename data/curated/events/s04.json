@@ -1,0 +1,192 @@
+[
+  {
+    "id": "s04e01-oathkeeper-forged",
+    "title": "Ice is melted down",
+    "description": "Tywin has Ned Stark's greatsword Ice reforged into two Valyrian blades — one for Jaime, one for Joffrey — and burns a wolf pelt in the fire.",
+    "type": "political",
+    "season": 4, "episode": 1, "episodeTitle": "Two Swords",
+    "locationId": "kings-landing",
+    "characters": ["tywin", "jaime"],
+    "importance": 3
+  },
+  {
+    "id": "s04e01-chicken-inn",
+    "title": "The Hound and the chicken",
+    "description": "Arya reclaims Needle from Polliver at a roadside inn, repeating his own words as she puts it through his throat. The Hound just wanted the chicken.",
+    "type": "death",
+    "season": 4, "episode": 1, "episodeTitle": "Two Swords",
+    "coords": [16.9, 6.9],
+    "characters": ["arya", "hound"],
+    "importance": 2
+  },
+  {
+    "id": "s04e02-purple-wedding",
+    "title": "The Purple Wedding",
+    "description": "King Joffrey chokes to death on poisoned wine at his own wedding feast, clawing at his throat as Cersei screams. Tyrion, handed the empty cup, is arrested for the murder.",
+    "type": "wedding",
+    "season": 4, "episode": 2, "episodeTitle": "The Lion and the Rose",
+    "locationId": "kings-landing",
+    "characters": ["joffrey", "tyrion", "cersei", "margaery", "olenna", "sansa"],
+    "importance": 1
+  },
+  {
+    "id": "s04e02-sansa-spirited-away",
+    "title": "Sansa flees the feast",
+    "description": "In the chaos of the king's death, Ser Dontos hurries Sansa out of the capital to a ship waiting in the fog — Littlefinger's ship. Dontos gets a crossbow bolt for his service.",
+    "type": "escape",
+    "season": 4, "episode": 2, "episodeTitle": "The Lion and the Rose",
+    "locationId": "kings-landing",
+    "characters": ["sansa", "dontos", "littlefinger"],
+    "importance": 2
+  },
+  {
+    "id": "s04e03-breaker-of-chains",
+    "title": "Meereen's champion",
+    "description": "Before Meereen's walls, Daario Naharis fells the city's champion with a single throwing knife, and Daenerys catapults barrels of broken slave collars over the walls.",
+    "type": "battle",
+    "season": 4, "episode": 3, "episodeTitle": "Breaker of Chains",
+    "locationId": "meereen",
+    "characters": ["daenerys", "daario", "missandei", "barristan"],
+    "importance": 3
+  },
+  {
+    "id": "s04e04-meereen-falls",
+    "title": "The fall of Meereen",
+    "description": "Grey Worm slips through the sewers to arm the slaves of Meereen, and the great pyramid city rises from within. Daenerys answers the masters' crucified children by crucifying 163 masters.",
+    "type": "sack",
+    "season": 4, "episode": 4, "episodeTitle": "Oathkeeper",
+    "locationId": "meereen",
+    "characters": ["daenerys", "grey-worm", "barristan", "missandei", "unsullied"],
+    "importance": 1
+  },
+  {
+    "id": "s04e04-oathkeeper-given",
+    "title": "Oathkeeper",
+    "description": "Jaime arms Brienne with his Valyrian sword and a new squire, Podrick, and sends her to find and protect Sansa Stark — keeping his oath through her.",
+    "type": "other",
+    "season": 4, "episode": 4, "episodeTitle": "Oathkeeper",
+    "locationId": "kings-landing",
+    "characters": ["jaime", "brienne", "podrick"],
+    "importance": 3
+  },
+  {
+    "id": "s04e05-crasters-raid",
+    "title": "Raid on Craster's Keep",
+    "description": "Jon leads volunteers against the mutineers squatting at Craster's. Jon kills Karl Tanner through the back of the skull; Bran, held captive yards away, wargs Hodor to snap Locke's neck and slips away unseen.",
+    "type": "battle",
+    "season": 4, "episode": 5, "episodeTitle": "First of His Name",
+    "locationId": "crasters-keep",
+    "characters": ["jon", "bran", "karl-tanner", "locke", "hodor", "meera", "jojen"],
+    "importance": 2
+  },
+  {
+    "id": "s04e06-tyrions-trial",
+    "title": "I demand trial by combat",
+    "description": "Paraded before a rigged court — Shae's testimony the cruelest cut — Tyrion detonates: he wishes he had let Stannis kill them all, and demands trial by combat.",
+    "type": "political",
+    "season": 4, "episode": 6, "episodeTitle": "The Laws of Gods and Men",
+    "locationId": "kings-landing",
+    "characters": ["tyrion", "tywin", "cersei", "jaime", "shae", "varys"],
+    "importance": 1
+  },
+  {
+    "id": "s04e06-braavos-iron-bank",
+    "title": "Stannis before the Iron Bank",
+    "description": "Stannis and Davos cross the Narrow Sea to petition the Iron Bank of Braavos. Davos's honest ledger of Stannis's word wins the loan that rebuilds his cause.",
+    "type": "political",
+    "season": 4, "episode": 6, "episodeTitle": "The Laws of Gods and Men",
+    "locationId": "braavos",
+    "characters": ["stannis", "davos", "tycho"],
+    "importance": 3
+  },
+  {
+    "id": "s04e07-moon-door",
+    "title": "Lysa and the Moon Door",
+    "description": "Lysa Arryn, mad with jealousy, nearly pushes Sansa through the Moon Door. Littlefinger talks her down, tells her he has only ever loved one woman — 'your sister' — and shoves her into the sky.",
+    "type": "death",
+    "season": 4, "episode": 7, "episodeTitle": "Mockingbird",
+    "locationId": "eyrie",
+    "characters": ["lysa", "littlefinger", "sansa", "robin"],
+    "importance": 1
+  },
+  {
+    "id": "s04e08-oberyn-vs-mountain",
+    "title": "The Mountain and the Viper",
+    "description": "Oberyn Martell dances circles around Gregor Clegane demanding a confession for Elia — and gets it, as the Mountain crushes his skull with his bare hands. Tyrion is condemned.",
+    "type": "death",
+    "season": 4, "episode": 8, "episodeTitle": "The Mountain and the Viper",
+    "locationId": "kings-landing",
+    "characters": ["oberyn", "mountain", "tyrion", "ellaria", "tywin"],
+    "importance": 1
+  },
+  {
+    "id": "s04e08-moat-cailin-falls",
+    "title": "Reek takes Moat Cailin",
+    "description": "Ramsay sends Theon, playing his old self, to talk the ironborn garrison of Moat Cailin into surrender — then flays them anyway. Roose grants his bastard the Bolton name.",
+    "type": "political",
+    "season": 4, "episode": 8, "episodeTitle": "The Mountain and the Viper",
+    "locationId": "moat-cailin",
+    "characters": ["ramsay", "theon", "roose"],
+    "importance": 3
+  },
+  {
+    "id": "s04e09-battle-of-castle-black",
+    "title": "The Battle of Castle Black",
+    "description": "Mance's hundred thousand hit the Wall: giants and mammoths at the gate, Thenns over the walls. The scythe sweeps climbers off the ice; Grenn's six hold the tunnel against a giant; Ygritte dies in Jon's arms as the free folk break.",
+    "type": "battle",
+    "season": 4, "episode": 9, "episodeTitle": "The Watchers on the Wall",
+    "locationId": "castle-black",
+    "characters": ["jon", "ygritte", "tormund", "alliser", "samwell", "grenn", "pyp", "olly", "wun-wun"],
+    "importance": 1
+  },
+  {
+    "id": "s04e10-stannis-saves-the-wall",
+    "title": "Stannis descends on Mance",
+    "description": "As Jon parleys with Mance beyond the Wall, Stannis's cavalry sweeps out of the treeline in two columns and rolls up the wildling camp in minutes. The King-Beyond-the-Wall kneels... standing up.",
+    "type": "battle",
+    "season": 4, "episode": 10, "episodeTitle": "The Children",
+    "coords": [18.6, 35.6],
+    "characters": ["stannis", "davos", "jon", "mance", "melisandre"],
+    "importance": 2
+  },
+  {
+    "id": "s04e10-brans-arrival-cave",
+    "title": "The three-eyed raven's cave",
+    "description": "Skeletal wights erupt from the snow at the great weirwood. Jojen is stabbed to death; a child of the forest burns the dead and leads Bran below, to the man grown into the roots — 'you will never walk again, but you will fly.'",
+    "type": "supernatural",
+    "season": 4, "episode": 10, "episodeTitle": "The Children",
+    "coords": [13.8, 40.2],
+    "characters": ["bran", "jojen", "meera", "hodor", "leaf", "three-eyed-raven"],
+    "importance": 2
+  },
+  {
+    "id": "s04e10-brienne-vs-hound",
+    "title": "Brienne against the Hound",
+    "description": "Brienne finally finds Arya — and the Hound in her path. Their brutal cliffside brawl ends with Sandor broken below the rocks, begging for death Arya will not give.",
+    "type": "battle",
+    "season": 4, "episode": 10, "episodeTitle": "The Children",
+    "coords": [20.4, 11.6],
+    "characters": ["brienne", "hound", "arya", "podrick"],
+    "importance": 2
+  },
+  {
+    "id": "s04e10-tywin-dies",
+    "title": "Tywin on the privy",
+    "description": "Freed by Jaime, Tyrion detours through the Tower of the Hand, strangles Shae in his father's bed, and puts two crossbow bolts in Tywin Lannister on the privy. A Lannister always pays his debts.",
+    "type": "death",
+    "season": 4, "episode": 10, "episodeTitle": "The Children",
+    "locationId": "kings-landing",
+    "characters": ["tyrion", "tywin", "shae", "jaime", "varys"],
+    "importance": 1
+  },
+  {
+    "id": "s04e10-arya-sails",
+    "title": "Arya sails for Braavos",
+    "description": "Arya rides to the coast, shows a Braavosi captain the iron coin, and speaks the words: valar morghulis. The sails fill for the Free City.",
+    "type": "journey",
+    "season": 4, "episode": 10, "episodeTitle": "The Children",
+    "locationId": "saltpans",
+    "characters": ["arya", "ternesio"],
+    "importance": 2
+  }
+]

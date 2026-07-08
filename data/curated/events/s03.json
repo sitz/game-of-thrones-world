@@ -1,0 +1,222 @@
+[
+  {
+    "id": "s03e01-mances-tent",
+    "title": "Jon before the King-Beyond-the-Wall",
+    "description": "Ygritte brings Jon to the free folk's great camp, where he kneels to the wrong man before meeting Mance Rayder — and buys his life by claiming he wants to fight for the living.",
+    "type": "political",
+    "season": 3, "episode": 1, "episodeTitle": "Valar Dohaeris",
+    "coords": [14.8, 38.2],
+    "characters": ["jon", "mance", "ygritte", "tormund"],
+    "importance": 3
+  },
+  {
+    "id": "s03e01-dany-sails-to-astapor",
+    "title": "Daenerys comes to Astapor",
+    "description": "Daenerys sails into Slaver's Bay to buy an army — and is shown the Unsullied, eight thousand eunuch soldiers who feel no pain and know no fear.",
+    "type": "journey",
+    "season": 3, "episode": 1, "episodeTitle": "Valar Dohaeris",
+    "locationId": "astapor",
+    "characters": ["daenerys", "jorah", "kraznys", "missandei", "barristan"],
+    "importance": 3
+  },
+  {
+    "id": "s03e02-arya-meets-brotherhood",
+    "title": "The Brotherhood finds Arya",
+    "description": "Thoros of Myr and the Brotherhood Without Banners scoop up Arya, Gendry and Hot Pie at an inn — and the Hound, dragged in as a prisoner, names her a Stark before them all.",
+    "type": "other",
+    "season": 3, "episode": 2, "episodeTitle": "Dark Wings, Dark Words",
+    "coords": [16.2, 8.4],
+    "characters": ["arya", "thoros", "gendry", "hound", "hot-pie"],
+    "importance": 3
+  },
+  {
+    "id": "s03e03-jaime-loses-his-hand",
+    "title": "Jaime loses his sword hand",
+    "description": "Locke's men take Jaime and Brienne on the road. When Jaime talks himself too clever, Locke pins him to a block and takes his golden sword hand at the wrist.",
+    "type": "other",
+    "season": 3, "episode": 3, "episodeTitle": "Walk of Punishment",
+    "coords": [15.7, 9.4],
+    "characters": ["jaime", "brienne", "locke"],
+    "importance": 1
+  },
+  {
+    "id": "s03e03-hoster-tully-funeral",
+    "title": "Farewell to Hoster Tully",
+    "description": "Robb's host gathers at Riverrun for Lord Hoster's river funeral — where Edmure's failed fire-arrows and failed battlefield judgment start fraying the young king's cause.",
+    "type": "death",
+    "season": 3, "episode": 3, "episodeTitle": "Walk of Punishment",
+    "locationId": "riverrun",
+    "characters": ["robb", "catelyn", "edmure", "blackfish", "hoster-tully"],
+    "importance": 3
+  },
+  {
+    "id": "s03e04-dracarys",
+    "title": "Dracarys — the sack of Astapor",
+    "description": "Daenerys trades Drogon for the Unsullied, takes the whip, and speaks Valyrian the slavers never dreamed she knew. Drogon burns Kraznys; the Unsullied sack the masters and march out free men.",
+    "type": "sack",
+    "season": 3, "episode": 4, "episodeTitle": "And Now His Watch Is Ended",
+    "locationId": "astapor",
+    "characters": ["daenerys", "kraznys", "missandei", "grey-worm", "drogon", "unsullied"],
+    "importance": 1
+  },
+  {
+    "id": "s03e04-mutiny-at-crasters",
+    "title": "Mutiny at Craster's Keep",
+    "description": "Starving Night's Watch brothers turn on their host and their commander. Craster dies on a knife, and Lord Commander Jeor Mormont is stabbed in the back by Rast. Sam flees with Gilly and her son.",
+    "type": "death",
+    "season": 3, "episode": 4, "episodeTitle": "And Now His Watch Is Ended",
+    "locationId": "crasters-keep",
+    "characters": ["jeor", "craster", "samwell", "gilly", "karl-tanner"],
+    "importance": 2
+  },
+  {
+    "id": "s03e05-beric-vs-hound",
+    "title": "Trial by fire in the hollow hill",
+    "description": "The Brotherhood tries the Hound by combat against Beric Dondarrion and his flaming sword. Sandor wins and walks free — and Arya watches Thoros pray Beric back from his sixth death.",
+    "type": "battle",
+    "season": 3, "episode": 5, "episodeTitle": "Kissed by Fire",
+    "coords": [15.9, 7.8],
+    "characters": ["hound", "beric", "thoros", "arya"],
+    "importance": 3
+  },
+  {
+    "id": "s03e05-karstark-executed",
+    "title": "Robb executes Lord Karstark",
+    "description": "Rickard Karstark murders two Lannister boy hostages in their cell. Robb takes his head himself — justice that costs him half his army.",
+    "type": "death",
+    "season": 3, "episode": 5, "episodeTitle": "Kissed by Fire",
+    "locationId": "riverrun",
+    "characters": ["robb", "rickard-karstark", "catelyn", "edmure", "talisa"],
+    "importance": 2
+  },
+  {
+    "id": "s03e05-jaime-confession",
+    "title": "The Kingslayer's confession",
+    "description": "In the baths of Harrenhal, feverish and one-handed, Jaime tells Brienne the truth of the day he killed Aerys — the wildfire under the city, the pyromancers, the choice no one thanked him for.",
+    "type": "other",
+    "season": 3, "episode": 5, "episodeTitle": "Kissed by Fire",
+    "locationId": "harrenhal",
+    "characters": ["jaime", "brienne"],
+    "importance": 2
+  },
+  {
+    "id": "s03e06-the-climb",
+    "title": "Climbing the Wall",
+    "description": "Jon, Ygritte and Tormund's raiding party scale seven hundred feet of ice. When a sheet of the Wall shears away and their line is cut, Jon hauls Ygritte back from the fall — and they kiss atop the world.",
+    "type": "journey",
+    "season": 3, "episode": 6, "episodeTitle": "The Climb",
+    "coords": [17.9, 35.0],
+    "characters": ["jon", "ygritte", "tormund"],
+    "importance": 2
+  },
+  {
+    "id": "s03e07-the-bear-pit",
+    "title": "The bear and the maiden fair",
+    "description": "Locke throws Brienne into Harrenhal's bear pit with a wooden sword. Jaime, already freed, turns back and leaps in unarmed to pull her out.",
+    "type": "other",
+    "season": 3, "episode": 7, "episodeTitle": "The Bear and the Maiden Fair",
+    "locationId": "harrenhal",
+    "characters": ["jaime", "brienne", "locke"],
+    "importance": 2
+  },
+  {
+    "id": "s03e08-sam-the-slayer",
+    "title": "Sam kills a White Walker",
+    "description": "A Walker comes for Gilly's son at a weirwood grove. Samwell Tarly, the self-professed coward, drives a dragonglass dagger into it and watches it shatter into ice.",
+    "type": "supernatural",
+    "season": 3, "episode": 8, "episodeTitle": "Second Sons",
+    "coords": [17.3, 36.2],
+    "characters": ["samwell", "gilly", "white-walkers"],
+    "importance": 2
+  },
+  {
+    "id": "s03e08-second-sons",
+    "title": "Daario turns his cloak",
+    "description": "Sent to kill Daenerys, the sellsword Daario Naharis brings her the heads of his own captains instead, and the Second Sons change sides outside Yunkai.",
+    "type": "political",
+    "season": 3, "episode": 8, "episodeTitle": "Second Sons",
+    "locationId": "yunkai",
+    "characters": ["daario", "daenerys", "jorah", "grey-worm", "second-sons", "mero"],
+    "importance": 3
+  },
+  {
+    "id": "s03e08-gendry-leeched",
+    "title": "King's blood",
+    "description": "Melisandre seduces and leeches Gendry at Dragonstone, and Stannis casts three leeches into the fire — naming Robb Stark, Balon Greyjoy and Joffrey Baratheon.",
+    "type": "supernatural",
+    "season": 3, "episode": 8, "episodeTitle": "Second Sons",
+    "locationId": "dragonstone",
+    "characters": ["melisandre", "gendry", "stannis", "davos"],
+    "importance": 3
+  },
+  {
+    "id": "s03e09-fall-of-yunkai",
+    "title": "Yunkai opens its gates",
+    "description": "Daario, Jorah and Grey Worm take the back gate by night and hold it against the city's slave soldiers until the army pours through. The Yellow City falls to Daenerys.",
+    "type": "battle",
+    "season": 3, "episode": 9, "episodeTitle": "The Rains of Castamere",
+    "locationId": "yunkai",
+    "characters": ["daario", "jorah", "grey-worm", "daenerys"],
+    "importance": 2
+  },
+  {
+    "id": "s03e09-red-wedding",
+    "title": "The Red Wedding",
+    "description": "Under guest right at Edmure's wedding feast, Walder Frey and Roose Bolton slaughter the King in the North. Talisa is stabbed with her unborn child; Robb dies with 'the Lannisters send their regards'; Catelyn's throat is cut over the din of The Rains of Castamere.",
+    "type": "death",
+    "season": 3, "episode": 9, "episodeTitle": "The Rains of Castamere",
+    "locationId": "twins",
+    "characters": ["robb", "catelyn", "talisa", "walder-frey", "roose", "edmure", "blackfish"],
+    "importance": 1
+  },
+  {
+    "id": "s03e09-arya-at-the-twins",
+    "title": "Arya at the gates of the Twins",
+    "description": "Arya arrives with the Hound in time to see the massacre spill into the camps and Grey Wind shot in his pen. Sandor knocks her out to carry her clear.",
+    "type": "escape",
+    "season": 3, "episode": 9, "episodeTitle": "The Rains of Castamere",
+    "locationId": "twins",
+    "characters": ["arya", "hound"],
+    "importance": 2
+  },
+  {
+    "id": "s03e10-king-in-the-north-mockery",
+    "title": "The King in the North — desecrated",
+    "description": "Frey and Bolton men parade Robb Stark's corpse with Grey Wind's head sewn to it. Arya's first grown kill follows: a soldier boasting of the deed.",
+    "type": "death",
+    "season": 3, "episode": 10, "episodeTitle": "Mhysa",
+    "locationId": "twins",
+    "characters": ["arya", "hound", "robb"],
+    "importance": 2
+  },
+  {
+    "id": "s03e10-ramsay-reveals-reek",
+    "title": "Reek",
+    "description": "The Dreadfort's flayer reveals himself as Roose Bolton's bastard. Theon — toe by toe, finger by finger, and worse — is broken into a creature named Reek.",
+    "type": "other",
+    "season": 3, "episode": 10, "episodeTitle": "Mhysa",
+    "locationId": "dreadfort",
+    "characters": ["ramsay", "theon", "yara", "balon"],
+    "importance": 2
+  },
+  {
+    "id": "s03e10-davos-frees-gendry",
+    "title": "Davos frees Gendry",
+    "description": "Rather than let Stannis burn a king's bastard, Davos rows Gendry out of Dragonstone by night and points him at King's Landing — 'don't stop rowing.'",
+    "type": "escape",
+    "season": 3, "episode": 10, "episodeTitle": "Mhysa",
+    "locationId": "dragonstone",
+    "characters": ["davos", "gendry", "stannis", "melisandre"],
+    "importance": 3
+  },
+  {
+    "id": "s03e10-mhysa",
+    "title": "Mhysa",
+    "description": "The freed slaves of Yunkai pour out of the city and lift Daenerys on their hands, calling her mother. Her dragons wheel overhead.",
+    "type": "political",
+    "season": 3, "episode": 10, "episodeTitle": "Mhysa",
+    "locationId": "yunkai",
+    "characters": ["daenerys", "drogon", "missandei", "jorah"],
+    "importance": 2
+  }
+]

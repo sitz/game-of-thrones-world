@@ -1,0 +1,358 @@
+[
+  {
+    "id": 15,
+    "slug": "harrenhal",
+    "name": "Harrenhal",
+    "region": "The Riverlands",
+    "allegiance": "Contested",
+    "description": "Greatest and unluckiest castle in Westeros, its towers melted by dragonfire three centuries ago. Arya served Tywin here as cupbearer; Jaime lost a hand nearby, confessed in its baths and leapt into its bear pit for Brienne.",
+    "firstAppearance": { "season": 2, "episode": 4 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 32,
+    "slug": "riverrun",
+    "name": "Riverrun",
+    "region": "The Riverlands",
+    "allegiance": "House Tully",
+    "description": "Moated seat of House Tully at the joining of two rivers. Robb was proclaimed King in the North here; years later Jaime ended the Blackfish's last stand by turning Edmure against his own walls.",
+    "firstAppearance": { "season": 3, "episode": 3 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 145,
+    "slug": "twins",
+    "name": "The Twins",
+    "aliases": ["The Crossing", "House Frey"],
+    "region": "The Riverlands",
+    "allegiance": "House Frey",
+    "description": "Twin castles bridging the Green Fork, toll-gate of the north and seat of Walder Frey. The Red Wedding drowned its hall in Stark blood — and Arya Stark returned twice to collect the debt.",
+    "firstAppearance": { "season": 3, "episode": 9 },
+    "showCanon": "shown",
+    "rankOverride": 4
+  },
+  {
+    "id": 38,
+    "slug": "crossroads-inn",
+    "name": "Crossroads Inn",
+    "aliases": ["Inn at the Crossroads"],
+    "region": "The Riverlands",
+    "description": "The famous inn where the kingsroad meets the river road. Catelyn seized Tyrion here; Arya reclaimed Needle from Polliver here; and Hot Pie bakes here still, twice pointing Brienne and Arya on their way.",
+    "firstAppearance": { "season": 1, "episode": 4 },
+    "showCanon": "shown",
+    "type": "Landmark",
+    "rankOverride": 3
+  },
+  {
+    "id": 18,
+    "slug": "stoney-sept",
+    "name": "Stoney Sept",
+    "region": "The Riverlands",
+    "description": "Largest town of the riverlands, remembered for the Battle of the Bells in Robert's Rebellion. Book background in the show's era.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 8,
+    "slug": "high-heart",
+    "name": "High Heart",
+    "region": "The Riverlands",
+    "description": "Sacred hill ringed by weirwood stumps, haunted by old gods' dreams. The Brotherhood's ghost-seeress dwells here in the books; the show keeps only its wild riverland setting.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 19,
+    "slug": "hollow-hill",
+    "name": "Hollow Hill",
+    "region": "The Riverlands",
+    "description": "Hidden cave-hall of the Brotherhood Without Banners, where the Hound was tried by fire against Beric Dondarrion and Arya watched a dead man rise again.",
+    "firstAppearance": { "season": 3, "episode": 5 },
+    "showCanon": "shown",
+    "type": "Landmark",
+    "rankOverride": 2
+  },
+  {
+    "id": 126,
+    "slug": "stone-mill",
+    "name": "Stone Mill",
+    "region": "The Riverlands",
+    "description": "Mill on the Red Fork where Edmure Tully threw back the Mountain's raiders — a 'victory' that wrecked Robb's trap and cost the Stark cause dearly.",
+    "firstAppearance": { "season": 3, "episode": 3 },
+    "showCanon": "mentioned",
+    "rankOverride": 2
+  },
+  {
+    "id": 34,
+    "slug": "darry",
+    "name": "Darry",
+    "region": "The Riverlands",
+    "allegiance": "House Darry",
+    "description": "Castle of House Darry near the kingsroad. The confrontation over Arya's direwolf happened in its lands in Season 1. Otherwise book background.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 42,
+    "slug": "maidenpool",
+    "name": "Maidenpool",
+    "region": "The Riverlands",
+    "allegiance": "House Mooton",
+    "description": "Port town on the Bay of Crabs where Florian first saw Jonquil bathing, or so the songs say. Book background in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 144,
+    "slug": "seagard",
+    "name": "Seagard",
+    "region": "The Riverlands",
+    "allegiance": "House Mallister",
+    "description": "Fortified port of House Mallister, raised to guard against ironborn raids. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 127,
+    "slug": "stone-hedge",
+    "name": "Stone Hedge",
+    "region": "The Riverlands",
+    "allegiance": "House Bracken",
+    "description": "Seat of House Bracken on the Red Fork, ancient rivals of the Blackwoods across the river. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 33,
+    "slug": "raventree-hall",
+    "name": "Raventree Hall",
+    "region": "The Riverlands",
+    "allegiance": "House Blackwood",
+    "description": "Seat of House Blackwood beneath a dead weirwood full of ravens. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 21,
+    "slug": "acorn-hall",
+    "name": "Acorn Hall",
+    "region": "The Riverlands",
+    "allegiance": "House Smallwood",
+    "description": "Keep of House Smallwood in the riverland woods, a stop on Arya's book travels with the Brotherhood. Background in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 22,
+    "slug": "pinkmaiden",
+    "name": "Pinkmaiden",
+    "region": "The Riverlands",
+    "allegiance": "House Piper",
+    "description": "Castle of House Piper on the Red Fork. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 10,
+    "slug": "antlers",
+    "name": "Antlers",
+    "region": "The Riverlands",
+    "allegiance": "House Buckwell",
+    "description": "Castle of House Buckwell northeast of King's Landing. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 6,
+    "slug": "sows-horn",
+    "name": "Sow's Horn",
+    "region": "The Riverlands",
+    "allegiance": "House Hogg",
+    "description": "Holdfast of House Hogg near the crownland border. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 5,
+    "slug": "brindlewood",
+    "name": "Brindlewood",
+    "region": "The Riverlands",
+    "description": "Village on the kingsroad approach to King's Landing. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 12,
+    "slug": "ivy-inn",
+    "name": "Ivy Inn",
+    "region": "The Riverlands",
+    "description": "Roadside inn on the kingsroad south of the Trident. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 13,
+    "slug": "village",
+    "name": "Trident Village",
+    "region": "The Riverlands",
+    "description": "One of the countless riverland villages burned and re-burned as armies crossed the Trident — the war's quiet casualties.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 14,
+    "slug": "holdfast",
+    "name": "Riverlands Holdfast",
+    "region": "The Riverlands",
+    "description": "Fortified refuge typical of the riverland smallfolk, offering thin protection from the War of the Five Kings.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 16,
+    "slug": "rushing-falls",
+    "name": "Rushing Falls",
+    "region": "The Riverlands",
+    "description": "Falls of the upper Blackwater Rush. Book background geography.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 17,
+    "slug": "tumblers-falls",
+    "name": "Tumbler's Falls",
+    "region": "The Riverlands",
+    "description": "River town at the falls of the Blackwater Rush. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 20,
+    "slug": "sept",
+    "name": "Riverland Sept",
+    "region": "The Riverlands",
+    "description": "Country sept of the riverlands — kin to the quiet septry where the Hound found brief peace with Brother Ray's flock before the Brotherhood's renegades came.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 23,
+    "slug": "mummers-ford",
+    "name": "Mummer's Ford",
+    "region": "The Riverlands",
+    "description": "Ford on the Red Fork where, in the books, Beric Dondarrion's party was ambushed by the Mountain — the errand Ned sent him on in Season 1.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 24,
+    "slug": "sherrer",
+    "name": "Sherrer",
+    "region": "The Riverlands",
+    "description": "Village put to the sword in the Mountain's raids — its survivors petitioned Ned Stark on the Iron Throne in Season 1.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 25,
+    "slug": "wendish-town",
+    "name": "Wendish Town",
+    "region": "The Riverlands",
+    "description": "Riverland town burned in Gregor Clegane's raids, named among the ruins reported to the Iron Throne.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 26,
+    "slug": "lord-goodbrooks-village",
+    "name": "Lord Goodbrook's Village",
+    "region": "The Riverlands",
+    "description": "Village of a minor riverland house. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 27,
+    "slug": "sallydance",
+    "name": "Sallydance",
+    "region": "The Riverlands",
+    "description": "Riverland village of the books, plundered in the war. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 28,
+    "slug": "lady-of-the-leaves",
+    "name": "Lady of the Leaves' Village",
+    "region": "The Riverlands",
+    "description": "Hidden treetop village of war refugees from the books. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 29,
+    "slug": "lord-lychesters-keep",
+    "name": "Lord Lychester's Keep",
+    "region": "The Riverlands",
+    "description": "Small keep of a broken riverland house. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 30,
+    "slug": "unnamed-village",
+    "name": "Trident Hamlet",
+    "region": "The Riverlands",
+    "description": "Nameless hamlet of the war-torn Trident country. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 31,
+    "slug": "inn-they-ley-with-lions",
+    "name": "Inn of the Lion Banner",
+    "region": "The Riverlands",
+    "description": "Roadside inn that hosted Lannister soldiery in the war years — the kind of place Arya and the Hound learned to eat at quietly.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 35,
+    "slug": "inn-of-the-kneeling-man",
+    "name": "Inn of the Kneeling Man",
+    "region": "The Riverlands",
+    "description": "Trident inn named for the king who knelt to Aegon the Conqueror. In the books, Arya's party is taken by the Brotherhood here.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 36,
+    "slug": "bwb-hideout",
+    "name": "Brotherhood Hideout",
+    "region": "The Riverlands",
+    "description": "One of the Brotherhood Without Banners' scattered boltholes in the riverland hills — the outlaws who fight for the smallfolk of no king.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 37,
+    "slug": "lort-harroways-town",
+    "name": "Lord Harroway's Town",
+    "region": "The Riverlands",
+    "description": "Trident crossing town of the books, half-drowned by the wars' seasons. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 40,
+    "slug": "quiet-isle",
+    "name": "Quiet Isle",
+    "region": "The Riverlands",
+    "description": "Monastic island at the mouth of the Trident where broken men heal in silence. The show's Brother Ray sept storyline borrows its spirit.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 128,
+    "slug": "fairmarket",
+    "name": "Fairmarket",
+    "region": "The Riverlands",
+    "description": "Market town on the Blue Fork. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 129,
+    "slug": "oldstones",
+    "name": "Oldstones",
+    "region": "The Riverlands",
+    "description": "Ruined hilltop castle of the ancient river kings, where in the books Robb holds council. Background in the show.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 130,
+    "slug": "palisade-village",
+    "name": "Palisade Village",
+    "region": "The Riverlands",
+    "description": "Stockaded village of the northern riverlands. Book background only.",
+    "showCanon": "mentioned"
+  },
+  {
+    "id": 190,
+    "slug": "pennytree",
+    "name": "Pennytree",
+    "region": "The Riverlands",
+    "description": "Village around an ancient oak studded with pennies for luck. Book background only.",
+    "showCanon": "mentioned"
+  }
+]
